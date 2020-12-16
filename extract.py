@@ -20,7 +20,7 @@ except:
 
 tables = ["cetacei", "tartarughe"]
 
-# Eliminazione file log esistente
+# Eliminazione file di log esistente
 if os.path.exists("log.txt"):
     os.remove("log.txt")
 
