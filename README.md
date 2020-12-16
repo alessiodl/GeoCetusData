@@ -2,7 +2,7 @@
 
 Dati pubblici dalla banca dati del Sistema Informativo <a href="https://geocetus.it" target="_blank">GeoCetus</a>
 
-<img src="LogoGeoCetus2020_compact_small.png"/></img>
+<img src="img/LogoGeoCetus2020_compact_small.png"/></img>
 
 GeoCetus &eacute; un progetto volontario nato nel 2012, ideato e sviluppato dal <a href="http://centrostudicetacei.it" target="_blank">Centro Studi Cetacei</a> al fine di creare una <strong>banca dati georeferenziata degli spiaggiamenti</strong> e degli interventi effettuati su cetacei e tartarughe marine lungo le coste italiane ed un **portale per la sua fruizione**. 
 
