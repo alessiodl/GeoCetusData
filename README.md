@@ -10,10 +10,10 @@ Siamo convinti che i dati debbano essere un patrimonio a disposizione della comu
 
 Per questa ragione il contenuto del database di GeoCetus é <a href="http://it.wikipedia.org/wiki/Dati_aperti" target="_blank">libero</a> e viene distribuito con <a href="http://creativecommons.org/licenses/by-sa/3.0/it/" target="_blank">licenza</a> Creative Commons.
 
-## Cetacei
+## Dataset Cetacei
 https://github.com/alessiodl/GeoCetusData/blob/main/data/csv/cetacei.csv
 https://github.com/alessiodl/GeoCetusData/blob/main/data/geo/cetacei.geojson
 
-## Tartarughr
+## Dataset Tartarughe
 https://github.com/alessiodl/GeoCetusData/blob/main/data/csv/tartarughe.csv
 https://github.com/alessiodl/GeoCetusData/blob/main/data/geo/tartarughe.geojson
