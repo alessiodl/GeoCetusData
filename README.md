@@ -9,3 +9,11 @@ GeoCetus &eacute; un progetto volontario nato nel 2012, ideato e sviluppato dal 
 Siamo convinti che i dati debbano essere un patrimonio a disposizione della comunit&agrave; perché possano contribuire a creare, accrescere e diffondere la conoscenza. Un dato, se condiviso, aumenta anche il valore del lavoro svolto per raccoglierlo ed organizzarlo.
 
 Per questa ragione il contenuto del database di GeoCetus é <a href="http://it.wikipedia.org/wiki/Dati_aperti" target="_blank">libero</a> e viene distribuito con <a href="http://creativecommons.org/licenses/by-sa/3.0/it/" target="_blank">licenza</a> Creative Commons.
+
+## Cetacei
+https://github.com/alessiodl/GeoCetusData/blob/main/data/csv/cetacei.csv
+https://github.com/alessiodl/GeoCetusData/blob/main/data/geo/cetacei.geojson
+
+## Tartarughr
+https://github.com/alessiodl/GeoCetusData/blob/main/data/csv/tartarughe.csv
+https://github.com/alessiodl/GeoCetusData/blob/main/data/geo/tartarughe.geojson
