@@ -1,6 +1,5 @@
 import json
 import psycopg2 as pspg
-import pandas as pd
 import geopandas as gpd
 import os
 
