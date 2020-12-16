@@ -22,7 +22,7 @@ tables = ["cetacei", "tartarughe"]
 
 # Apertura log e scrittura della data di esecuzione
 with open("log.txt", "a") as log:
-    log.write("Aggiornamento del {}\n".format(datetime.now()))
+    log.write("{}\n".format(datetime.now()))
     log.close()
 
 for table in tables:
