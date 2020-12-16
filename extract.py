@@ -2,8 +2,9 @@ import json
 import psycopg2 as pspg
 import geopandas as gpd
 import os
+from datetime import datetime
 
-f = open('config.json', 'r')
+f = open("config.json", "r")
 config = json.load(f)
 
 db_name = config['DB_NAME']
@@ -17,7 +18,12 @@ try:
 except:
     print("Connessione fallita")
 
-tables = ['cetacei', 'tartarughe']
+tables = ["cetacei", "tartarughe"]
+
+# Apertura log e scrittura della data di esecuzione
+with open("log.txt", "a") as log:
+    log.write("Aggiornamento del {}\n".format(datetime.now()))
+    log.close()
 
 for table in tables:
 
@@ -39,4 +45,9 @@ for table in tables:
     gdf['lat'] = gdf['geometry'].y
     df = gdf.drop('geometry', axis = 1)
     df.to_csv(os.path.join(r'data/csv', table+".csv"), encoding='utf-8', index=False)
+
+    # Log
+    with open("log.txt", "a") as log:
+        log.write("Dataset {} aggiornato con successo\n".format(table))
+        log.close()
 

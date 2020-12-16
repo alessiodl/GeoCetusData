@@ -1,3 +1,4 @@
 .DS_Store
 gc_env
 config.json
+run.sh
