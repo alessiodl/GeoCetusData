@@ -35,7 +35,7 @@ for table in tables:
     # Scrittura file GeoJSON
     gdf.to_file(os.path.join(r'data/geo', table+".geojson"), driver='GeoJSON')
 
-    # Scrittura file csv
+    # Scrittura file CSV
     gdf['lng'] = gdf['geometry'].x
     gdf['lat'] = gdf['geometry'].y
     df = gdf.drop('geometry', axis = 1)
