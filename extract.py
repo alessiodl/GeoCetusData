@@ -20,11 +20,6 @@ except:
 
 tables = ["cetacei", "tartarughe"]
 
-# Apertura log e scrittura della data di esecuzione
-with open("log.txt", "a") as log:
-    log.write("{}\n".format(datetime.now()))
-    log.close()
-
 for table in tables:
 
     # Estrazione dati da Postgres
@@ -48,10 +43,6 @@ for table in tables:
 
     # Log
     with open("log.txt", "a") as log:
-        log.write("Dataset {} aggiornato con successo\n".format(table))
+        log.write("Dataset {} aggiornato con successo il {}\n".format(table, datetime.now))
         log.close()
-
-with open("log.txt", "a") as log:
-    log.write("===========================================\n")
-    log.close()
 

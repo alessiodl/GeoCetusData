@@ -1,5 +1,3 @@
 
-2020-12-16 17:13:58.334115
-Dataset cetacei aggiornato con successo
-Dataset tartarughe aggiornato con successo
-===========================================
+Dataset cetacei aggiornato con successo il <built-in method now of type object at 0x92ab80>
+Dataset tartarughe aggiornato con successo il <built-in method now of type object at 0x92ab80>
