@@ -43,6 +43,6 @@ for table in tables:
 
     # Log
     with open("log.txt", "a") as log:
-        log.write("Dataset {} aggiornato con successo il {}\n".format(table, datetime.now))
+        log.write("Dataset {} aggiornato con successo il {}\n".format(table, datetime.now()))
         log.close()
 
