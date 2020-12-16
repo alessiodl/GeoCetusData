@@ -20,6 +20,10 @@ except:
 
 tables = ["cetacei", "tartarughe"]
 
+# Eliminazione file log esistente
+if os.path.exists("log.txt"):
+    os.remove("log.txt")
+
 for table in tables:
     # Estrazione dati da Postgres
     sql = """SELECT codice, data_rilievo, regione, provincia, comune, 
@@ -41,11 +45,6 @@ for table in tables:
     df.to_csv(os.path.join(r'data/csv', table+".csv"), encoding='utf-8', index=False)
 
     # Log
-
-    # Eliminazione file esistenti
-    if os.path.exists("log.txt"):
-        os.remove("log.txt")
-    
     with open("log.txt", "a") as log:
         log.write("Dataset {} aggiornato con successo il {}\n".format(table, datetime.now()))
         log.close()
