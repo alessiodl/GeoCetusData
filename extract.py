@@ -21,14 +21,6 @@ except:
 tables = ["cetacei", "tartarughe"]
 
 for table in tables:
-
-    # Eliminazione file esistenti
-    if os.path.exists(r"data/csv/"+table+".csv"):
-        os.remove(r"data/csv/"+table+".csv")
-
-    if os.path.exists(r"data/geo/"+table+".geojson"):
-        os.remove(r"data/geo/"+table+".geojson")
-
     # Estrazione dati da Postgres
     sql = """SELECT codice, data_rilievo, regione, provincia, comune, 
                     specie, cod_specie, sesso, lunghezza AS lunghezza_cm, tipo_lunghezza, condizioni,
@@ -49,9 +41,12 @@ for table in tables:
     df.to_csv(os.path.join(r'data/csv', table+".csv"), encoding='utf-8', index=False)
 
     # Log
-    '''
+
+    # Eliminazione file esistenti
+    if os.path.exists("log.txt"):
+        os.remove("log.txt")
+    
     with open("log.txt", "a") as log:
         log.write("Dataset {} aggiornato con successo il {}\n".format(table, datetime.now()))
         log.close()
-    '''
 
