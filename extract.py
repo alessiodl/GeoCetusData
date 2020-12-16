@@ -51,3 +51,7 @@ for table in tables:
         log.write("Dataset {} aggiornato con successo\n".format(table))
         log.close()
 
+with open("log.txt", "a") as log:
+    log.write("===========================================\n")
+    log.close()
+
