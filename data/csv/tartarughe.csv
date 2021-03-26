@@ -1,10 +1,10 @@
 codice,data_rilievo,regione,provincia,comune,specie,cod_specie,sesso,lunghezza_cm,tipo_lunghezza,condizioni,tag,tag_rilascio,interazione,segnalato_da,rilevatore,struttura_rilevatore,lng,lat
-CSC210325TCc1,2021-03-25,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,20.0,CCL,Vivo,,CSCIT244,ND,Guardia Costiera,Valentina Giuliani,Centro Studi Cetacei,15.06389,41.95349
 CSC210325TCc2,2021-03-25,Marche,Ancona,Falconara Marittima,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,13.36433,43.64575
+CSC210325TCc1,2021-03-25,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,20.0,CCL,Vivo,,CSCIT244,ND,Guardia Costiera,Valentina Giuliani,Centro Studi Cetacei,15.06389,41.95349
 CSC210324TCc7,2021-03-24,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,59.0,CCL,Morto,,,ND,Guardia Costiera,Gianluca Barbuto,Centro Studi Cetacei,15.062,41.95554
+CSC210324TCc2,2021-03-24,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,70.0,CCL,Morto,,,No,Guardia Costiera,William Di Nardo,CSC/ASL,14.28136,42.42826
 CSC210324TCc3,2021-03-24,Abruzzo,Chieti,San Salvo,Caretta caretta,1,ND,11.2,CCL,Vivo,,CSCIT241,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.75822,42.0779
 CSC210324TCc5,2021-03-24,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,71.9,CCL,Vivo,,CSCIT243,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.35713,42.53555
-CSC210324TCc2,2021-03-24,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,70.0,CCL,Morto,,,No,Guardia Costiera,William Di Nardo,CSC/ASL,14.28136,42.42826
 CSC210324TCc1,2021-03-24,Abruzzo,Teramo,Giulianova,Caretta caretta,1,M,32.5,CCL,Morto,,,ND,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,13.9694,42.75509
 CSC210324TCc4,2021-03-24,Molise,Campobasso,Termoli,Caretta caretta,1,ND,34.0,CCL,Vivo,,CSCIT242,ND,Guardia Costiera,Sara Triso,Centro Studi Cetacei,14.97056,42.00806
 CSC210323TCc1,2021-03-23,Marche,Pesaro e Urbino,Pesaro,Caretta caretta,1,ND,17.0,CCL,Vivo,,,Si,Guardia Costiera,Fondazione cetacea,Centro Studi Cetacei,12.963,43.882
