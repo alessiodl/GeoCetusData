@@ -1,5 +1,5 @@
 codice,data_rilievo,regione,provincia,comune,specie,cod_specie,sesso,lunghezza_cm,tipo_lunghezza,condizioni,tag,tag_rilascio,interazione,segnalato_da,rilevatore,struttura_rilevatore,lng,lat
-CSC210921CTt1,2021-09-21,Abruzzo,Teramo,Roseto degli Abruzzi,Tursiops truncatus,9,M,285.6,TOT,Morto,,,Si,Guardia Costiera,Ludovica Di Renzo,CSC/IZSAM,13.99048,42.71506
+CSC210921CTt1,2021-09-21,Abruzzo,Teramo,Roseto degli Abruzzi,Tursiops truncatus,9,M,2.85,TOT,Morto,,,Si,Guardia Costiera,Ludovica Di Renzo,CSC/IZSAM,13.99048,42.71506
 CSC210916CTt1,2021-09-16,Lazio,Roma,Ardea,Tursiops truncatus,9,M,291.0,TOT,Morto,,,ND,Guardia Costiera,Valerio Manfrini,Ambito Rete Tarta Lazio,12.54519,41.54167
 CSC210913CTt1,2021-09-13,Molise,Campobasso,Petacciato,Tursiops truncatus,9,M,160.4,TOT,Morto,,,ND,Guardia Costiera,Ludovica Di Renzo,CSC/IZSAM,14.8406,42.0418
 CSC210901CSc1,2021-09-01,Sardegna,Cagliari,Villaputzu,Stenella coeruleoalba,8,ND,100.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,9.64066,39.45
