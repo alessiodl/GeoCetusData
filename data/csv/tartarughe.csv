@@ -21,20 +21,20 @@ CSC211203TCc1,2021-12-03,Lazio,Roma,Roma,Caretta caretta,1,ND,57.0,CCL,Morto,,,N
 CSC211202TCc1,2021-12-02,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,73.0,CCL,Morto,,,Si,Motopeschereccio,Chiara Profico,Centro Studi Cetacei,14.34321,42.5469
 CSC211201TCc1,2021-12-01,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,58.0,CCL,Vivo,,CSCIT268,Si,Motopeschereccio,Claudia Borgatti,Centro Studi Cetacei,14.32566,42.50869
 CSC211130TCc1,2021-11-30,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,43.1,CCL,Vivo,,CSCIT267,Si,Motopeschereccio,Alfonso Chiariello,Centro Studi Cetacei,14.38253,42.4726
-CSC211125TCc1,2021-11-25,Abruzzo,Chieti,Ortona,Caretta caretta,1,F,78.2,CCL,Vivo,,CSCIT265,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.51839,42.45239
 CSC211125TCc2,2021-11-25,Abruzzo,Chieti,Ortona,Caretta caretta,1,ND,65.0,CCL,Vivo,,CSCIT266,Si,Motopeschereccio,Alfonso Chiariello,Centro Studi Cetacei,14.4774,42.42789
+CSC211125TCc1,2021-11-25,Abruzzo,Chieti,Ortona,Caretta caretta,1,F,78.2,CCL,Vivo,,CSCIT265,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.51839,42.45239
 CSC211124TCc1,2021-11-24,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,59.5,CCL,Vivo,,CSCIT264,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.36811,42.48152
 CSC211124TCc2,2021-11-24,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,43.3,CCL,Vivo,,CSCIT263,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.36811,42.48152
-CSC211123TCc1,2021-11-23,Abruzzo,Teramo,Martinsicuro,Caretta caretta,1,M,72.0,CCL,Morto,,,Si,Guardia Costiera,Ludovica Di Renzo,CSC/IZSAM,13.92337,42.87345
 CSC211123TCc2,2021-11-23,Emilia Romagna,Rimini,Bellaria-Igea Marina,Caretta caretta,1,ND,90.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,12.459,44.155
+CSC211123TCc1,2021-11-23,Abruzzo,Teramo,Martinsicuro,Caretta caretta,1,M,72.0,CCL,Morto,,,Si,Guardia Costiera,Ludovica Di Renzo,CSC/IZSAM,13.92337,42.87345
 CSC211123TCc3,2021-11-23,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.24055,44.70055
 CSC211120TCc2,2021-11-20,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.25166,44.67444
 CSC211120TCc1,2021-11-20,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.25166,44.67444
 CSC211118TCc2,2021-11-18,Emilia Romagna,Rimini,Bellaria-Igea Marina,Caretta caretta,1,ND,65.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.458,44.156
 CSC211118TCc1,2021-11-18,Emilia Romagna,Forli'-Cesena,Cesenatico,Caretta caretta,1,F,75.0,CCL,Vivo,,,Si,Motopeschereccio,Fondazione cetacea,Centro di Recupero,12.32151,44.17165
 CSC211117TCc2,2021-11-17,Marche,Ancona,Falconara Marittima,Caretta caretta,1,ND,85.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,13.35637,43.64794
-CSC211117TCc4,2021-11-17,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,68.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.25,44.671
 CSC211117TCc3,2021-11-17,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,68.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.251,44.674
+CSC211117TCc4,2021-11-17,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,68.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.25,44.671
 CSC211117TCc1,2021-11-17,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,68.8,CCL,Vivo,,CSCIT262,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.37937,42.46165
 CSC211117TCc5,2021-11-17,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,65.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.25,44.674
 CSC211116TCc5,2021-11-16,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,42.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.242,44.685
