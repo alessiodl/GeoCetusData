@@ -1,7 +1,7 @@
 codice,data_rilievo,regione,provincia,comune,specie,cod_specie,sesso,lunghezza_cm,tipo_lunghezza,condizioni,tag,tag_rilascio,interazione,segnalato_da,rilevatore,struttura_rilevatore,lng,lat
 CSC221023TCc1,2022-10-23,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,65.0,CCL,Morto,,,ND,Guardia Costiera,Massimo Genovesi,CSC/ASL,14.71937,42.13733
 CSC221020TCc1,2022-10-20,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,ND,36.5,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.17849,42.50176
-CSC221019TCc4,2022-10-19,Abruzzo,Chieti,San Salvo,Caretta caretta,1,ND,67.0,CCL,Morto,,,ND,Guardia Costiera,Massimo Genovesi,CSC/ASL,14.75644,42.07918
+CSC221019TCc4,2022-10-19,Abruzzo,Chieti,San Salvo,Caretta caretta,1,F,67.3,CCL,Morto,,,Si,Guardia Costiera,Massimo Genovesi,CSC/ASL,14.75644,42.07918
 CSC221019TCc3,2022-10-19,Marche,Fermo,Porto Sant'Elpidio,Caretta caretta,1,ND,102.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.75583,43.27
 CSC221019TCc1,2022-10-19,Abruzzo,Teramo,Roseto degli Abruzzi,Caretta caretta,1,ND,58.0,CCL,Morto,,,ND,Guardia Costiera,Francesca Trenta,Centro Studi Cetacei,14.01954,42.67376
 CSC221019TCc2,2022-10-19,Molise,Campobasso,Termoli,Caretta caretta,1,ND,65.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Diana,ASREM,14.94962,42.01124
