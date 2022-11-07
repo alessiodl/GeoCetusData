@@ -1,6 +1,6 @@
 codice,data_rilievo,regione,provincia,comune,specie,cod_specie,sesso,lunghezza_cm,tipo_lunghezza,condizioni,tag,tag_rilascio,interazione,segnalato_da,rilevatore,struttura_rilevatore,lng,lat
 CSC221106CTt2,2022-11-06,Abruzzo,Teramo,Pineto,Tursiops truncatus,9,M,226.0,TOT,Morto,,,ND,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,14.0885,42.58609
-CSC221106CTt1,2022-11-06,Abruzzo,Pescara,Pescara,Tursiops truncatus,9,ND,39.0,TOT,Morto,,,ND,Privato cittadino,Chiara Profico,Centro Studi Cetacei,14.1957,42.48646
+CSC221106CTt1,2022-11-06,Abruzzo,Pescara,Pescara,Tursiops truncatus,9,ND,,,Morto,,,ND,Privato cittadino,Chiara Profico,Centro Studi Cetacei,14.1957,42.48646
 CSC221102CSc1,2022-11-02,Abruzzo,Chieti,Ortona,Stenella coeruleoalba,8,F,189.0,TOT,Morto,,,No,Guardia Costiera,Giulia Mariani,Centro Studi Cetacei,14.41415,42.34208
 CSC221013CTt1,2022-10-13,Marche,Ascoli Piceno,San Benedetto del Tronto,Tursiops truncatus,9,M,200.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.88745,42.95701
 CSC221011CTt1,2022-10-11,Abruzzo,Chieti,Francavilla al Mare,Tursiops truncatus,9,F,160.5,TOT,Morto,,,No,Guardia Costiera,WILLIAM DI NARDO,CSC/ASL,14.28948,42.4224
