@@ -1,4 +1,5 @@
 codice,data_rilievo,regione,provincia,comune,specie,cod_specie,sesso,lunghezza_cm,tipo_lunghezza,condizioni,tag,tag_rilascio,interazione,segnalato_da,rilevatore,struttura_rilevatore,lng,lat
+CSC221127CTt1,2022-11-27,Abruzzo,Teramo,Martinsicuro,Tursiops truncatus,9,F,278.0,TOT,Morto,,,No,Privato cittadino,Gabriella Di Francesco,Istituto Zooprofilattico,13.92772,42.85592
 CSC221106CTt2,2022-11-06,Abruzzo,Teramo,Pineto,Tursiops truncatus,9,M,226.0,TOT,Morto,,,ND,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,14.0885,42.58609
 CSC221106CTt1,2022-11-06,Abruzzo,Pescara,Pescara,Tursiops truncatus,9,ND,,,Morto,,,ND,Privato cittadino,Chiara Profico,Centro Studi Cetacei,14.1957,42.48646
 CSC221102CSc1,2022-11-02,Abruzzo,Chieti,Ortona,Stenella coeruleoalba,8,F,189.0,TOT,Morto,,,No,Guardia Costiera,Giulia Mariani,Centro Studi Cetacei,14.41415,42.34208
@@ -18,8 +19,8 @@ CSC220216CSc1,2022-02-16,Lazio,Viterbo,Tarquinia,Stenella coeruleoalba,8,M,190.0
 CSC220215CSc1,2022-02-15,Lazio,Viterbo,Tarquinia,Stenella coeruleoalba,8,M,130.0,TOT,Morto,,,ND,Guardia Costiera,Maria Carla Lafiandra,Ambito Rete Tarta Lazio,11.73833,42.17
 CSC220124CTt1,2022-01-24,Abruzzo,Chieti,Ortona,Tursiops truncatus,9,ND,300.0,TOT,Morto,,,No,Guardia Costiera,William Di Nardo,CSC/ASL,14.43743,42.31666
 CSC220112CDd1,2022-01-12,Abruzzo,Teramo,Roseto degli Abruzzi,Delphinus delphis,3,F,180.0,TOT,Morto,,,ND,Privato cittadino,Claudia Borgatti,Centro Studi Cetacei,14.02085,42.67475
-CSC211116CTt2,2021-11-16,Emilia Romagna,Ferrara,Comacchio,Tursiops truncatus,9,M,285.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.24,44.693
 CSC211116CTt1,2021-11-16,Abruzzo,Chieti,Francavilla al Mare,Tursiops truncatus,9,M,300.0,TOT,Morto,,,No,Guardia Costiera,William Di Nardo,CSC/ASL,14.285,42.42616
+CSC211116CTt2,2021-11-16,Emilia Romagna,Ferrara,Comacchio,Tursiops truncatus,9,M,285.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.24,44.693
 CSC211115CTt1,2021-11-15,Lazio,Viterbo,Montalto di Castro,Tursiops truncatus,9,M,296.0,TOT,Morto,,,Si,Guardia Costiera,Non disponibile,Ambito Rete Tarta Lazio,11.46141,42.37408
 CSC211109CTt1,2021-11-09,Abruzzo,Teramo,Pineto,Tursiops truncatus,9,M,230.0,TOT,Morto,,,Si,Guardia Costiera,Claudia Borgatti,Centro Studi Cetacei,14.0947,42.57938
 CSC211029CTt1,2021-10-29,Abruzzo,Teramo,Silvi,Tursiops truncatus,9,M,210.0,TOT,Morto,,,ND,Guardia Costiera,Claudia Borgatti,Centro Studi Cetacei,14.11928,42.55231
@@ -28,8 +29,8 @@ CSC211025CSc1,2021-10-25,Abruzzo,Chieti,San Vito Chietino,Stenella coeruleoalba,
 CSC211013CTt1,2021-10-13,Marche,Ancona,Ancona,Tursiops truncatus,9,ND,150.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.453,43.611
 CSC211010CTt1,2021-10-10,Abruzzo,Teramo,Martinsicuro,Tursiops truncatus,9,F,223.0,TOT,Morto,,,ND,Guardia Costiera,Claudia Borgatti,Centro Studi Cetacei,13.92378,42.87159
 CSC211001CTt1,2021-10-01,Abruzzo,Teramo,Roseto degli Abruzzi,Tursiops truncatus,9,F,274.0,TOT,Morto,,,Si,Privato cittadino,Claudia Borgatti,Centro Studi Cetacei,13.99095,42.71867
-CSC210929CTt2,2021-09-29,Abruzzo,Chieti,Casalbordino,Tursiops truncatus,9,ND,247.0,TOT,Morto,,,Si,Guardia Costiera,Pietro Di Taranto,CSC/ASL,14.62688,42.19678
 CSC210929CTt1,2021-09-29,Abruzzo,Pescara,Città Sant'Angelo,Tursiops truncatus,9,F,160.0,TOT,Morto,,,ND,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,14.15047,42.52697
+CSC210929CTt2,2021-09-29,Abruzzo,Chieti,Casalbordino,Tursiops truncatus,9,ND,247.0,TOT,Morto,,,Si,Guardia Costiera,Pietro Di Taranto,CSC/ASL,14.62688,42.19678
 CSC210921CTt1,2021-09-21,Abruzzo,Teramo,Roseto degli Abruzzi,Tursiops truncatus,9,M,285.0,TOT,Morto,,,Si,Guardia Costiera,Ludovica Di Renzo,CSC/IZSAM,13.99048,42.71506
 CSC210916CTt1,2021-09-16,Lazio,Roma,Ardea,Tursiops truncatus,9,M,291.0,TOT,Morto,,,ND,Guardia Costiera,Valerio Manfrini,Ambito Rete Tarta Lazio,12.54519,41.54167
 CSC210913CTt1,2021-09-13,Molise,Campobasso,Petacciato,Tursiops truncatus,9,M,160.4,TOT,Morto,,,ND,Guardia Costiera,Ludovica Di Renzo,CSC/IZSAM,14.8406,42.0418
@@ -73,8 +74,8 @@ CSC200712CSc1,2020-07-12,Lazio,Latina,Latina,Stenella coeruleoalba,8,ND,0.0,TOT,
 CSC200711CSc1,2020-07-11,Lazio,Roma,Nettuno,Stenella coeruleoalba,8,ND,198.0,TOT,Morto,,,ND,Privato cittadino,Luigi De Gregorio,ASL,12.67782,41.45401
 CSC200708CTt1,2020-07-08,Abruzzo,Chieti,Ortona,Tursiops truncatus,9,F,133.0,TOT,Morto,,,Si,Guardia Costiera,William Di Nardo,CSC/ASL,14.34209,42.3942
 CSC200708CSc1,2020-07-08,Lazio,Latina,San Felice Circeo,Stenella coeruleoalba,8,M,195.0,TOT,Morto,,,ND,Privato cittadino,Benito Guglietta,ASL,13.10056,41.23423
-CSC200707CTt1,2020-07-07,Molise,Campobasso,Petacciato,Tursiops truncatus,9,ND,,,Morto,,,ND,Guardia Costiera,Gianluca Barbuto,Centro Studi Cetacei,14.89966,42.02156
 CSC200707CTt2,2020-07-07,Abruzzo,Chieti,Ortona,Tursiops truncatus,9,F,247.0,TOT,Morto,,,No,Guardia Costiera,William Di Nardo,CSC/ASL,14.44065,42.31275
+CSC200707CTt1,2020-07-07,Molise,Campobasso,Petacciato,Tursiops truncatus,9,ND,,,Morto,,,ND,Guardia Costiera,Gianluca Barbuto,Centro Studi Cetacei,14.89966,42.02156
 CSC200702CSc1,2020-07-02,Lazio,Roma,Ardea,Stenella coeruleoalba,8,ND,198.0,TOT,Morto,,,ND,Privato cittadino,Luigi De Gregorio,ASL,12.54854,41.53841
 CSC200701CSc1,2020-07-01,Lazio,Roma,Fiumicino,Stenella coeruleoalba,8,ND,0.0,TOT,Morto,,,ND,Guardia Costiera,Lino Serra,Guardia Costiera,12.1345,41.9202
 CSC200629CSc1,2020-06-29,Lazio,Roma,Fiumicino,Stenella coeruleoalba,8,ND,167.0,TOT,Morto,,,ND,Privato cittadino,Mario Casale,Guardia Costiera,12.21181,41.81278
@@ -82,8 +83,8 @@ CSC200628CSc1,2020-06-28,Lazio,Roma,Fiumicino,Stenella coeruleoalba,8,ND,190.0,T
 CSC200607CTt1,2020-06-07,Abruzzo,Chieti,Fossacesia,Tursiops truncatus,9,M,125.0,TOT,Morto,,,No,Guardia Costiera,Gabriella Ruffini,ASL,14.54127,42.2367
 CSC200528CSc1,2020-05-28,Abruzzo,Teramo,Pineto,Stenella coeruleoalba,8,F,187.0,TOT,Morto,,,ND,Privato cittadino,Claudia Borgatti,Centro Studi Cetacei,14.06233,42.61767
 CSC200527CSc1,2020-05-27,Sicilia,Catania,Catania,Stenella coeruleoalba,8,M,184.0,TOT,Morto,,,ND,Privato cittadino,Stefano Floridia,Associazione,15.08694,37.44694
-CSC200514CSc1,2020-05-14,Abruzzo,Chieti,Vasto,Stenella coeruleoalba,8,F,180.0,TOT,Morto,,,ND,Privato cittadino,Pietro Di Taranto,CSC/ASL,14.67265,42.18287
 CSC200514CSc2,2020-05-14,Sicilia,Catania,Catania,Stenella coeruleoalba,8,M,220.0,TOT,Morto,,,ND,Privato cittadino,Alessandra Raffa,Associazione,15.09036,37.41796
+CSC200514CSc1,2020-05-14,Abruzzo,Chieti,Vasto,Stenella coeruleoalba,8,F,180.0,TOT,Morto,,,ND,Privato cittadino,Pietro Di Taranto,CSC/ASL,14.67265,42.18287
 CSC200511CTt1,2020-05-11,Emilia Romagna,Ravenna,Ravenna,Tursiops truncatus,9,M,130.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.291,44.457
 CSC200511CTt2,2020-05-11,Emilia Romagna,Ravenna,Ravenna,Tursiops truncatus,9,ND,120.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Centro di Recupero,12.346,44.309
 CSC200508CSc1,2020-05-08,Molise,Campobasso,Petacciato,Stenella coeruleoalba,8,F,196.0,TOT,Morto,,,Si,Privato cittadino,Chiara Profico,Centro Studi Cetacei,14.89961,42.02143
@@ -286,8 +287,8 @@ CSC160614CTt1,2016-06-14,Molise,Campobasso,Termoli,Tursiops truncatus,9,M,285.0,
 CSC160610CSc1,2016-06-10,Calabria,Crotone,Melissa,Stenella coeruleoalba,8,F,125.0,TOT,Morto,,,ND,Guardia Costiera,Elena Madeo,Centro Studi Cetacei,17.11202,39.31856
 CSC160605CSc2,2016-06-05,Calabria,Cosenza,Mandatoriccio,Stenella coeruleoalba,8,F,120.0,TOT,Morto,,,ND,Guardia Costiera,Elena Madeo,Centro Studi Cetacei,16.87978,39.53231
 CSC160605CSc1,2016-06-05,Calabria,Vibo Valentia,Pizzo,Stenella coeruleoalba,8,ND,,,Morto,,,ND,ASP,Stefania Giglio,Centro Studi Cetacei,16.16604,38.73877
-CSC160511CTt1,2016-05-11,Abruzzo,Teramo,Martinsicuro,Tursiops truncatus,9,F,281.0,TOT,Morto,,,Si,Guardia Costiera,Ludovica Di Renzo,Centro Studi Cetacei,13.92169,42.8805
 CSC160511CTt2,2016-05-11,Lazio,Latina,San Felice Circeo,Tursiops truncatus,9,ND,310.0,TOT,Morto,,,ND,Guardia Costiera,Antonio Canale,Guardia Costiera,13.10058,41.2337
+CSC160511CTt1,2016-05-11,Abruzzo,Teramo,Martinsicuro,Tursiops truncatus,9,F,281.0,TOT,Morto,,,Si,Guardia Costiera,Ludovica Di Renzo,Centro Studi Cetacei,13.92169,42.8805
 CSC160508CZc1,2016-05-08,Calabria,Crotone,Isola di Capo Rizzuto,Ziphius cavirostris,10,F,220.0,TOT,Morto,,,ND,ASP,Stefania Giglio,Centro Studi Cetacei,17.09924,38.90095
 CSC160501CTt1,2016-05-01,Abruzzo,Teramo,Roseto degli Abruzzi,Tursiops truncatus,9,M,290.0,TOT,Morto,,,Si,Guardia Costiera,Claudia Borgatti,Centro Studi Cetacei,14.03806,42.65706
 CSC160426CSc2,2016-04-26,Calabria,Catanzaro,Lamezia Terme,Stenella coeruleoalba,8,ND,,,Morto,,,ND,ASP,Elena Madeo,Centro Studi Cetacei,16.22217,38.89306
@@ -416,8 +417,8 @@ CSC140425CTt1,2014-04-25,Abruzzo,Teramo,,Tursiops truncatus,9,ND,300.0,TOT,Morto
 CSC140330CSc1,2014-03-30,Calabria,Catanzaro,,Stenella coeruleoalba,8,F,163.0,TOT,Morto,,,ND,Centro Studi Cetacei,Stefania Giglio,Centro Studi Cetacei,16.22025,38.90846
 CSC140209CSc2,2014-02-09,Calabria,Catanzaro,,Stenella coeruleoalba,8,F,197.0,TOT,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,16.60502,38.81182
 CSC140209CSc1,2014-02-09,Calabria,Reggio di Calabria,,Stenella coeruleoalba,8,M,184.0,TOT,Morto,,,ND,Guardia Costiera,Elena Madeo,Centro Studi Cetacei,16.08277,37.94283
-CSC140124CSc1,2014-01-24,Calabria,Vibo Valentia,,Stenella coeruleoalba,8,F,205.0,TOT,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,15.83374,38.63833
 CSC140124CSc2,2014-01-24,Calabria,Vibo Valentia,,Stenella coeruleoalba,8,F,31.0,TOT,Morto,,,ND,Centro Studi Cetacei,Elena Madeo,Centro Studi Cetacei,15.83376,38.63833
+CSC140124CSc1,2014-01-24,Calabria,Vibo Valentia,,Stenella coeruleoalba,8,F,205.0,TOT,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,15.83374,38.63833
 CSC131204CTt1,2013-12-04,Calabria,Catanzaro,,Tursiops truncatus,9,M,201.0,TOT,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,16.57821,38.77995
 CSC131008CTt1,2013-10-08,Abruzzo,Teramo,,Tursiops truncatus,9,F,250.0,TOT,Morto,,,No,Guardia Costiera,Alfredo Di Domenicantonio,Centro Studi Cetacei,13.92607,42.86518
 CSC131003CTt1,2013-10-03,Abruzzo,Chieti,,Tursiops truncatus,9,F,273.0,TOT,Morto,,,No,Guardia Costiera,Giuseppe Torzi,ASL,14.77416,42.07209
@@ -490,8 +491,8 @@ CSC101230CSc1,2010-12-30,Campania,Napoli,,Stenella coeruleoalba,8,M,152.0,TOT,Mo
 CSC101228CSc1,2010-12-28,Campania,Salerno,,Stenella coeruleoalba,8,ND,185.0,TOT,Morto,,,ND,Guardia Costiera,Nicola Maio,ASL,15.00229,40.20819
 CSC101209CTt1,2010-12-09,Abruzzo,Teramo,,Tursiops truncatus,9,M,310.0,TOT,Morto,,,No,Guardia Costiera,Alfredo Di Domenicantonio,ASL,13.95273,42.78827
 CSC100818CPm1,2010-08-18,Sicilia,Catania,,Physeter macrocephalus,7,M,1450.0,TOT,Morto,,,ND,Guardia Costiera,Stefano Floridia,Universita di Catania,15.0899,37.401
-CSC100816CTt1,2010-08-16,Abruzzo,Teramo,,Tursiops truncatus,9,ND,,,Morto,,,No,Guardia Costiera,Alfredo Di Domenicantonio,ASL,13.95384,42.78705
 CSC100816CSc1,2010-08-16,Campania,Salerno,,Stenella coeruleoalba,8,ND,150.0,TOT,Morto,,,ND,Guardia Costiera,Nicola Maio,ASL,15.28201,40.05168
+CSC100816CTt1,2010-08-16,Abruzzo,Teramo,,Tursiops truncatus,9,ND,,,Morto,,,No,Guardia Costiera,Alfredo Di Domenicantonio,ASL,13.95384,42.78705
 CSC100810CTt2,2010-08-10,Abruzzo,Teramo,,Tursiops truncatus,9,M,240.0,TOT,Morto,,,No,Guardia Costiera,Alfredo Di Domenicantonio,ASL,13.94603,42.80209
 CSC100809CTt1,2010-08-09,Abruzzo,Chieti,,Tursiops truncatus,9,M,270.0,TOT,Morto,,,No,Guardia Costiera,Enzo Di Pretoro,ASL,14.41239,42.34948
 CSC100808CTt1,2010-08-08,Abruzzo,Pescara,,Tursiops truncatus,9,F,270.0,TOT,Morto,,,No,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,14.226,42.46962
@@ -511,12 +512,12 @@ CSC100103CTt1,2010-01-03,Campania,Salerno,,Tursiops truncatus,9,ND,130.0,TOT,Mor
 CSC091230CSc1,2009-12-30,Campania,Salerno,,Stenella coeruleoalba,8,F,,,Morto,,,ND,Privato cittadino,Nicola Maio,ASL,14.93751,40.22868
 CSC091212CSc1,2009-12-12,Abruzzo,Teramo,,Stenella coeruleoalba,8,F,190.0,TOT,Morto,,,No,Guardia Costiera,Alfredo Di Domenicantonio,ASL,13.93938,42.81818
 CSC091211CPm2,2009-12-11,Puglia,Foggia,,Physeter macrocephalus,7,M,1199.0,TOT,Morto,,,ND,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,15.68333,41.9006
+CSC091211CPm1,2009-12-11,Puglia,Foggia,,Physeter macrocephalus,7,M,1225.0,TOT,Morto,,,ND,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,15.68333,41.9006
 CSC091211CPm7,2009-12-11,Puglia,Foggia,,Physeter macrocephalus,7,M,1100.0,TOT,Morto,,,ND,Centro Studi Cetacei,Vincenzo Olivieri,Centro Studi Cetacei,15.68333,41.9006
 CSC091211CPm6,2009-12-11,Puglia,Foggia,,Physeter macrocephalus,7,M,1171.0,TOT,Morto,,,ND,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,15.68333,41.9006
 CSC091211CPm5,2009-12-11,Puglia,Foggia,,Physeter macrocephalus,7,M,1200.0,TOT,Morto,,,ND,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,15.68333,41.9006
 CSC091211CPm4,2009-12-11,Puglia,Foggia,,Physeter macrocephalus,7,M,1100.0,TOT,Morto,,,ND,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,15.68333,41.9006
 CSC091211CPm3,2009-12-11,Puglia,Foggia,,Physeter macrocephalus,7,M,1100.0,TOT,Morto,,,ND,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,15.68333,41.9006
-CSC091211CPm1,2009-12-11,Puglia,Foggia,,Physeter macrocephalus,7,M,1225.0,TOT,Morto,,,ND,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,15.68333,41.9006
 CSC090824CTt1,2009-08-24,Molise,Campobasso,,Tursiops truncatus,9,M,140.0,TOT,Morto,,,No,Guardia Costiera,Alfonso Guglielmini,Non disponibile,14.88618,42.02581
 CSC090818CTt2,2009-08-18,Abruzzo,Chieti,,Tursiops truncatus,9,F,160.0,TOT,Morto,,,No,Guardia Costiera,Enzo Di Pretoro,ASL,14.35734,42.38671
 CSC090818CTt1,2009-08-18,Abruzzo,Teramo,,Tursiops truncatus,9,M,210.0,TOT,Morto,,,No,Guardia Costiera,Alfredo Di Domenicantonio,ASL,13.97568,42.75595
@@ -540,12 +541,12 @@ CSC081018CTt1,2008-10-18,Abruzzo,Teramo,,Tursiops truncatus,9,F,360.0,TOT,Morto,
 CSC131018CSc1,2008-10-18,Lazio,Roma,,Stenella coeruleoalba,8,ND,91.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,12.53096,41.55582
 CSC081005CSc1,2008-10-05,Campania,Salerno,,Stenella coeruleoalba,8,F,172.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,14.98014,40.35287
 CSC080827CTt1,2008-08-27,Abruzzo,Teramo,,Tursiops truncatus,9,M,280.0,TOT,Morto,,,No,Guardia Costiera,Daniele Palmerini,Guardia Costiera,14.07444,42.60233
-CSC080722CTt2,2008-07-22,Abruzzo,Teramo,,Tursiops truncatus,9,M,210.0,TOT,Morto,,,No,Guardia Costiera,Daniele Palmerini,Guardia Costiera,14.07058,42.60726
 CSC080722CSc1,2008-07-22,Abruzzo,Teramo,,Stenella coeruleoalba,8,ND,140.0,TOT,Morto,,,No,Guardia Costiera,Vincenzo Perretti,ASL,14.0408,42.65075
 CSC080722CTt1,2008-07-22,Abruzzo,Teramo,,Tursiops truncatus,9,F,270.0,TOT,Morto,,,No,Guardia Costiera,Daniele Palmerini,Guardia Costiera,14.08877,42.58632
+CSC080722CTt2,2008-07-22,Abruzzo,Teramo,,Tursiops truncatus,9,M,210.0,TOT,Morto,,,No,Guardia Costiera,Daniele Palmerini,Guardia Costiera,14.07058,42.60726
 CSC080717CGg1,2008-07-17,Campania,Napoli,,Grampus griseus,4,ND,286.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,14.31667,40.60029
-CSC080710CSc1,2008-07-10,Abruzzo,Chieti,,Stenella coeruleoalba,8,ND,,,Morto,,,No,Guardia Costiera,Roberto Valente,ASL,14.70427,42.17383
 CSC080710CSc2,2008-07-10,Campania,Napoli,,Stenella coeruleoalba,8,ND,188.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,14.41644,40.66
+CSC080710CSc1,2008-07-10,Abruzzo,Chieti,,Stenella coeruleoalba,8,ND,,,Morto,,,No,Guardia Costiera,Roberto Valente,ASL,14.70427,42.17383
 CSC080706CND1,2008-07-06,Campania,Salerno,,Indeterminato,5,ND,150.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,14.80067,40.65773
 CSC080625CND1,2008-06-25,Campania,Salerno,,Indeterminato,5,ND,100.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,14.8629,40.60329
 CSC080608CND1,2008-06-08,Campania,Salerno,,Indeterminato,5,ND,,,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,14.47678,40.62415
@@ -553,15 +554,15 @@ CSC080524CND1,2008-05-24,Campania,Salerno,,Indeterminato,5,ND,120.0,TOT,Morto,,,
 CSC080503CSc1,2008-05-03,Sicilia,Catania,,Stenella coeruleoalba,8,F,200.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,15.09045,37.41785
 CSC080408CSc1,2008-04-08,Lazio,Roma,,Stenella coeruleoalba,8,ND,200.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.51278,41.57266
 CSC080310CTt1,2008-03-10,Abruzzo,Chieti,,Tursiops truncatus,9,ND,200.0,TOT,Morto,,,No,Guardia Costiera,Roberto Valente,ASL,14.72135,42.10149
-CSC080306CSc2,2008-03-06,Lazio,Roma,,Stenella coeruleoalba,8,M,108.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.51667,41.55056
 CSC080306CSc1,2008-03-06,Lazio,Roma,,Stenella coeruleoalba,8,ND,97.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,12.59028,41.48615
+CSC080306CSc2,2008-03-06,Lazio,Roma,,Stenella coeruleoalba,8,M,108.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.51667,41.55056
 CSC071215CTt1,2007-12-15,Marche,Ascoli Piceno,,Tursiops truncatus,9,ND,270.0,TOT,Morto,,,ND,Guardia Costiera,M. Marconi,Guardia Costiera,13.79736,43.18634
 CSC071112CSc1,2007-11-12,Lazio,Roma,,Stenella coeruleoalba,8,M,95.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.47807,41.60582
-CSC070828CTt1,2007-08-28,Campania,Napoli,,Tursiops truncatus,9,M,140.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,14.15,40.80012
 CSC070828CSc1,2007-08-28,Campania,Salerno,,Stenella coeruleoalba,8,ND,160.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,15.56667,40.06713
+CSC070828CTt1,2007-08-28,Campania,Napoli,,Tursiops truncatus,9,M,140.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,14.15,40.80012
 CSC070724CBp1,2007-07-24,Campania,Salerno,,Balaenoptera physalus,2,F,1300.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,15.25,40.03362
-CSC070715CTt1,2007-07-15,Veneto,Rovigo,,Tursiops truncatus,9,ND,,,Morto,,,ND,Privato cittadino,Non disponibile,Non disponibile,12.53333,44.95047
 CSC070715CBp1,2007-07-15,Campania,Napoli,,Balaenoptera physalus,2,ND,1300.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,14.23642,40.56072
+CSC070715CTt1,2007-07-15,Veneto,Rovigo,,Tursiops truncatus,9,ND,,,Morto,,,ND,Privato cittadino,Non disponibile,Non disponibile,12.53333,44.95047
 CSC070701CBp1,2007-07-01,Campania,Salerno,,Balaenoptera physalus,2,F,1350.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,14.56667,40.6006
 CSC070701CSc1,2007-07-01,Abruzzo,Teramo,,Stenella coeruleoalba,8,F,150.0,TOT,Morto,,,No,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,14.02328,42.67075
 CSC130602CTt1,2007-06-02,Abruzzo,Teramo,,Tursiops truncatus,9,F,180.0,TOT,Morto,,,No,Guardia Costiera,Giuseppe Capozzella,ASL,14.12022,42.55256
