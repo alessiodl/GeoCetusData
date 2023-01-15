@@ -1,26 +1,26 @@
 codice,data_rilievo,regione,provincia,comune,specie,cod_specie,sesso,lunghezza_cm,tipo_lunghezza,condizioni,tag,tag_rilascio,interazione,segnalato_da,rilevatore,struttura_rilevatore,lng,lat
-CSC230112TCc2,2023-01-12,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,M,80.6,CCL,Vivo,,CSCIT300,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.36742,42.49303
 CSC230112TCc1,2023-01-12,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,M,77.0,CCL,Vivo,,CSCIT301,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.3839,42.50316
+CSC230112TCc2,2023-01-12,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,M,80.6,CCL,Vivo,,CSCIT300,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.36742,42.49303
 CSC230109TCc1,2023-01-09,Abruzzo,Teramo,Silvi,Caretta caretta,1,F,75.5,CCL,Vivo,,CSCIT299,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.24212,42.62726
 CSC230104TCc1,2023-01-04,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,68.1,CCL,Vivo,,CSCIT298,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.28435,42.5087
 CSC221229TCc1,2022-12-29,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,39.9,CCL,Vivo,,CSCIT297,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.30419,42.52108
 CSC221223TCc2,2022-12-23,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,27.6,CCL,Vivo,,CSCIT296,Si,Motopeschereccio,Chiara Profico,Centro Studi Cetacei,14.31307,42.51899
 CSC221223TCc1,2022-12-23,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,M,68.0,CCL,Vivo,,CSCIT295,Si,Motopeschereccio,Chiara Profico,Centro Studi Cetacei,14.34877,42.49798
-CSC221220TCc1,2022-12-20,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,79.2,CCL,Vivo,,CSCIT293,Si,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.31013,42.52502
 CSC221220TCc2,2022-12-20,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,52.9,CCL,Vivo,,CSCIT294,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.33622,42.54375
+CSC221220TCc1,2022-12-20,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,79.2,CCL,Vivo,,CSCIT293,Si,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.31013,42.52502
 CSC221214TCc1,2022-12-14,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,F,75.0,CCL,Vivo,,CSCIT291,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.26077,42.58589
 CSC221214TCc2,2022-12-14,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,ND,41.5,CCL,Vivo,,CSCIT292,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.26077,42.58589
 CSC221213TCc1,2022-12-13,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,F,71.0,CCL,Morto,,,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.27313,42.58121
 CSC221212TCc1,2022-12-12,Abruzzo,Teramo,Silvi,Caretta caretta,1,F,79.3,CCL,Vivo,,CSCIT290,Si,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.23731,42.60553
 CSC221207TCc1,2022-12-07,Marche,Fermo,Fermo,Caretta caretta,1,ND,90.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.81444,43.15166
 CSC221130TCc1,2022-11-30,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,F,71.2,CCL,Vivo,,CSCIT289,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.25047,42.5687
-CSC221128TCc2,2022-11-28,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,68.7,CCL,Vivo,,CSCIT288,ND,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.36776,42.46024
 CSC221128TCc3,2022-11-28,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,87.5,CCL,Vivo,L2235CSCIT184,L2235CSCIT184,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.36845,42.4605
+CSC221128TCc2,2022-11-28,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,68.7,CCL,Vivo,,CSCIT288,ND,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.36776,42.46024
 CSC221128TCc1,2022-11-28,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,54.0,CCL,Morto,,,ND,Privato cittadino,Vincenzo Diana,ASREM,15.0485,41.96598
 CSC221123TCc1,2022-11-23,Abruzzo,Teramo,Pineto,Caretta caretta,1,F,70.0,CCL,Morto,,,ND,Guardia Costiera,Claudia Borgatti,Centro Studi Cetacei,14.07913,42.59665
 CSC221122TCc1,2022-11-22,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,65.5,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.20165,42.48201
-CSC221121TCc1,2022-11-21,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,39.8,CCL,Vivo,,CSCIT286,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.32044,42.52663
 CSC221121TCc2,2022-11-21,Molise,Campobasso,Termoli,Caretta caretta,1,F,84.5,CCL,Vivo,,CSCIT287,Si,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.94946,42.0117
+CSC221121TCc1,2022-11-21,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,39.8,CCL,Vivo,,CSCIT286,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.32044,42.52663
 CSC221120TCc1,2022-11-20,Abruzzo,Chieti,Vasto,Caretta caretta,1,M,76.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo D'Orio,ASL,14.73409,42.0912
 CSC221119TCc1,2022-11-19,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,66.0,CCL,Morto,,,ND,Guardia Costiera,Michele Di Mario,ASREM,15.05164,41.96447
 CSC221117TCc1,2022-11-17,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,68.0,CCL,Vivo,,CSCIT285,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.34334,42.53444
@@ -28,24 +28,24 @@ CSC221113TCc1,2022-11-13,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,67.2,CCL,Mo
 CSC221109TCc1,2022-11-09,Abruzzo,Chieti,Ortona,Caretta caretta,1,ND,63.0,CCL,Vivo,,CSCIT284,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.49093,42.38493
 CSC221108TCc1,2022-11-08,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,54.4,CCL,Vivo,,CSCIT283,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.32867,42.53337
 CSC221107TCc1,2022-11-07,Marche,Fermo,Porto Sant'Elpidio,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.75222,43.27666
-CSC221106TCc7,2022-11-06,Marche,Ascoli Piceno,San Benedetto del Tronto,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.91066,42.90352
-CSC221106TCc2,2022-11-06,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,62.0,CCL,Morto,,,ND,Guardia Costiera,Massimo Genovesi,CSC/ASL,14.72662,42.09658
-CSC221106TCc4,2022-11-06,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,43.4,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.1889,42.49147
 CSC221106TCc6,2022-11-06,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,60.0,CCL,Morto,,,No,Guardia Costiera,Alessia Ioannoni,ASL,14.30334,42.41442
+CSC221106TCc4,2022-11-06,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,43.4,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.1889,42.49147
 CSC221106TCc5,2022-11-06,Abruzzo,Chieti,Fossacesia,Caretta caretta,1,ND,64.0,CCL,Morto,,,ND,Guardia Costiera,gennaro sebastianelli,ASL,14.50277,42.2583
+CSC221106TCc2,2022-11-06,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,62.0,CCL,Morto,,,ND,Guardia Costiera,Massimo Genovesi,CSC/ASL,14.72662,42.09658
 CSC221106TCc3,2022-11-06,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,ND,44.0,CCL,Morto,,,ND,Privato cittadino,Chiara Profico,Centro Studi Cetacei,14.17856,42.49993
 CSC221106TCc1,2022-11-06,Abruzzo,Teramo,Pineto,Caretta caretta,1,ND,45.0,CCL,Morto,,,ND,Privato cittadino,Francesca Trenta,Centro Studi Cetacei,14.05857,42.61986
+CSC221106TCc7,2022-11-06,Marche,Ascoli Piceno,San Benedetto del Tronto,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.91066,42.90352
 CSC221105TCc1,2022-11-05,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,45.5,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.21751,42.47129
 CSC221102TCc1,2022-11-02,Molise,Campobasso,Termoli,Caretta caretta,1,ND,72.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Gallo,Centro Studi Cetacei,14.97817,42.00667
 CSC221031TCc2,2022-10-31,Marche,Ascoli Piceno,Cupra Marittima,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.85855,43.03685
 CSC221031TCc1,2022-10-31,Abruzzo,Provincia,Comune,Caretta caretta,1,F,59.0,CCL,Morto,,,ND,Guardia Costiera,Rexhep Sali,CSC/ASL,14.76009,42.0768
-CSC221028TCc2,2022-10-28,Abruzzo,Chieti,Ortona,Caretta caretta,1,ND,52.0,CCL,Morto,,,No,Guardia Costiera,Alessia Ioannoni,ASL,14.44247,42.31168
 CSC221028TCc1,2022-10-28,Abruzzo,Teramo,Silvi,Caretta caretta,1,F,74.0,CCL,Morto,,,ND,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,14.12673,42.54672
+CSC221028TCc2,2022-10-28,Abruzzo,Chieti,Ortona,Caretta caretta,1,ND,52.0,CCL,Morto,,,No,Guardia Costiera,Alessia Ioannoni,ASL,14.44247,42.31168
 CSC221023TCc1,2022-10-23,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,65.0,CCL,Morto,,,ND,Guardia Costiera,Massimo Genovesi,CSC/ASL,14.71937,42.13733
 CSC221020TCc1,2022-10-20,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,ND,36.5,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.17849,42.50176
+CSC221019TCc4,2022-10-19,Abruzzo,Chieti,San Salvo,Caretta caretta,1,F,67.3,CCL,Morto,,,Si,Guardia Costiera,Massimo Genovesi,CSC/ASL,14.75644,42.07918
 CSC221019TCc3,2022-10-19,Marche,Fermo,Porto Sant'Elpidio,Caretta caretta,1,ND,102.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.75583,43.27
 CSC221019TCc2,2022-10-19,Molise,Campobasso,Termoli,Caretta caretta,1,ND,65.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Diana,ASREM,14.94962,42.01124
-CSC221019TCc4,2022-10-19,Abruzzo,Chieti,San Salvo,Caretta caretta,1,F,67.3,CCL,Morto,,,Si,Guardia Costiera,Massimo Genovesi,CSC/ASL,14.75644,42.07918
 CSC221019TCc1,2022-10-19,Abruzzo,Teramo,Roseto degli Abruzzi,Caretta caretta,1,F,58.0,CCL,Morto,,,ND,Guardia Costiera,Francesca Trenta,Centro Studi Cetacei,14.01954,42.67376
 CSC221015TCc1,2022-10-15,Molise,Campobasso,Termoli,Caretta caretta,1,ND,74.0,CCL,Morto,,,ND,Privato cittadino,Vincenzo Gallo,Centro Studi Cetacei,14.94887,42.01134
 CSC221014TCc1,2022-10-14,Abruzzo,Chieti,Ortona,Caretta caretta,1,ND,60.0,CCL,Morto,,,No,Guardia Costiera,Enzo Di Pretoro,ASL,14.35239,42.38947
