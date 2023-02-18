@@ -1424,8 +1424,8 @@ CSC170921TCc1,2017-09-21,Abruzzo,Teramo,Alba Adriatica,Caretta caretta,1,ND,46.0
 CSC170920TCc1,2017-09-20,Abruzzo,Pescara,Comune,Caretta caretta,1,ND,52.5,CCL,Morto,,,ND,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,14.18843,42.49201
 CSC170919TCc1,2017-09-19,Abruzzo,Teramo,Silvi,Caretta caretta,1,M,70.05,CCL,Morto,,,ND,Guardia Costiera,Ludovica Di Renzo,Centro Studi Cetacei,14.12799,42.54549
 CSC170917TCc1,2017-09-17,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,54.0,CCL,Morto,,,ND,Guardia Costiera,Roberto Valente,Centro Studi Cetacei,14.68812,42.17854
-CSC170916TCc2,2017-09-16,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,35.0,CCL,Vivo,,CSCIT128,ND,Guardia Costiera,Martina De Cristofaro,Centro Studi Cetacei,15.05814,42.27487
 CSC170916TCc1,2017-09-16,Abruzzo,Pescara,Città Sant'Angelo,Caretta caretta,1,ND,66.0,CCL,Morto,,,ND,Privato cittadino,Chiara Profico,Centro Studi Cetacei,14.14633,42.53054
+CSC170916TCc2,2017-09-16,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,35.0,CCL,Vivo,,CSCIT128,ND,Guardia Costiera,Martina De Cristofaro,Centro Studi Cetacei,15.05814,42.27487
 CSC170913TCc1,2017-09-13,Abruzzo,Teramo,Silvi,Caretta caretta,1,ND,62.0,CCL,Morto,,,ND,Guardia Costiera,Mario Petracca,Guardia Costiera,14.12556,42.5475
 CSC170911TDc1,2017-09-11,Liguria,Genova,Genova,Dermochelys coriacea,3,F,129.0,CCL,Morto,,,ND,Guardia Costiera,Matteo Federico Sommer,Istituto Zooprofilattico,8.74193,44.42682
 CSC170909TCc1,2017-09-09,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,130.0,TOT,Morto,,,ND,Privato cittadino,Valeria Angelini,Centro di Recupero,12.26333,44.63667
@@ -1461,8 +1461,8 @@ CSC170806TCc1,2017-08-06,Abruzzo,Teramo,Pineto,Caretta caretta,1,ND,57.0,CCL,Mor
 CSC170805TCc1,2017-08-05,Marche,Ascoli Piceno,Cupra Marittima,Caretta caretta,1,ND,55.0,CCL,Morto,,,ND,Privato cittadino,Calogi Francesco,ASUR,13.85806,43.03806
 CSC170804TCc1,2017-08-04,Marche,Ascoli Piceno,San Benedetto del Tronto,Caretta caretta,1,M,35.0,CCL,Morto,,,ND,Privato cittadino,Della Noce Giuseppe,ASUR,13.88419,42.96032
 CSC170803TCc1,2017-08-03,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,M,35.0,CCL,Morto,,,ND,Privato cittadino,Valeria Angelini,Centro di Recupero,12.24139,44.71408
-CSC170802TCc2,2017-08-02,Marche,Ascoli Piceno,San Benedetto del Tronto,Caretta caretta,1,M,68.0,CCL,Vivo,AL0987PROFHAXHIUVORAALBANIA,,ND,Motopeschereccio,Della Noce Giuseppe,ASUR,14.02467,42.9665
 CSC170802TCc1,2017-08-02,Abruzzo,Chieti,Ortona,Caretta caretta,1,ND,28.5,CCL,Vivo,,CSCIT126,ND,Guardia Costiera,Valentina Giuliani,Centro Studi Cetacei,14.42333,42.35889
+CSC170802TCc2,2017-08-02,Marche,Ascoli Piceno,San Benedetto del Tronto,Caretta caretta,1,M,68.0,CCL,Vivo,AL0987PROFHAXHIUVORAALBANIA,,ND,Motopeschereccio,Della Noce Giuseppe,ASUR,14.02467,42.9665
 CSC170801TCc2,2017-08-01,Marche,Pesaro e Urbino,Mondolfo,Caretta caretta,1,ND,35.0,CCL,Morto,,,ND,Privato cittadino,anonimo,ASUR,13.13751,43.77125
 CSC170801TCc1,2017-08-01,Puglia,Foggia,Isole Tremiti,Caretta caretta,1,ND,59.0,,Vivo,,CSCIT125,ND,Privato cittadino,Sergio Guccione,Centro Studi Cetacei,15.64683,42.18533
 CSC170731TCc1,2017-07-31,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,43.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Centro di Recupero,12.25139,44.67389
@@ -2340,8 +2340,8 @@ CSC150307TCc10,2015-03-07,Abruzzo,Teramo,,Caretta caretta,1,ND,40.0,CCL,Morto,,,
 CSC150307TCc6,2015-03-07,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,anonimo,Parco Naturale,13.10145,43.79622
 CSC150307TCc13,2015-03-07,Marche,Ancona,Senigallia,Caretta caretta,1,ND,26.0,TOT,Vivo,,,ND,Privato cittadino,Guidoni,ASL,13.23203,43.71149
 CSC150306TCc7,2015-03-06,Abruzzo,Teramo,,Caretta caretta,1,ND,26.0,CCL,Vivo,,CSCIT023,ND,Guardia Costiera,Claudia Borgatti,Centro Studi Cetacei,13.975,42.75306
-CSC150306TCc1,2015-03-06,Abruzzo,,,Caretta caretta,1,ND,30.0,CCL,Vivo,,CSCIT123,ND,Privato cittadino,Luigia Del Colle,Corpo Forestale dello Stato,14.16812,42.51153
 CSC150306TCc5,2015-03-06,Abruzzo,Chieti,,Caretta caretta,1,ND,22.0,CCL,Vivo,,CSCIT122,ND,Guardia Costiera,Vincenzo Olivieri,ASL,14.72429,42.09844
+CSC150306TCc1,2015-03-06,Abruzzo,,,Caretta caretta,1,ND,30.0,CCL,Vivo,,CSCIT123,ND,Privato cittadino,Luigia Del Colle,Corpo Forestale dello Stato,14.16812,42.51153
 CSC150306TCc6,2015-03-06,Abruzzo,Chieti,,Caretta caretta,1,ND,21.0,CCL,Vivo,,CSCIT022,ND,Privato cittadino,Sergio Guccione,Centro Studi Cetacei,14.71146,42.17462
 CSC150306TCc11,2015-03-06,Abruzzo,Pescara,,Caretta caretta,1,ND,73.0,CCL,Vivo,,CSCIT027,ND,Privato cittadino,Elia Ciani,Centro Studi Cetacei,14.18359,42.49577
 CSC150306TCc15,2015-03-06,Abruzzo,Chieti,,Caretta caretta,1,M,23.0,CCL,Vivo,,CSCIT030,ND,Privato cittadino,William Di Nardo,Centro Studi Cetacei,14.30034,42.4161
@@ -2439,63 +2439,63 @@ CSC150104TCc1,2015-01-04,Abruzzo,Pescara,,Caretta caretta,1,F,45.0,CCL,Morto,,,N
 CSC150103TCc1,2015-01-03,Molise,Campobasso,,Caretta caretta,1,F,71.0,CCL,Morto,,,ND,Guardia Costiera,Mauro Blardi,ASL,14.99329,42.0049
 CSC150103TCc2,2015-01-03,Abruzzo,Chieti,,Caretta caretta,1,ND,39.0,CCL,Morto,,,ND,Guardia Costiera,Roberto Valente,Centro Studi Cetacei,14.58339,42.2148
 CSC150102TCc18,2015-01-02,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.12198,43.78154
-CSC150102TCc7,2015-01-02,Abruzzo,Chieti,,Caretta caretta,1,M,62.0,CCL,Morto,,,ND,Guardia Costiera,Francesco Caraceni,ASL,14.26693,42.43663
-CSC150102TCc14,2015-01-02,Marche,Macerata,,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Privato cittadino,Sampaolesi Mauro,ASL,13.72857,43.31351
-CSC150102TCc16,2015-01-02,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.12973,43.77684
 CSC150102TCc11,2015-01-02,Molise,Campobasso,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Privato cittadino,Maria Carla De Francesco,Centro Studi Cetacei,14.99064,42.00522
-CSC150102TCc13,2015-01-02,Marche,Fermo,,Caretta caretta,1,ND,65.0,CCL,Morto,,,ND,Privato cittadino,Settecasi Daniela,ASUR,13.76312,43.25698
-CSC150102TCc17,2015-01-02,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.12784,43.77882
-CSC150102TCc12,2015-01-02,Marche,Fermo,,Caretta caretta,1,ND,35.0,CCL,Morto,,,ND,Privato cittadino,Paci Mario,ASUR,13.76312,43.25698
-CSC150102TCc10,2015-01-02,Abruzzo,Chieti,,Caretta caretta,1,ND,52.0,CCL,Morto,,,ND,Guardia Costiera,Nicola Travaglini,ASL,14.51103,42.25052
-CSC150102TCc6,2015-01-02,Abruzzo,Chieti,,Caretta caretta,1,F,63.0,CCL,Morto,,,ND,Guardia Costiera,Francesco Caraceni,ASL,14.33446,42.39781
 CSC150102TCc5,2015-01-02,Abruzzo,Chieti,,Caretta caretta,1,F,81.0,CCL,Morto,,,ND,Guardia Costiera,Francesco Caraceni,ASL,14.337,42.39679
-CSC150102TCc2,2015-01-02,Abruzzo,Pescara,,Caretta caretta,1,ND,21.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,14.22047,42.46937
+CSC150102TCc3,2015-01-02,Abruzzo,Chieti,,Caretta caretta,1,ND,42.0,CCL,Morto,,,ND,Guardia Costiera,Massimo Genovesi,ASL,14.71763,42.15149
 CSC150102TCc1,2015-01-02,Molise,Campobasso,,Caretta caretta,1,ND,65.0,CCL,Morto,,,ND,Guardia Costiera,Mauro Blardi,ASL,14.99437,42.00482
 CSC150102TCc9,2015-01-02,Abruzzo,Chieti,,Caretta caretta,1,ND,31.0,CCL,Morto,,,ND,Guardia Costiera,Roberto Valente,Centro Studi Cetacei,14.71815,42.15279
+CSC150102TCc14,2015-01-02,Marche,Macerata,,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Privato cittadino,Sampaolesi Mauro,ASL,13.72857,43.31351
+CSC150102TCc10,2015-01-02,Abruzzo,Chieti,,Caretta caretta,1,ND,52.0,CCL,Morto,,,ND,Guardia Costiera,Nicola Travaglini,ASL,14.51103,42.25052
+CSC150102TCc13,2015-01-02,Marche,Fermo,,Caretta caretta,1,ND,65.0,CCL,Morto,,,ND,Privato cittadino,Settecasi Daniela,ASUR,13.76312,43.25698
+CSC150102TCc7,2015-01-02,Abruzzo,Chieti,,Caretta caretta,1,M,62.0,CCL,Morto,,,ND,Guardia Costiera,Francesco Caraceni,ASL,14.26693,42.43663
+CSC150102TCc17,2015-01-02,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.12784,43.77882
+CSC150102TCc12,2015-01-02,Marche,Fermo,,Caretta caretta,1,ND,35.0,CCL,Morto,,,ND,Privato cittadino,Paci Mario,ASUR,13.76312,43.25698
 CSC150102TCc8,2015-01-02,Abruzzo,Chieti,,Caretta caretta,1,M,41.0,CCL,Morto,,,ND,Guardia Costiera,Francesco Caraceni,ASL,14.40926,42.35915
-CSC150102TCc19,2015-01-02,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.06972,43.81944
-CSC150102TCc3,2015-01-02,Abruzzo,Chieti,,Caretta caretta,1,ND,42.0,CCL,Morto,,,ND,Guardia Costiera,Massimo Genovesi,ASL,14.71763,42.15149
-CSC150102TCc20,2015-01-02,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.06417,43.82333
 CSC150102TCc4,2015-01-02,Abruzzo,Chieti,,Caretta caretta,1,M,58.0,CCL,Morto,,,ND,Guardia Costiera,Francesco Caraceni,ASL,14.33618,42.39723
 CSC150102TCc21,2015-01-02,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.04901,43.83348
+CSC150102TCc20,2015-01-02,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.06417,43.82333
+CSC150102TCc19,2015-01-02,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.06972,43.81944
+CSC150102TCc16,2015-01-02,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.12973,43.77684
+CSC150102TCc2,2015-01-02,Abruzzo,Pescara,,Caretta caretta,1,ND,21.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,14.22047,42.46937
 CSC150102TCc15,2015-01-02,Marche,Ancona,,Caretta caretta,1,ND,80.0,CCL,Morto,,,ND,Privato cittadino,Luca Amico,Centro di Recupero,13.62797,43.49432
-CSC150101TCc6,2015-01-01,Abruzzo,Teramo,,Caretta caretta,1,ND,,CCL,Morto,,,ND,Privato cittadino,Marina De Ascentiis,Non disponibile,14.01308,42.68419
-CSC150101TCc23,2015-01-01,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,35.0,CCL,Morto,,,ND,Privato cittadino,Paci Mario,ASUR,12.33727,44.33133
-CSC150101TCc22,2015-01-01,Marche,Ascoli Piceno,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,Cesare Ciccarelli,ASUR,13.90514,42.91693
-CSC150101TCc21,2015-01-01,Marche,Ascoli Piceno,,Caretta caretta,1,ND,30.0,CCL,Morto,,,ND,Privato cittadino,Cesare Ciccarelli,ASUR,13.85199,43.05615
-CSC150101TCc20,2015-01-01,Marche,Ascoli Piceno,,Caretta caretta,1,ND,110.0,CCL,Morto,,,ND,Privato cittadino,Cesare Ciccarelli,ASUR,13.85199,43.05615
+CSC150102TCc6,2015-01-02,Abruzzo,Chieti,,Caretta caretta,1,F,63.0,CCL,Morto,,,ND,Guardia Costiera,Francesco Caraceni,ASL,14.33446,42.39781
+CSC150101TCc2,2015-01-01,Abruzzo,Teramo,,Caretta caretta,1,ND,18.0,CCL,Morto,,,ND,Centro Studi Cetacei,Iginio Piscione,Centro Studi Cetacei,14.09756,42.57679
+CSC150101TCc8,2015-01-01,Abruzzo,Chieti,,Caretta caretta,1,F,48.0,CCL,Morto,,,ND,Guardia Costiera,Francesco Caraceni,ASL,14.27851,42.42946
+CSC150101TCc16,2015-01-01,Marche,Ancona,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.28955,43.67748
+CSC150101TCc17,2015-01-01,Marche,Ancona,,Caretta caretta,1,ND,95.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.34319,43.65309
 CSC150101TCc18,2015-01-01,Marche,Macerata,,Caretta caretta,1,ND,75.0,CCL,Morto,,,ND,Privato cittadino,Sampaolesi Mauro,ASL,13.73494,43.30986
 CSC150101TCc19,2015-01-01,Marche,Ascoli Piceno,,Caretta caretta,1,ND,90.0,CCL,Morto,,,ND,Privato cittadino,Cesare Ciccarelli,ASUR,13.87394,42.98517
-CSC150101TCc5,2015-01-01,Abruzzo,Teramo,,Caretta caretta,1,F,66.0,CCL,Morto,,,ND,Centro Studi Cetacei,Iginio Piscione,Centro Studi Cetacei,14.06884,42.60973
-CSC150101TCc17,2015-01-01,Marche,Ancona,,Caretta caretta,1,ND,95.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.34319,43.65309
-CSC150101TCc7,2015-01-01,Abruzzo,Chieti,,Caretta caretta,1,ND,65.0,CCL,Morto,,,ND,Guardia Costiera,Francesco Caraceni,ASL,14.31991,42.40557
-CSC150101TCc2,2015-01-01,Abruzzo,Teramo,,Caretta caretta,1,ND,18.0,CCL,Morto,,,ND,Centro Studi Cetacei,Iginio Piscione,Centro Studi Cetacei,14.09756,42.57679
-CSC150101TCc16,2015-01-01,Marche,Ancona,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.28955,43.67748
+CSC150101TCc20,2015-01-01,Marche,Ascoli Piceno,,Caretta caretta,1,ND,110.0,CCL,Morto,,,ND,Privato cittadino,Cesare Ciccarelli,ASUR,13.85199,43.05615
+CSC150101TCc21,2015-01-01,Marche,Ascoli Piceno,,Caretta caretta,1,ND,30.0,CCL,Morto,,,ND,Privato cittadino,Cesare Ciccarelli,ASUR,13.85199,43.05615
+CSC150101TCc22,2015-01-01,Marche,Ascoli Piceno,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,Cesare Ciccarelli,ASUR,13.90514,42.91693
+CSC150101TCc23,2015-01-01,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,35.0,CCL,Morto,,,ND,Privato cittadino,Paci Mario,ASUR,12.33727,44.33133
+CSC150101TCc10,2015-01-01,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,Claudia Borgatti,Centro Studi Cetacei,14.01253,42.68446
 CSC150101TCc12,2015-01-01,Marche,Fermo,,Caretta caretta,1,ND,80.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.78994,43.20261
+CSC150101TCc9,2015-01-01,Abruzzo,Chieti,,Caretta caretta,1,F,58.0,CCL,Morto,,,ND,Guardia Costiera,Francesco Caraceni,ASL,14.31994,42.40534
+CSC150101TCc11,2015-01-01,Marche,Fermo,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Privato cittadino,Settecasi Daniela,ASUR,13.78994,43.20261
+CSC150101TCc6,2015-01-01,Abruzzo,Teramo,,Caretta caretta,1,ND,,CCL,Morto,,,ND,Privato cittadino,Marina De Ascentiis,Non disponibile,14.01308,42.68419
 CSC150101TCc1,2015-01-01,Abruzzo,Teramo,,Caretta caretta,1,F,53.0,CCL,Morto,,,ND,Centro Studi Cetacei,Iginio Piscione,Centro Studi Cetacei,14.09907,42.57491
+CSC150101TCc15,2015-01-01,Marche,Fermo,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,Settecasi Daniela,ASUR,13.80608,43.16884
+CSC150101TCc14,2015-01-01,Marche,Fermo,,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Privato cittadino,Settecasi Daniela,ASUR,13.84072,43.10571
 CSC150101TCc3,2015-01-01,Abruzzo,Teramo,,Caretta caretta,1,F,70.0,CCL,Morto,,,ND,Centro Studi Cetacei,Iginio Piscione,Centro Studi Cetacei,14.09338,42.58146
 CSC150101TCc4,2015-01-01,Abruzzo,Teramo,,Caretta caretta,1,ND,41.0,CCL,Morto,,,ND,Centro Studi Cetacei,Iginio Piscione,Centro Studi Cetacei,14.07775,42.5986
+CSC150101TCc5,2015-01-01,Abruzzo,Teramo,,Caretta caretta,1,F,66.0,CCL,Morto,,,ND,Centro Studi Cetacei,Iginio Piscione,Centro Studi Cetacei,14.06884,42.60973
 CSC150101TCc13,2015-01-01,Marche,Fermo,,Caretta caretta,1,ND,65.0,CCL,Morto,,,ND,Privato cittadino,Settecasi Daniela,ASUR,13.84072,43.10571
-CSC150101TCc14,2015-01-01,Marche,Fermo,,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Privato cittadino,Settecasi Daniela,ASUR,13.84072,43.10571
-CSC150101TCc11,2015-01-01,Marche,Fermo,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Privato cittadino,Settecasi Daniela,ASUR,13.78994,43.20261
-CSC150101TCc15,2015-01-01,Marche,Fermo,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,Settecasi Daniela,ASUR,13.80608,43.16884
-CSC150101TCc9,2015-01-01,Abruzzo,Chieti,,Caretta caretta,1,F,58.0,CCL,Morto,,,ND,Guardia Costiera,Francesco Caraceni,ASL,14.31994,42.40534
-CSC150101TCc10,2015-01-01,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,Claudia Borgatti,Centro Studi Cetacei,14.01253,42.68446
-CSC150101TCc8,2015-01-01,Abruzzo,Chieti,,Caretta caretta,1,F,48.0,CCL,Morto,,,ND,Guardia Costiera,Francesco Caraceni,ASL,14.27851,42.42946
-CSC141231TCc3,2014-12-31,Calabria,Vibo Valentia,,Caretta caretta,1,ND,68.0,CCL,Morto,,,ND,Privato cittadino,Giuseppe Paolillo,WWF,16.10917,38.71321
-CSC141231TCc2,2014-12-31,Abruzzo,Chieti,,Caretta caretta,1,F,50.0,CCL,Morto,,,ND,Vigili urbani,William Di Nardo,ASL,14.28475,42.42597
-CSC141231TCc7,2014-12-31,Calabria,Vibo Valentia,Vibo Valentia,Caretta caretta,1,F,68.0,CCL,Morto,,,ND,ASP,Elena Madeo,Centro Studi Cetacei,16.10917,38.71307
-CSC141231TCc5,2014-12-31,Marche,Fermo,,Caretta caretta,1,ND,32.0,CCL,Vivo,,,ND,Privato cittadino,Luca Amico,Centro di Recupero,13.75215,43.27724
-CSC141231TCc4,2014-12-31,Marche,Ancona,,Caretta caretta,1,ND,32.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.30028,43.67209
+CSC150101TCc7,2015-01-01,Abruzzo,Chieti,,Caretta caretta,1,ND,65.0,CCL,Morto,,,ND,Guardia Costiera,Francesco Caraceni,ASL,14.31991,42.40557
 CSC141231TCc1,2014-12-31,Abruzzo,Pescara,,Caretta caretta,1,F,55.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,14.23549,42.45897
+CSC141231TCc5,2014-12-31,Marche,Fermo,,Caretta caretta,1,ND,32.0,CCL,Vivo,,,ND,Privato cittadino,Luca Amico,Centro di Recupero,13.75215,43.27724
+CSC141231TCc7,2014-12-31,Calabria,Vibo Valentia,Vibo Valentia,Caretta caretta,1,F,68.0,CCL,Morto,,,ND,ASP,Elena Madeo,Centro Studi Cetacei,16.10917,38.71307
+CSC141231TCc4,2014-12-31,Marche,Ancona,,Caretta caretta,1,ND,32.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.30028,43.67209
+CSC141231TCc2,2014-12-31,Abruzzo,Chieti,,Caretta caretta,1,F,50.0,CCL,Morto,,,ND,Vigili urbani,William Di Nardo,ASL,14.28475,42.42597
 CSC141231TCc6,2014-12-31,Marche,Fermo,,Caretta caretta,1,ND,100.0,CCL,Morto,,,ND,Privato cittadino,Trobbiani Marisa,ASUR,13.76226,43.25871
-CSC141230TCc5,2014-12-30,Marche,Macerata,,Caretta caretta,1,ND,58.0,CCL,Morto,,,ND,Privato cittadino,Cervigni Giovanni,ASUR,13.667,43.43174
-CSC141230TCc7,2014-12-30,Marche,Ancona,,Caretta caretta,1,ND,46.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.40407,43.62834
-CSC141230TCc4,2014-12-30,Marche,Ancona,,Caretta caretta,1,ND,90.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.31047,43.66723
-CSC141230TCc3,2014-12-30,Marche,Fermo,,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Privato cittadino,Iacchia Giuseppe,ASUR,13.75215,43.27724
-CSC141230TCc2,2014-12-30,Marche,Ancona,,Caretta caretta,1,ND,102.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.17223,43.75042
-CSC141230TCc6,2014-12-30,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,90.0,CCL,Morto,,,ND,Privato cittadino,Campomori Pamela,ASUR,12.89866,43.92269
+CSC141231TCc3,2014-12-31,Calabria,Vibo Valentia,,Caretta caretta,1,ND,68.0,CCL,Morto,,,ND,Privato cittadino,Giuseppe Paolillo,WWF,16.10917,38.71321
 CSC141230TCc1,2014-12-30,Abruzzo,Chieti,,Caretta caretta,1,ND,73.0,CCL,Morto,,,ND,Guardia Costiera,Massimo Genovesi,ASL,14.54458,42.23497
+CSC141230TCc3,2014-12-30,Marche,Fermo,,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Privato cittadino,Iacchia Giuseppe,ASUR,13.75215,43.27724
+CSC141230TCc7,2014-12-30,Marche,Ancona,,Caretta caretta,1,ND,46.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.40407,43.62834
+CSC141230TCc5,2014-12-30,Marche,Macerata,,Caretta caretta,1,ND,58.0,CCL,Morto,,,ND,Privato cittadino,Cervigni Giovanni,ASUR,13.667,43.43174
+CSC141230TCc6,2014-12-30,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,90.0,CCL,Morto,,,ND,Privato cittadino,Campomori Pamela,ASUR,12.89866,43.92269
+CSC141230TCc4,2014-12-30,Marche,Ancona,,Caretta caretta,1,ND,90.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.31047,43.66723
+CSC141230TCc2,2014-12-30,Marche,Ancona,,Caretta caretta,1,ND,102.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.17223,43.75042
 CSC141229TCc2,2014-12-29,Marche,Ancona,,Caretta caretta,1,ND,90.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.43324,43.61652
 CSC141229TCc3,2014-12-29,Marche,Ancona,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.43324,43.61652
 CSC141229TCc1,2014-12-29,Marche,Ancona,,Caretta caretta,1,ND,80.0,CCL,Morto,,,ND,Privato cittadino,anonino,Guardia Costiera,13.39714,43.63128
@@ -2504,39 +2504,39 @@ CSC141228TCc1,2014-12-28,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,60.0,CCL,M
 CSC141224TCc1,2014-12-24,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,35.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.36625,44.25249
 CSC141222TCc1,2014-12-22,Abruzzo,Chieti,,Caretta caretta,1,ND,36.0,CCL,Vivo,,CSCIT014,ND,Motopeschereccio,Ludovica Di Renzo,Centro Studi Cetacei,14.44815,42.50218
 CSC141221TCc1,2014-12-21,Sicilia,Trapani,,Caretta caretta,1,ND,80.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.72521,37.56862
-CSC141220TCc5,2014-12-20,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,40.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.36015,44.26839
-CSC141220TCc1,2014-12-20,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,84.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.36023,44.26824
-CSC141220TCc3,2014-12-20,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,43.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.36019,44.26845
 CSC141220TCc4,2014-12-20,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,43.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.35989,44.26824
-CSC141220TCc6,2014-12-20,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,39.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.35976,44.26815
+CSC141220TCc5,2014-12-20,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,40.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.36015,44.26839
+CSC141220TCc3,2014-12-20,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,43.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.36019,44.26845
 CSC141220TCc2,2014-12-20,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,44.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.36019,44.2687
+CSC141220TCc1,2014-12-20,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,84.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.36023,44.26824
+CSC141220TCc6,2014-12-20,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,39.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.35976,44.26815
 CSC141218TCc1,2014-12-18,Calabria,Cosenza,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,Graziella Pugliese,ASL,16.61971,40.09641
 CSC141217TCc1,2014-12-17,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.28082,44.51112
 CSC141217TCc2,2014-12-17,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.2818,44.50682
 CSC141214TCc1,2014-12-14,Sicilia,Trapani,,Caretta caretta,1,F,40.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Istituto Zooprofilattico,12.53289,37.65859
-CSC141213TCc2,2014-12-13,Puglia,Lecce,,Caretta caretta,1,F,37.0,CCL,Morto,,,ND,Privato cittadino,Mastralia Antonio,ASL,18.49458,40.14636
 CSC141213TCc3,2014-12-13,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,38.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.24133,44.71511
-CSC141213TCc1,2014-12-13,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,anonin,Guardia Costiera,13.04028,43.8375
 CSC141213TCc4,2014-12-13,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,43.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.24621,44.74634
-CSC141211TCc1,2014-12-11,Abruzzo,Pescara,,Caretta caretta,1,M,63.0,CCL,Vivo,,CSCIT013,ND,Motopeschereccio,Sergio Guccione,Centro Studi Cetacei,14.29869,42.54064
+CSC141213TCc2,2014-12-13,Puglia,Lecce,,Caretta caretta,1,F,37.0,CCL,Morto,,,ND,Privato cittadino,Mastralia Antonio,ASL,18.49458,40.14636
+CSC141213TCc1,2014-12-13,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,anonin,Guardia Costiera,13.04028,43.8375
 CSC141211TCc2,2014-12-11,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,75.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.24133,44.71511
-CSC141210TCc4,2014-12-10,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,28.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.30199,44.4325
-CSC141210TCc6,2014-12-10,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,65.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.35695,44.27106
+CSC141211TCc1,2014-12-11,Abruzzo,Pescara,,Caretta caretta,1,M,63.0,CCL,Vivo,,CSCIT013,ND,Motopeschereccio,Sergio Guccione,Centro Studi Cetacei,14.29869,42.54064
 CSC141210TCc3,2014-12-10,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,32.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.33853,44.32906
-CSC141210TCc5,2014-12-10,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,100.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.37648,44.23587
-CSC141210TCc1,2014-12-10,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.33732,44.33138
+CSC141210TCc6,2014-12-10,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,65.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.35695,44.27106
 CSC141210TCc2,2014-12-10,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,59.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.34089,44.3236
-CSC141209TCc3,2014-12-09,Marche,Ancona,,Caretta caretta,1,ND,80.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.23897,43.70686
+CSC141210TCc4,2014-12-10,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,28.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.30199,44.4325
+CSC141210TCc1,2014-12-10,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.33732,44.33138
+CSC141210TCc5,2014-12-10,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,100.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.37648,44.23587
 CSC141209TCc1,2014-12-09,Lazio,Latina,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,Guglietta,ASL,13.28053,41.29711
-CSC141209TCc4,2014-12-09,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,87.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.3747,44.23848
+CSC141209TCc3,2014-12-09,Marche,Ancona,,Caretta caretta,1,ND,80.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.23897,43.70686
 CSC141209TCc2,2014-12-09,Marche,Ancona,,Caretta caretta,1,ND,65.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.40407,43.62834
+CSC141209TCc4,2014-12-09,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,87.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.3747,44.23848
 CSC141208TCc2,2014-12-08,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,41.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.24069,44.70692
 CSC141208TCc1,2014-12-08,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.28238,44.50524
 CSC141207TCc1,2014-12-07,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,77.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.25777,44.64546
 CSC141206TCc1,2014-12-06,Abruzzo,Chieti,,Caretta caretta,1,M,80.0,CCL,Morto,,,ND,Guardia Costiera,Massimo Genovesi,ASL,14.71805,42.15223
 CSC141204TCc1,2014-12-04,Marche,Ancona,,Caretta caretta,1,ND,120.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.40407,43.62834
-CSC141204TCc2,2014-12-04,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.31309,44.41119
 CSC141204TCc3,2014-12-04,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.34841,44.29443
+CSC141204TCc2,2014-12-04,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.31309,44.41119
 CSC141201TCc1,2014-12-01,Sicilia,Trapani,,Caretta caretta,1,ND,80.0,CCL,Morto,,,ND,Privato cittadino,Caracci,ASL,12.72521,37.56862
 CSC141130TCc1,2014-11-30,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,Maurizio Salterelli,Centro di Recupero,12.98343,43.8673
 CSC141130TCc2,2014-11-30,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,35.0,CCL,Morto,,,ND,Privato cittadino,Maurizio Salterelli,Centro di Recupero,13.12983,43.77615
@@ -2544,55 +2544,55 @@ CSC141129TCc2,2014-11-29,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,81.0,CCL,M
 CSC141129TCc1,2014-11-29,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.30384,44.42805
 CSC141129TCc3,2014-11-29,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.24616,44.74586
 CSC141128TCc3,2014-11-28,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,67.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.24127,44.71477
-CSC141128TCc8,2014-11-28,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,72.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Guardia Costiera,12.24447,44.6782
+CSC141128TCc5,2014-11-28,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.2501,44.66226
 CSC141128TCc6,2014-11-28,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Guardia Costiera,12.24067,44.70691
+CSC141128TCc7,2014-11-28,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.24075,44.70631
 CSC141128TCc4,2014-11-28,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,76.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.24077,44.70759
+CSC141128TCc8,2014-11-28,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,72.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Guardia Costiera,12.24447,44.6782
 CSC141128TCc2,2014-11-28,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.28505,44.49837
 CSC141128TCc1,2014-11-28,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,95.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.36118,44.26246
-CSC141128TCc7,2014-11-28,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.24075,44.70631
-CSC141128TCc5,2014-11-28,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.2501,44.66226
-CSC141127TCc2,2014-11-27,Abruzzo,Pescara,,Caretta caretta,1,M,65.0,CCL,Vivo,,CSCIT012,ND,Motopeschereccio,Sergio Guccione,Centro Studi Cetacei,15.311,42.61538
-CSC141127TCc1,2014-11-27,Abruzzo,Pescara,,Caretta caretta,1,F,55.0,CCL,Vivo,,CSCIT011,ND,Motopeschereccio,Vincenzo Olivieri,Centro Studi Cetacei,14.83792,43.00749
 CSC141127TCc3,2014-11-27,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.2994,44.43844
 CSC141127TCc4,2014-11-27,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,41.0,CCL,Vivo,,,ND,Privato cittadino,anonimo,Associazione,12.24583,44.74516
-CSC141126TCc3,2014-11-26,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,52.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.24661,44.74688
+CSC141127TCc1,2014-11-27,Abruzzo,Pescara,,Caretta caretta,1,F,55.0,CCL,Vivo,,CSCIT011,ND,Motopeschereccio,Vincenzo Olivieri,Centro Studi Cetacei,14.83792,43.00749
+CSC141127TCc2,2014-11-27,Abruzzo,Pescara,,Caretta caretta,1,M,65.0,CCL,Vivo,,CSCIT012,ND,Motopeschereccio,Sergio Guccione,Centro Studi Cetacei,15.311,42.61538
 CSC141126TCc2,2014-11-26,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,27.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.24599,44.74556
+CSC141126TCc3,2014-11-26,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,52.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.24661,44.74688
 CSC141126TCc1,2014-11-26,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,86.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.29379,44.45049
-CSC141125TCc2,2014-11-25,Abruzzo,Pescara,,Caretta caretta,1,F,70.0,CCL,Vivo,,CSCIT010,ND,Motopeschereccio,Vincenzo Olivieri,Centro Studi Cetacei,14.65066,42.75365
-CSC141125TCc3,2014-11-25,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,58.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.37726,44.23452
 CSC141125TCc1,2014-11-25,Abruzzo,Pescara,,Caretta caretta,1,ND,37.0,CCL,Vivo,,,ND,Motopeschereccio,Vincenzo Olivieri,Centro Studi Cetacei,14.82197,42.78538
-CSC141124TCc1,2014-11-24,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,57.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.25751,44.64613
+CSC141125TCc3,2014-11-25,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,58.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.37726,44.23452
+CSC141125TCc2,2014-11-25,Abruzzo,Pescara,,Caretta caretta,1,F,70.0,CCL,Vivo,,CSCIT010,ND,Motopeschereccio,Vincenzo Olivieri,Centro Studi Cetacei,14.65066,42.75365
 CSC141124TCc4,2014-11-24,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,64.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.24616,44.74662
+CSC141124TCc1,2014-11-24,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,57.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.25751,44.64613
 CSC141124TCc3,2014-11-24,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,52.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.24614,44.746
 CSC141124TCc2,2014-11-24,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,36.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.24029,44.70817
-CSC141123TCc1,2014-11-23,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,47.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Associazione,12.30935,44.41858
-CSC141123TCc2,2014-11-23,Calabria,Catanzaro,,Caretta caretta,1,ND,27.0,CCL,Vivo,,,ND,Privato cittadino,Giuseppe Paolillo,WWF,16.15513,38.95314
 CSC141123TCc3,2014-11-23,Calabria,Catanzaro,Gizzeria,Caretta caretta,1,ND,27.0,CCL,Vivo,,,ND,ASP,Stefania Giglio,Centro Studi Cetacei,16.15411,38.95468
-CSC141121TCc1,2014-11-21,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,43.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.29105,44.4574
+CSC141123TCc2,2014-11-23,Calabria,Catanzaro,,Caretta caretta,1,ND,27.0,CCL,Vivo,,,ND,Privato cittadino,Giuseppe Paolillo,WWF,16.15513,38.95314
+CSC141123TCc1,2014-11-23,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,47.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Associazione,12.30935,44.41858
 CSC141121TCc2,2014-11-21,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,34.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.2713,44.79863
-CSC141116TCc2,2014-11-16,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,55.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Associazione,12.28597,44.48583
+CSC141121TCc1,2014-11-21,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,43.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.29105,44.4574
 CSC141116TCc1,2014-11-16,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,76.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Associazione,12.28706,44.47636
+CSC141116TCc2,2014-11-16,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,55.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Associazione,12.28597,44.48583
 CSC141115TCc1,2014-11-15,Abruzzo,Pescara,,Caretta caretta,1,F,48.0,CCL,Vivo,,CSCIT009,ND,Motopeschereccio,Vincenzo Olivieri,Centro Studi Cetacei,14.78523,42.71719
 CSC141115TCc2,2014-11-15,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,39.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.28595,44.48612
 CSC141114TCc1,2014-11-14,Friuli,Gorizia,,Caretta caretta,1,ND,89.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.52944,45.77333
 CSC141113TCc1,2014-11-13,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,37.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.37148,44.24355
-CSC141111TCc2,2014-11-11,Abruzzo,Chieti,,Caretta caretta,1,F,62.0,CCL,Morto,,,ND,Guardia Costiera,Massimo Genovesi,ASL,14.72063,42.12065
 CSC141111TCc1,2014-11-11,Abruzzo,Chieti,,Caretta caretta,1,F,62.0,CCL,Morto,,,ND,Guardia Costiera,Massimo Genovesi,ASL,14.72077,42.12076
-CSC141110TCc3,2014-11-10,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,39.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.24354,44.67994
+CSC141111TCc2,2014-11-11,Abruzzo,Chieti,,Caretta caretta,1,F,62.0,CCL,Morto,,,ND,Guardia Costiera,Massimo Genovesi,ASL,14.72063,42.12065
 CSC141110TCc1,2014-11-10,Lazio,Latina,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,anonimo,ASL,13.15148,41.26701
 CSC141110TCc2,2014-11-10,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,83.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.24379,44.6793
+CSC141110TCc3,2014-11-10,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,39.0,CCL,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.24354,44.67994
 CSC141108TCc1,2014-11-08,Abruzzo,Teramo,,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Alfredo Di Domenicantonio,Centro Studi Cetacei,13.92771,42.85796
 CSC141105TCc1,2014-11-05,Marche,Ascoli Piceno,,Caretta caretta,1,ND,45.0,CCL,Morto,,,ND,Privato cittadino,Falaschetti Giuliano,ASUR,13.86199,43.02403
-CSC141103TCc2,2014-11-03,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.09139,43.80333
 CSC141103TCc4,2014-11-03,Calabria,Catanzaro,Squillace,Caretta caretta,1,ND,39.0,CCL,Vivo,,,ND,ASP,Elena Madeo,Centro Studi Cetacei,16.57521,38.77627
-CSC141103TCc3,2014-11-03,Calabria,Catanzaro,Squillace,Caretta caretta,1,ND,39.0,CCL,Vivo,,,ND,Privato cittadino,Stefania Giglio,Centro Studi Cetacei,16.57787,38.77926
+CSC141103TCc2,2014-11-03,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.09139,43.80333
 CSC141103TCc1,2014-11-03,Abruzzo,Pescara,,Caretta caretta,1,F,78.0,CCL,Vivo,,CSCIT008,ND,Privato cittadino,Iginio Piscione,Centro Studi Cetacei,14.16611,42.52167
-CSC141028TCc1,2014-10-28,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Privato cittadino,Ridolfini Roberto,ASUR,12.75332,43.96935
+CSC141103TCc3,2014-11-03,Calabria,Catanzaro,Squillace,Caretta caretta,1,ND,39.0,CCL,Vivo,,,ND,Privato cittadino,Stefania Giglio,Centro Studi Cetacei,16.57787,38.77926
 CSC141028TCc2,2014-10-28,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,30.0,CCL,Morto,,,ND,Privato cittadino,Ridolfini Roberto,ASUR,12.75889,43.96778
+CSC141028TCc1,2014-10-28,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Privato cittadino,Ridolfini Roberto,ASUR,12.75332,43.96935
 CSC141027TCc1,2014-10-27,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,38.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.91,43.92083
 CSC141026TCc1,2014-10-26,Marche,Ancona,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.22398,43.71753
-CSC141025TCc1,2014-10-25,Abruzzo,Teramo,,Caretta caretta,1,ND,53.0,TOT,Morto,,,ND,Guardia Costiera,Antonio Fusco,Guardia Costiera,14.08556,42.59197
 CSC141025TCc2,2014-10-25,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,30.0,CCL,Morto,,,ND,Privato cittadino,Ridolfini Roberto,ASUR,12.74768,43.96942
+CSC141025TCc1,2014-10-25,Abruzzo,Teramo,,Caretta caretta,1,ND,53.0,TOT,Morto,,,ND,Guardia Costiera,Antonio Fusco,Guardia Costiera,14.08556,42.59197
 CSC141022TCc1,2014-10-22,Abruzzo,Teramo,,Caretta caretta,1,F,84.0,TOT,Morto,,,ND,Guardia Costiera,Antonio Fusco,Guardia Costiera,14.09111,42.58442
 CSC141022TCc2,2014-10-22,Abruzzo,Chieti,,Caretta caretta,1,ND,52.0,CCL,Morto,,,ND,Guardia Costiera,Massimo Genovesi,ASL,14.7067,42.17389
 CSC141021TCc2,2014-10-21,Friuli,Gorizia,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.52937,45.77312
@@ -2604,135 +2604,135 @@ CSC141015TCc1,2014-10-15,Lazio,Latina,,Caretta caretta,1,ND,60.0,CCL,Vivo,,,ND,P
 CSC141014TCc2,2014-10-14,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,35.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.2884,44.46641
 CSC141014TCc1,2014-10-14,Sicilia,Trapani,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Istituto Zooprofilattico,12.8082,37.58105
 CSC141013TCc1,2014-10-13,Abruzzo,Chieti,,Caretta caretta,1,F,55.0,CCL,Morto,,,ND,Guardia Costiera,William Di Nardo,ASL,14.28479,42.42642
-CSC141012TCc1,2014-10-12,Abruzzo,Teramo,,Caretta caretta,1,F,85.0,TOT,Morto,,,ND,Guardia Costiera,Giuseppe Capozzella,ASL,14.09306,42.5819
-CSC141012TCc4,2014-10-12,Lazio,Latina,,Caretta caretta,1,ND,50.0,CCL,Vivo,,,ND,Privato cittadino,anonimo,Parco Naturale,13.43948,40.7981
-CSC141012TCc3,2014-10-12,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.28616,44.48445
 CSC141012TCc2,2014-10-12,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.28012,44.53446
-CSC141011TCc1,2014-10-11,Sardegna,Cagliari,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,anonimo,Parco Naturale,9.28365,39.20416
+CSC141012TCc3,2014-10-12,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.28616,44.48445
+CSC141012TCc4,2014-10-12,Lazio,Latina,,Caretta caretta,1,ND,50.0,CCL,Vivo,,,ND,Privato cittadino,anonimo,Parco Naturale,13.43948,40.7981
+CSC141012TCc1,2014-10-12,Abruzzo,Teramo,,Caretta caretta,1,F,85.0,TOT,Morto,,,ND,Guardia Costiera,Giuseppe Capozzella,ASL,14.09306,42.5819
 CSC141011TCc2,2014-10-11,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.28404,44.55438
+CSC141011TCc1,2014-10-11,Sardegna,Cagliari,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,anonimo,Parco Naturale,9.28365,39.20416
+CSC141006TCc2,2014-10-06,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.28173,44.50696
 CSC141006TCc4,2014-10-06,Molise,Campobasso,,Caretta caretta,1,ND,40.0,CCL,Morto,,,ND,Privato cittadino,Maria Carla De Francesco,Centro Studi Cetacei,15.00021,41.99981
 CSC141006TCc5,2014-10-06,Molise,Campobasso,,Caretta caretta,1,ND,45.0,CCL,Morto,,,ND,Privato cittadino,Maria Carla De Francesco,Centro Studi Cetacei,15.02939,41.97877
-CSC141006TCc3,2014-10-06,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,100.0,CCL,Morto,,,ND,Privato cittadino,anonimo,ASUR,12.96167,43.88111
-CSC141006TCc2,2014-10-06,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.28173,44.50696
 CSC141006TCc1,2014-10-06,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,75.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.36799,44.24939
+CSC141006TCc3,2014-10-06,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,100.0,CCL,Morto,,,ND,Privato cittadino,anonimo,ASUR,12.96167,43.88111
 CSC141005TCc2,2014-10-05,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Privato cittadino,Roccoli Marino,ASL,12.91667,43.95
 CSC141005TCc1,2014-10-05,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,48.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.27974,44.51892
 CSC141004TCc3,2014-10-04,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,52.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.2819,44.50617
 CSC141004TCc2,2014-10-04,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.30534,44.42345
-CSC141004TCc6,2014-10-04,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,41.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.28542,44.49764
-CSC141004TCc4,2014-10-04,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,42.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.28047,44.51319
-CSC141004TCc5,2014-10-04,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,42.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.28173,44.50695
 CSC141004TCc1,2014-10-04,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,73.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.28008,44.53452
+CSC141004TCc6,2014-10-04,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,41.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.28542,44.49764
+CSC141004TCc5,2014-10-04,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,42.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.28173,44.50695
+CSC141004TCc4,2014-10-04,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,42.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.28047,44.51319
 CSC141003TCc4,2014-10-03,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.28526,44.49779
-CSC141003TCc1,2014-10-03,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Centro di Recupero,12.30375,44.42817
-CSC141003TCc2,2014-10-03,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Privato cittadino,Angelini,Centro di Recupero,12.28761,44.47066
 CSC141003TCc3,2014-10-03,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,55.0,CCL,Morto,,,ND,Privato cittadino,Angelini,Centro di Recupero,12.28162,44.50669
-CSC140928TCc1,2014-09-28,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,75.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Associazione,12.28224,44.50537
+CSC141003TCc2,2014-10-03,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Privato cittadino,Angelini,Centro di Recupero,12.28761,44.47066
+CSC141003TCc1,2014-10-03,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Centro di Recupero,12.30375,44.42817
 CSC140928TCc2,2014-09-28,Calabria,Cosenza,Rossano,Caretta caretta,1,F,50.0,CCL,Morto,,,ND,ASP,Stefania Giglio,Centro Studi Cetacei,16.63802,39.61977
-CSC140923TCc2,2014-09-23,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,35.0,CCL,Morto,,,ND,Privato cittadino,Mengoni Franco,ASUR,12.95028,43.89056
+CSC140928TCc1,2014-09-28,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,75.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Associazione,12.28224,44.50537
 CSC140923TCc1,2014-09-23,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,23.0,CCL,Vivo,,,ND,Privato cittadino,Sauro Pari,Centro di Recupero,12.3654,44.25394
+CSC140923TCc2,2014-09-23,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,35.0,CCL,Morto,,,ND,Privato cittadino,Mengoni Franco,ASUR,12.95028,43.89056
 CSC140922TCc1,2014-09-22,Abruzzo,Teramo,,Caretta caretta,1,ND,56.0,CCL,Morto,,,ND,Corpo Forestale dello Stato,Alfredo Di Domenicantonio,Centro Studi Cetacei,13.97487,42.7504
 CSC140922TCc2,2014-09-22,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,30.0,CCL,Morto,,,ND,Privato cittadino,Fegati Sara,Centro di Recupero,12.34839,44.29684
+CSC140921TCc2,2014-09-21,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,46.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.36525,44.25412
 CSC140921TCc3,2014-09-21,Calabria,Vibo Valentia,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Privato cittadino,Lucifora Giuseppe,Istituto Zooprofilattico,16.11672,38.71667
 CSC140921TCc1,2014-09-21,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,40.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Centro di Recupero,12.3077,44.42028
-CSC140921TCc2,2014-09-21,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,46.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.36525,44.25412
 CSC140920TCc1,2014-09-20,Sardegna,Cagliari,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,9.527,39.12117
-CSC140919TCc1,2014-09-19,Marche,Macerata,,Caretta caretta,1,ND,45.0,CCL,Morto,,,ND,Privato cittadino,Mate Giuseppe,ASUR,13.7142,43.33007
 CSC140919TCc2,2014-09-19,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,45.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Associazione,12.28842,44.46559
 CSC140919TDc1,2014-09-19,Calabria,Catanzaro,Gizzeria,Dermochelys coriacea,3,F,175.0,CCL,Vivo,CH6526,,ND,ASP,Stefania Giglio,Centro Studi Cetacei,16.20232,38.93133
+CSC140919TCc1,2014-09-19,Marche,Macerata,,Caretta caretta,1,ND,45.0,CCL,Morto,,,ND,Privato cittadino,Mate Giuseppe,ASUR,13.7142,43.33007
 CSC140918TCc3,2014-09-18,Marche,Ancona,,Caretta caretta,1,ND,45.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.34796,43.65129
 CSC140918TCc2,2014-09-18,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,39.0,CCL,Morto,,,ND,Guardia Costiera,anonimo,Centro di Recupero,12.27966,44.52881
 CSC140918TCc1,2014-09-18,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,80.0,CCL,Morto,,,ND,Privato cittadino,Angelini,Centro di Recupero,12.28472,44.49842
 CSC140916TCc1,2014-09-16,Lazio,Latina,,Caretta caretta,1,ND,,CCL,Vivo,,,ND,Privato cittadino,Gianluca Treglia,Centro di Recupero,12.90269,40.92148
-CSC140915TCc1,2014-09-15,Sicilia,Messina,,Caretta caretta,1,ND,60.0,CCL,Vivo,,,ND,Privato cittadino,La Cavera,Istituto Zooprofilattico,14.70433,38.77533
 CSC140915TCc2,2014-09-15,Sicilia,Messina,,Caretta caretta,1,ND,46.0,CCL,Vivo,,,ND,Privato cittadino,La Cavera,Istituto Zooprofilattico,14.60883,38.71683
+CSC140915TCc1,2014-09-15,Sicilia,Messina,,Caretta caretta,1,ND,60.0,CCL,Vivo,,,ND,Privato cittadino,La Cavera,Istituto Zooprofilattico,14.70433,38.77533
 CSC140914TCc1,2014-09-14,Calabria,Provincia,Comune,Caretta caretta,1,F,50.0,CCL,Vivo,,,ND,ASP,Stefania Giglio,Centro di Recupero,16.60243,38.80704
 CSC140911TCc1,2014-09-11,Calabria,Crotone,Isola di Capo Rizzuto,Caretta caretta,1,F,69.0,CCL,Morto,,,ND,ASP,Elena Madeo,Centro Studi Cetacei,17.01733,38.91101
-CSC140907TCc5,2014-09-07,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,45.0,TOT,Morto,,,ND,Privato cittadino,Angelini,Centro di Recupero,12.3112,44.41565
-CSC140907TCc3,2014-09-07,Marche,Ancona,,Caretta caretta,1,ND,18.0,CCL,Vivo,,,ND,Privato cittadino,Luca Amico,Centro di Recupero,13.48333,43.61667
 CSC140907TCc1,2014-09-07,Calabria,Cosenza,,Caretta caretta,1,F,60.0,CCL,Vivo,,,ND,ASP,Elena Madeo,Centro Studi Cetacei,16.03806,39.32062
 CSC140907TCc2,2014-09-07,Abruzzo,Pescara,,Caretta caretta,1,ND,41.0,CCL,Morto,,,ND,Guardia Costiera,Sergio Guccione,Centro Studi Cetacei,14.20276,42.48175
+CSC140907TCc3,2014-09-07,Marche,Ancona,,Caretta caretta,1,ND,18.0,CCL,Vivo,,,ND,Privato cittadino,Luca Amico,Centro di Recupero,13.48333,43.61667
+CSC140907TCc5,2014-09-07,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,45.0,TOT,Morto,,,ND,Privato cittadino,Angelini,Centro di Recupero,12.3112,44.41565
 CSC140907TCc4,2014-09-07,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,32.0,TOT,Morto,,,ND,Privato cittadino,Angelini,Centro di Recupero,12.2901,44.46003
-CSC140905TCc2,2014-09-05,Calabria,Vibo Valentia,,Caretta caretta,1,ND,31.0,CCL,Vivo,,,ND,ASP,Campisi Isabella,ASL,15.89823,38.68266
 CSC140905TCc1,2014-09-05,Marche,Fermo,,Caretta caretta,1,ND,29.0,CCL,Morto,,,ND,Guardia Costiera,Pina De Curtis,ASL,13.81643,43.14801
+CSC140905TCc2,2014-09-05,Calabria,Vibo Valentia,,Caretta caretta,1,ND,31.0,CCL,Vivo,,,ND,ASP,Campisi Isabella,ASL,15.89823,38.68266
 CSC140903TCc1,2014-09-03,Abruzzo,Pescara,,Caretta caretta,1,ND,34.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,14.24142,42.45415
-CSC140902TCc6,2014-09-02,Marche,Fermo,,Caretta caretta,1,ND,40.0,CCL,Morto,,,ND,Guardia Costiera,Pina De Curtis,ASL,13.84004,43.1066
 CSC140902TCc5,2014-09-02,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,45.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.35173,44.28496
-CSC140902TCc4,2014-09-02,Marche,Ancona,,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Privato cittadino,Cristoforo De Giuseppe,Guardia Costiera,13.24103,43.70558
-CSC140902TCc1,2014-09-02,Abruzzo,Pescara,,Caretta caretta,1,ND,41.0,CCL,Morto,,,ND,Guardia Costiera,Sergio Guccione,Centro Studi Cetacei,14.20154,42.48176
 CSC140902TCc3,2014-09-02,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,45.0,TOT,Morto,,,ND,Privato cittadino,Antonio Donzella,Guardia Costiera,12.31971,44.38827
+CSC140902TCc1,2014-09-02,Abruzzo,Pescara,,Caretta caretta,1,ND,41.0,CCL,Morto,,,ND,Guardia Costiera,Sergio Guccione,Centro Studi Cetacei,14.20154,42.48176
+CSC140902TCc6,2014-09-02,Marche,Fermo,,Caretta caretta,1,ND,40.0,CCL,Morto,,,ND,Guardia Costiera,Pina De Curtis,ASL,13.84004,43.1066
+CSC140902TCc4,2014-09-02,Marche,Ancona,,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Privato cittadino,Cristoforo De Giuseppe,Guardia Costiera,13.24103,43.70558
 CSC140902TCc2,2014-09-02,Marche,Ascoli Piceno,,Caretta caretta,1,ND,52.0,TOT,Morto,,,ND,Privato cittadino,Amedeo Alfano,Guardia Costiera,13.91037,42.90368
-CSC140831TCc3,2014-08-31,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Pasquale Diurno,Guardia Costiera,12.24119,44.71246
 CSC140831TCc1,2014-08-31,Abruzzo,Chieti,,Caretta caretta,1,F,80.0,CCL,Morto,,,ND,Guardia Costiera,Roberto Valente,Centro Studi Cetacei,14.72322,42.10145
-CSC140831TCc2,2014-08-31,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Pasquale Diurno,Guardia Costiera,12.25718,44.64714
 CSC140831TCc4,2014-08-31,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.34154,44.32188
+CSC140831TCc3,2014-08-31,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Pasquale Diurno,Guardia Costiera,12.24119,44.71246
+CSC140831TCc2,2014-08-31,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Pasquale Diurno,Guardia Costiera,12.25718,44.64714
 CSC140830TCc1,2014-08-30,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.28066,44.51105
-CSC140830TCc5,2014-08-30,Abruzzo,Teramo,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,Vincenzo Perretti,ASL,14.11929,42.55361
+CSC140830TCc6,2014-08-30,Calabria,Vibo Valentia,,Caretta caretta,1,F,75.0,CCL,Vivo,,,ND,ASP,Stefania Giglio,Centro Studi Cetacei,15.42045,38.72301
 CSC140830TCc3,2014-08-30,Sicilia,Messina,,Caretta caretta,1,ND,40.0,TOT,Vivo,,,ND,Guardia Costiera,anonimo,Guardia Costiera,14.80435,38.5778
 CSC140830TCc2,2014-08-30,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.31601,44.40287
-CSC140830TCc6,2014-08-30,Calabria,Vibo Valentia,,Caretta caretta,1,F,75.0,CCL,Vivo,,,ND,ASP,Stefania Giglio,Centro Studi Cetacei,15.42045,38.72301
-CSC140830TCc4,2014-08-30,Friuli,Gorizia,,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.54,45.78111
 CSC140830TCc7,2014-08-30,Calabria,Catanzaro,,Caretta caretta,1,F,60.0,CCL,Vivo,,,ND,Guardia Costiera,Elena Madeo,Centro Studi Cetacei,16.22222,38.85611
+CSC140830TCc4,2014-08-30,Friuli,Gorizia,,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.54,45.78111
+CSC140830TCc5,2014-08-30,Abruzzo,Teramo,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,Vincenzo Perretti,ASL,14.11929,42.55361
+CSC140828TCc5,2014-08-28,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.24432,44.67849
+CSC140828TCc1,2014-08-28,Abruzzo,Chieti,,Caretta caretta,1,F,59.0,CCL,Morto,,,ND,Guardia Costiera,Roberto Valente,Centro Studi Cetacei,14.748579,42.082235
 CSC140828TCc4,2014-08-28,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.28388,44.5558
 CSC140828TCc2,2014-08-28,Abruzzo,Chieti,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Roberto Valente,ASL,14.7224,42.1298
 CSC140828TCc3,2014-08-28,Marche,Ascoli Piceno,,Caretta caretta,1,ND,57.0,TOT,Vivo,,,ND,Guardia Costiera,Donatella Sordelli,Centro di Recupero,13.89537,42.93561
-CSC140828TCc1,2014-08-28,Abruzzo,Chieti,,Caretta caretta,1,F,59.0,CCL,Morto,,,ND,Guardia Costiera,Roberto Valente,Centro Studi Cetacei,14.748579,42.082235
-CSC140828TCc5,2014-08-28,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.24432,44.67849
 CSC140827TCc4,2014-08-27,Abruzzo,Teramo,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,Vincenzo Perretti,Centro Studi Cetacei,14.08199,42.59374
+CSC140827TCc1,2014-08-27,Abruzzo,Chieti,,Caretta caretta,1,ND,60.0,CCL,Morto,LEGAAMBIENTEMANFREDONIA,,ND,Guardia Costiera,Roberto Valente,ASL,14.76173,42.07584
 CSC140827TCc2,2014-08-27,Sicilia,Messina,,Caretta caretta,1,ND,,,Vivo,,,ND,Guardia Costiera,anonimo,Guardia Costiera,15.86862,38.50804
 CSC140827TCc3,2014-08-27,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,55.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.34821,44.29734
-CSC140827TCc1,2014-08-27,Abruzzo,Chieti,,Caretta caretta,1,ND,60.0,CCL,Morto,LEGAAMBIENTEMANFREDONIA,,ND,Guardia Costiera,Roberto Valente,ASL,14.76173,42.07584
 CSC140826TCc2,2014-08-26,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.31997,44.38776
-CSC140826TCc3,2014-08-26,Marche,Ascoli Piceno,,Caretta caretta,1,ND,25.0,CCL,Vivo,,,ND,Guardia Costiera,Sardelli Donatella,Parco Naturale,13.91064,42.90291
 CSC140826TCc1,2014-08-26,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.29632,44.44558
+CSC140826TCc3,2014-08-26,Marche,Ascoli Piceno,,Caretta caretta,1,ND,25.0,CCL,Vivo,,,ND,Guardia Costiera,Sardelli Donatella,Parco Naturale,13.91064,42.90291
 CSC140825TCc3,2014-08-25,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,32.0,CCL,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.24059,44.70636
 CSC140825TCc2,2014-08-25,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,34.0,CCL,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.24082,44.70788
 CSC140825TCc1,2014-08-25,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.28296,44.5035
-CSC140824TCc2,2014-08-24,Sicilia,Trapani,,Caretta caretta,1,ND,45.0,CCL,Morto,,,ND,Guardia Costiera,Nicola Napolitano,WWF,12.61394,37.53474
 CSC140824TCc1,2014-08-24,Marche,Ancona,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,Luca Amico,Centro di Recupero,13.63628,43.48283
+CSC140824TCc2,2014-08-24,Sicilia,Trapani,,Caretta caretta,1,ND,45.0,CCL,Morto,,,ND,Guardia Costiera,Nicola Napolitano,WWF,12.61394,37.53474
 CSC140824TCm1,2014-08-24,Abruzzo,Teramo,,Chelonia mydas,2,ND,40.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Perretti,Centro Studi Cetacei,14.11618,42.55671
 CSC140822TCc1,2014-08-22,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,38.0,CCL,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.25813,44.64455
-CSC140821TCc1,2014-08-21,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,PU08753,,ND,Guardia Costiera,Maurizio Salterelli,Centro di Recupero,13.02292,43.84883
-CSC140821TCc2,2014-08-21,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,38.0,CCL,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.30784,44.42037
 CSC140821TDc1,2014-08-21,Liguria,Savona,,Dermochelys coriacea,3,ND,160.0,TOT,Morto,,,ND,Guardia Costiera,Walter Mignonei,Istituto Zooprofilattico,8.16558,43.96659
-CSC140820TCc1,2014-08-20,Abruzzo,Pescara,,Caretta caretta,1,F,54.0,CCL,Morto,,,ND,Guardia Costiera,Ludovica Di Renzo,Centro Studi Cetacei,14.17232,42.50737
+CSC140821TCc2,2014-08-21,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,38.0,CCL,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.30784,44.42037
+CSC140821TCc1,2014-08-21,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,PU08753,,ND,Guardia Costiera,Maurizio Salterelli,Centro di Recupero,13.02292,43.84883
 CSC140820TCc2,2014-08-20,Sardegna,Cagliari,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,9.56864,39.20743
-CSC140819TCc2,2014-08-19,Marche,Macerata,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,Sampaolesi Mauro,ASL,13.70271,43.35106
+CSC140820TCc1,2014-08-20,Abruzzo,Pescara,,Caretta caretta,1,F,54.0,CCL,Morto,,,ND,Guardia Costiera,Ludovica Di Renzo,Centro Studi Cetacei,14.17232,42.50737
 CSC140819TCc1,2014-08-19,Abruzzo,Pescara,,Caretta caretta,1,F,56.0,CCL,Morto,FC0401,,ND,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,14.23303,42.46095
+CSC140819TCc2,2014-08-19,Marche,Macerata,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,Sampaolesi Mauro,ASL,13.70271,43.35106
 CSC140818TCc1,2014-08-18,Marche,Ancona,,Caretta caretta,1,ND,45.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.23337,43.71039
 CSC140817TCc1,2014-08-17,Marche,Ancona,,Caretta caretta,1,ND,38.0,TOT,Morto,,,ND,Privato cittadino,Cristoforo De Giuseppe,Guardia Costiera,13.54638,43.6063
 CSC140817TCc2,2014-08-17,Marche,Ancona,,Caretta caretta,1,ND,38.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.34,43.65444
 CSC140814TCc1,2014-08-14,Marche,Ascoli Piceno,,Caretta caretta,1,F,80.0,CCL,Morto,,,ND,Guardia Costiera,Giorgio Filipponi,ASUR,13.89172,42.93872
 CSC140813TCc1,2014-08-13,Abruzzo,Chieti,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Alberto Marzollo,Centro Studi Cetacei,14.38482,42.37448
 CSC140813TCc2,2014-08-13,Marche,Ascoli Piceno,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia di Finanza,Semeraro Angela Marisa,ASUR,13.88784,42.95737
-CSC140811TCc1,2014-08-11,Abruzzo,Pescara,,Caretta caretta,1,F,78.0,CCL,Vivo,,CSCIT006,ND,Guardia Costiera,Ludovica Di Renzo,Centro Studi Cetacei,14.28015,42.49101
 CSC140811TCc4,2014-08-11,Abruzzo,Teramo,,Caretta caretta,1,ND,46.0,TOT,Morto,,,ND,Guardia Costiera,Alfredo Di Domenicantonio,Centro Studi Cetacei,14.08489,42.59003
+CSC140811TCc1,2014-08-11,Abruzzo,Pescara,,Caretta caretta,1,F,78.0,CCL,Vivo,,CSCIT006,ND,Guardia Costiera,Ludovica Di Renzo,Centro Studi Cetacei,14.28015,42.49101
 CSC140811TCc2,2014-08-11,Abruzzo,Chieti,,Caretta caretta,1,F,70.0,TOT,Vivo,,,ND,Guardia Costiera,Fabio Indirli,Guardia Costiera,14.475,42.383
-CSC140810TCc1,2014-08-10,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.02611,43.87026
 CSC140810TCc2,2014-08-10,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.05859,43.80499
+CSC140810TCc1,2014-08-10,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.02611,43.87026
 CSC140809TCc1,2014-08-09,Marche,Ascoli Piceno,,Caretta caretta,1,ND,32.0,CCL,Morto,,,ND,Privato cittadino,Donatella Sordelli,ASUR,13.88414,42.96029
-CSC140808TCc1,2014-08-08,Abruzzo,Pescara,,Caretta caretta,1,ND,51.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,14.26219,42.49034
 CSC140811TCc3,2014-08-08,Abruzzo,Teramo,,Caretta caretta,1,ND,38.0,CCL,Morto,,,ND,Guardia Costiera,Alfredo Di Domenicantonio,ASL,14.555,42.852
 CSC140808TCc2,2014-08-08,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.04722,43.83444
+CSC140808TCc1,2014-08-08,Abruzzo,Pescara,,Caretta caretta,1,ND,51.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,14.26219,42.49034
 CSC140807TCc1,2014-08-07,Marche,Ancona,,Caretta caretta,1,ND,36.0,TOT,Vivo,,,ND,Guardia Costiera,Luca Amico,Centro di Recupero,13.43013,43.65441
 CSC140806TCc1,2014-08-06,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,28.0,TOT,Morto,,,ND,Guardia Costiera,Campomori Pamela,ASL,12.93333,43.88333
 CSC140806TCc2,2014-08-06,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.13333,43.85
-CSC140805TCc2,2014-08-05,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,78.0,CCL,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.25001,44.66204
 CSC140805TCc3,2014-08-05,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,57.0,CCL,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.25046,44.66308
+CSC140805TCc2,2014-08-05,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,78.0,CCL,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.25001,44.66204
 CSC140805TCc1,2014-08-05,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,62.0,CCL,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.2575,44.64537
-CSC140804TCc3,2014-08-04,Friuli,Gorizia,,Caretta caretta,1,ND,30.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.55,45.74167
-CSC140804TCc4,2014-08-04,Friuli,Gorizia,,Caretta caretta,1,ND,34.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.53376,45.77515
-CSC140804TCc1,2014-08-04,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Antonio Fusco,Guardia Costiera,14.34691,42.42083
 CSC140804TCc2,2014-08-04,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Antonio Fusco,Guardia Costiera,14.34691,42.42083
+CSC140804TCc3,2014-08-04,Friuli,Gorizia,,Caretta caretta,1,ND,30.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.55,45.74167
+CSC140804TCc1,2014-08-04,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Antonio Fusco,Guardia Costiera,14.34691,42.42083
+CSC140804TCc4,2014-08-04,Friuli,Gorizia,,Caretta caretta,1,ND,34.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.53376,45.77515
 CSC140802TCc2,2014-08-02,Marche,Fermo,,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Marinelli Francesco,ASL,13.82547,43.17455
 CSC140802TCc1,2014-08-02,Sicilia,Messina,,Caretta caretta,1,ND,70.0,TOT,Vivo,,,ND,Guardia Costiera,anonimo,Istituto Zooprofilattico,14.89944,38.48222
-CSC140801TCc3,2014-08-01,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.29933,44.43863
 CSC140801TCc4,2014-08-01,Abruzzo,Teramo,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,Alfredo Di Domenicantonio,ASL,14.00103,42.70038
 CSC140801TCc2,2014-08-01,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,65.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Centro di Recupero,12.31988,44.38777
+CSC140801TCc3,2014-08-01,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.29933,44.43863
 CSC140801TCc1,2014-08-01,Marche,Ascoli Piceno,,Caretta caretta,1,ND,57.0,CCL,Morto,,,ND,Privato cittadino,Alessandra Aliventi,ASUR,13.89379,42.9359
-CSC140728TCc1,2014-07-28,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,68.0,CCL,Morto,,,ND,Guardia Costiera,Fantanini,Centro di Recupero,12.28019,44.51297
-CSC140728TCc2,2014-07-28,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,40.0,CCL,Morto,,,ND,Guardia Costiera,Carbonari Enrico,ASL,12.905,43.92667
 CSC140728TCc3,2014-07-28,Calabria,Cosenza,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Guardia Costiera,Graziella Puglisi,ASL,16.61724,39.98137
+CSC140728TCc2,2014-07-28,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,40.0,CCL,Morto,,,ND,Guardia Costiera,Carbonari Enrico,ASL,12.905,43.92667
+CSC140728TCc1,2014-07-28,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,68.0,CCL,Morto,,,ND,Guardia Costiera,Fantanini,Centro di Recupero,12.28019,44.51297
 CSC140727TCc1,2014-07-27,Abruzzo,Pescara,,Caretta caretta,1,F,45.0,CCL,Morto,,,ND,Guardia Costiera,Iginio Piscione,Centro Studi Cetacei,14.16728,42.51254
 CSC140726TCc1,2014-07-26,Calabria,Crotone,,Caretta caretta,1,M,72.0,CCL,Morto,,,ND,ASP,Elena Madeo,Centro Studi Cetacei,16.95566,38.93842
 CSC140726TCc2,2014-07-26,Marche,Ascoli Piceno,,Caretta caretta,1,ND,56.0,CCL,Morto,,,ND,Guardia Costiera,Semeraro Angela Marisa,ASUR,13.87171,42.99403
@@ -2742,77 +2742,77 @@ CSC140722TCc1,2014-07-22,Calabria,Cosenza,,Caretta caretta,1,M,65.0,CCL,Morto,,,
 CSC140719TCc1,2014-07-19,Friuli,Gorizia,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.55538,45.77954
 CSC140718TCc1,2014-07-18,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.28134,44.50746
 CSC140717TCc1,2014-07-17,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Guardia Costiera,Lombardi,Centro di Recupero,12.28144,44.50553
-CSC140716TCc1,2014-07-16,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.27987,44.5345
 CSC140716TCc3,2014-07-16,Sardegna,Cagliari,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,anonimo,Parco Naturale,9.50405,39.10992
+CSC140716TCc1,2014-07-16,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.27987,44.5345
 CSC140716TCc2,2014-07-16,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,80.0,CCL,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.27987,44.5345
-CSC140715TCc2,2014-07-15,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.28128,44.50824
 CSC140715TCc1,2014-07-15,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.28316,44.49351
 CSC140715TCc3,2014-07-15,Friuli,Gorizia,,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.53889,45.77722
-CSC140714TCc2,2014-07-14,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.27987,44.50688
+CSC140715TCc2,2014-07-15,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.28128,44.50824
 CSC140714TCc1,2014-07-14,Calabria,Vibo Valentia,,Caretta caretta,1,F,75.0,CCL,Morto,,,ND,Guardia Costiera,Campisi Isabella,ASL,16.05678,38.72254
+CSC140714TCc2,2014-07-14,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.27987,44.50688
 CSC140713TCc1,2014-07-13,Liguria,Imperia,,Caretta caretta,1,ND,74.0,TOT,Morto,,,ND,Guardia Costiera,Giacomo Aschri,ASL,8.02946,43.87482
 CSC140712TCc1,2014-07-12,Marche,Ancona,,Caretta caretta,1,ND,40.0,CCL,Morto,,,ND,Guardia Costiera,Valerio Sulliotti,Centro di Recupero,13.6248,43.5124
 CSC140709TCc1,2014-07-09,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,40.0,CCL,Morto,,,ND,Privato cittadino,Maurizio Salterelli,Centro di Recupero,12.95914,43.88438
 CSC140708TCc1,2014-07-08,Marche,Ancona,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.52389,43.6225
-CSC140706TCc2,2014-07-06,Marche,Ancona,,Caretta caretta,1,ND,41.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.20024,43.73919
 CSC140706TCc1,2014-07-06,Lazio,Latina,,Caretta caretta,1,ND,60.0,CCL,Vivo,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.99856,40.93335
+CSC140706TCc2,2014-07-06,Marche,Ancona,,Caretta caretta,1,ND,41.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.20024,43.73919
 CSC140704TCc1,2014-07-04,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,85.0,CCL,Morto,,,ND,Guardia Costiera,Angelini,Centro di Recupero,12.28379,44.55476
 CSC140703TCc1,2014-07-03,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Guardia Costiera,anonimo,Centro di Recupero,12.2829,44.55936
-CSC140702TCc1,2014-07-02,Abruzzo,Pescara,,Caretta caretta,1,ND,36.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,14.16129,42.51902
 CSC140702TCc2,2014-07-02,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Centro di Recupero,12.28288,44.54981
+CSC140702TCc1,2014-07-02,Abruzzo,Pescara,,Caretta caretta,1,ND,36.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,14.16129,42.51902
 CSC140702TCc3,2014-07-02,Calabria,Cosenza,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,Labonia Cataldo Antonio,ASL,16.59889,40.03967
 CSC140629TCc1,2014-06-29,Marche,Ancona,,Caretta caretta,1,ND,65.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.25001,43.69991
 CSC140628TCc2,2014-06-28,Marche,Fermo,,Caretta caretta,1,ND,54.0,CCL,Morto,,,ND,Privato cittadino,Trobbiani Marisa,ASUR,13.78558,43.21403
 CSC140628TCc1,2014-06-28,Marche,Fermo,,Caretta caretta,1,ND,47.0,CCL,Morto,,,ND,Guardia Costiera,Trobbiani Marisa,ASUR,13.7464,43.28726
 CSC140627TCc1,2014-06-27,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.05032,43.83261
 CSC140625TCc3,2014-06-25,Puglia,Lecce,,Caretta caretta,1,ND,36.0,CCL,Vivo,,,ND,Privato cittadino,Chiara Caputo,Centro di Recupero,18.49268,40.15251
-CSC140625TCc2,2014-06-25,Puglia,Lecce,,Caretta caretta,1,ND,56.0,CCL,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,18.42826,40.00071
 CSC140625TCc1,2014-06-25,Calabria,Crotone,,Caretta caretta,1,ND,31.0,CCL,Vivo,,,ND,Privato cittadino,Elena Madeo,Centro Studi Cetacei,17.04601,39.4456
+CSC140625TCc2,2014-06-25,Puglia,Lecce,,Caretta caretta,1,ND,56.0,CCL,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,18.42826,40.00071
 CSC140624TCc1,2014-06-24,Sicilia,Trapani,,Caretta caretta,1,ND,45.0,CCL,Morto,,,ND,Guardia Costiera,anonimo,ASL,12.78095,37.581
 CSC140623TCc1,2014-06-23,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,35.0,CCL,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.29094,44.49382
-CSC140621TCc2,2014-06-21,Abruzzo,Teramo,,Caretta caretta,1,ND,32.0,CCL,Morto,,,ND,Guardia Costiera,Alfredo Di Domenicantonio,Centro Studi Cetacei,13.95354,42.78448
 CSC140621TCc1,2014-06-21,Calabria,Catanzaro,,Caretta caretta,1,ND,37.0,CCL,Vivo,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,16.81819,38.90982
+CSC140621TCc2,2014-06-21,Abruzzo,Teramo,,Caretta caretta,1,ND,32.0,CCL,Morto,,,ND,Guardia Costiera,Alfredo Di Domenicantonio,Centro Studi Cetacei,13.95354,42.78448
 CSC140619TCc1,2014-06-19,Abruzzo,Pescara,,Caretta caretta,1,ND,47.0,CCL,Vivo,CSCIT001,,ND,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,14.46912,42.58635
 CSC140617TCc1,2014-06-17,Calabria,Cosenza,,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Privato cittadino,Labonia Cataldo Antonio,ASL,16.6221,39.97283
 CSC140616TCc1,2014-06-16,Calabria,Crotone,,Caretta caretta,1,F,52.0,CCL,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,17.14602,39.20659
-CSC140615TCc1,2014-06-15,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Fantanini,Centro di Recupero,12.28487,44.49859
 CSC140615TCc2,2014-06-15,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.31099,44.41597
+CSC140615TCc1,2014-06-15,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Fantanini,Centro di Recupero,12.28487,44.49859
 CSC140613TCc1,2014-06-13,Calabria,Cosenza,,Caretta caretta,1,F,60.0,CCL,Morto,,,ND,Guardia Costiera,Perri Gerardo,ASL,16.82207,39.57545
 CSC140612TCc1,2014-06-12,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Vivo,,,ND,Guardia Costiera,anonimo,Centro di Recupero,12.28046,44.51196
-CSC140611TCc1,2014-06-11,Calabria,Cosenza,,Caretta caretta,1,ND,40.0,CCL,Morto,,,ND,Guardia Costiera,Graziella Pugliese,ASL,16.62413,40.10067
 CSC140611TCc2,2014-06-11,Sicilia,Messina,,Caretta caretta,1,ND,40.0,TOT,Vivo,,,ND,Guardia Costiera,Caracappa Santo,Istituto Zooprofilattico,14.96361,38.49611
+CSC140611TCc1,2014-06-11,Calabria,Cosenza,,Caretta caretta,1,ND,40.0,CCL,Morto,,,ND,Guardia Costiera,Graziella Pugliese,ASL,16.62413,40.10067
 CSC140610TCc1,2014-06-10,Calabria,Crotone,,Caretta caretta,1,ND,26.0,CCL,Morto,,,ND,Guardia Costiera,Elena Madeo,Centro Studi Cetacei,17.15719,39.0404
 CSC140609TCc1,2014-06-09,Sicilia,Messina,,Caretta caretta,1,ND,50.0,CCL,Vivo,,,ND,Guardia Costiera,Caracappa Santo,Istituto Zooprofilattico,14.98686,38.36207
-CSC140607TCc3,2014-06-07,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,100.0,TOT,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.34786,44.30076
 CSC140607TCc2,2014-06-07,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.28903,44.46399
+CSC140607TCc3,2014-06-07,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,100.0,TOT,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,12.34786,44.30076
 CSC140607TCc1,2014-06-07,Abruzzo,Teramo,,Caretta caretta,1,F,60.0,CCL,Morto,,,ND,Guardia Costiera,anonimo,ASL,13.94825,42.79462
 CSC140606TCc2,2014-06-06,Sicilia,Trapani,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,anonimo,ASL,12.81114,37.58199
 CSC140606TCc1,2014-06-06,Calabria,Reggio di Calabria,,Caretta caretta,1,F,40.0,CCL,Morto,,,ND,Carabinieri,Costanzo Mario,ASL,15.87462,38.4184
 CSC140605TCc1,2014-06-05,Marche,Fermo,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,Patrizia Tirabasso,ASUR,13.81449,43.15262
 CSC140601TCc1,2014-06-01,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.28169,44.50622
 CSC140531TCc1,2014-05-31,Calabria,Catanzaro,Gizzeria,Caretta caretta,1,F,80.0,TOT,Morto,,,ND,ASP,Stefania Giglio,Centro Studi Cetacei,16.16406,38.94824
-CSC140523TCc1,2014-05-23,Calabria,Vibo Valentia,,Caretta caretta,1,F,62.0,CCL,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,16.19478,38.7668
-CSC140523TCc2,2014-05-23,Calabria,Vibo Valentia,,Caretta caretta,1,F,68.0,CCL,Morto,,,ND,Guardia Costiera,Elena Madeo,Centro Studi Cetacei,16.19628,38.77077
 CSC140523TCc3,2014-05-23,Calabria,Vibo Valentia,,Caretta caretta,1,F,66.0,CCL,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,16.19619,38.77057
+CSC140523TCc2,2014-05-23,Calabria,Vibo Valentia,,Caretta caretta,1,F,68.0,CCL,Morto,,,ND,Guardia Costiera,Elena Madeo,Centro Studi Cetacei,16.19628,38.77077
+CSC140523TCc1,2014-05-23,Calabria,Vibo Valentia,,Caretta caretta,1,F,62.0,CCL,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,16.19478,38.7668
 CSC140521TCc1,2014-05-21,Calabria,Catanzaro,,Caretta caretta,1,F,58.0,CCL,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,16.22056,38.90659
 CSC140521TCc2,2014-05-21,Calabria,Catanzaro,,Caretta caretta,1,F,58.0,CCL,Morto,,,ND,Guardia Costiera,Elena Madeo,Centro Studi Cetacei,16.22069,38.90305
 CSC140520TCc1,2014-05-20,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,71.0,CCL,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.28335,44.55784
 CSC140518TCc1,2014-05-18,Friuli,Gorizia,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.52611,45.77139
-CSC140515TCc2,2014-05-15,Calabria,Catanzaro,,Caretta caretta,1,M,50.0,CCL,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,16.11999,38.71836
 CSC140515TCc1,2014-05-15,Calabria,Catanzaro,,Caretta caretta,1,F,54.0,CCL,Morto,,,ND,Guardia Costiera,Elena Madeo,Centro Studi Cetacei,16.21253,38.92954
+CSC140515TCc2,2014-05-15,Calabria,Catanzaro,,Caretta caretta,1,M,50.0,CCL,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,16.11999,38.71836
 CSC140511TCc1,2014-05-11,Calabria,Catanzaro,,Caretta caretta,1,ND,35.0,CCL,Vivo,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,16.22124,38.85673
-CSC140510TCc2,2014-05-10,Calabria,Catanzaro,,Caretta caretta,1,ND,43.0,CCL,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,16.18444,38.93806
 CSC140510TCc1,2014-05-10,Calabria,Catanzaro,,Caretta caretta,1,M,48.0,CCL,Morto,,,ND,Guardia Costiera,Elena Madeo,Centro Studi Cetacei,16.18583,38.93694
+CSC140510TCc2,2014-05-10,Calabria,Catanzaro,,Caretta caretta,1,ND,43.0,CCL,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,16.18444,38.93806
 CSC140508TCc1,2014-05-08,Friuli,Gorizia,,Caretta caretta,1,ND,90.0,CCL,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.52582,45.76869
 CSC140506TCc2,2014-05-06,Calabria,Catanzaro,,Caretta caretta,1,ND,47.0,CCL,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,16.21306,38.92833
 CSC140506TCc1,2014-05-06,Calabria,Vibo Valentia,,Caretta caretta,1,ND,42.0,CCL,Vivo,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,16.12058,38.73375
 CSC140504TCc2,2014-05-04,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,40.0,CCL,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.28038,44.51274
-CSC140504TCc1,2014-05-04,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,Vincenzo Olivieri,Centro Studi Cetacei,14.12566,42.54772
 CSC140504TCc3,2014-05-04,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.29017,44.46082
-CSC140502TCc2,2014-05-02,Calabria,Reggio di Calabria,,Caretta caretta,1,M,70.0,TOT,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,15.88319,38.43074
-CSC140502TCc1,2014-05-02,Calabria,Reggio di Calabria,,Caretta caretta,1,F,110.0,TOT,Morto,,,ND,Guardia Costiera,Elena Madeo,Centro Studi Cetacei,15.91333,38.47972
+CSC140504TCc1,2014-05-04,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,Vincenzo Olivieri,Centro Studi Cetacei,14.12566,42.54772
 CSC140502TCc3,2014-05-02,Calabria,Cosenza,,Caretta caretta,1,F,60.0,CCL,Morto,,,ND,Privato cittadino,Stefania Giglio,Centro Studi Cetacei,16.07187,39.12317
+CSC140502TCc2,2014-05-02,Calabria,Reggio di Calabria,,Caretta caretta,1,M,70.0,TOT,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,15.88319,38.43074
 CSC140502TCc4,2014-05-02,Friuli,Gorizia,,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.53029,45.77381
+CSC140502TCc1,2014-05-02,Calabria,Reggio di Calabria,,Caretta caretta,1,F,110.0,TOT,Morto,,,ND,Guardia Costiera,Elena Madeo,Centro Studi Cetacei,15.91333,38.47972
 CSC140501TCc1,2014-05-01,Calabria,Catanzaro,,Caretta caretta,1,ND,56.0,CCL,Morto,,,ND,Privato cittadino,Stefania Giglio,Centro Studi Cetacei,16.19682,38.93221
 CSC140427TCc1,2014-04-27,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,anonimo,Centro di Recupero,12.24616,44.74639
 CSC140426TCc1,2014-04-26,Calabria,Catanzaro,,Caretta caretta,1,F,48.0,CCL,Morto,,,ND,Privato cittadino,Stefania Giglio,Centro Studi Cetacei,16.14604,38.97313
@@ -2848,8 +2848,8 @@ CSC140310TCc1,2014-03-10,Marche,Ancona,,Caretta caretta,1,ND,85.0,TOT,Morto,,,ND
 CSC140310TCc2,2014-03-10,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,90.0,TOT,Morto,,,ND,Guardia Costiera,Ridolfini Roberto,ASUR,12.93306,43.90444
 CSC140309TCc1,2014-03-09,Marche,Ancona,,Caretta caretta,1,ND,110.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.34658,43.65196
 CSC140309TCc2,2014-03-09,Marche,Ancona,,Caretta caretta,1,ND,45.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.42445,43.61984
-CSC140308TCc2,2014-03-08,Marche,Ancona,,Caretta caretta,1,ND,80.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.40614,43.62703
 CSC140308TCc1,2014-03-08,Marche,Ancona,,Caretta caretta,1,ND,90.0,CCL,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.29535,43.67454
+CSC140308TCc2,2014-03-08,Marche,Ancona,,Caretta caretta,1,ND,80.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.40614,43.62703
 CSC140225TCc1,2014-02-25,Puglia,Lecce,,Caretta caretta,1,ND,61.0,TOT,Morto,,,ND,Guardia Costiera,Cosimo Greco,ASL,18.46053,40.23349
 CSC140224TCc1,2014-02-24,Abruzzo,Pescara,,Caretta caretta,1,F,82.0,CCL,Vivo,,,ND,Motopeschereccio,Massimiliano Pennelli,Centro Studi Cetacei,14.33493,42.59488
 CSC140220TCc2,2014-02-20,Marche,Ancona,,Caretta caretta,1,M,65.0,CCL,Morto,,,ND,Privato cittadino,Alessandro Neri,Centro Studi Cetacei,13.595,43.56278
@@ -2859,8 +2859,8 @@ CSC140217TCc1,2014-02-17,Calabria,Vibo Valentia,,Caretta caretta,1,M,73.0,CCL,Mo
 CSC140211TCc1,2014-02-11,Lazio,Latina,,Caretta caretta,1,ND,57.0,TOT,Morto,,,ND,Guardia Costiera,Giuglietta Benito,ASL,13.14881,41.26613
 CSC140210TCc1,2014-02-10,Molise,Campobasso,,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Guardia Costiera,Mauro Blardi,ASL,15.03194,41.97694
 CSC140209TCc1,2014-02-09,Calabria,Vibo Valentia,,Caretta caretta,1,F,56.0,CCL,Morto,,,ND,Guardia Costiera,Elena Madeo,Centro Studi Cetacei,16.14017,38.7205
-CSC140207TCc3,2014-02-07,Calabria,Cosenza,,Caretta caretta,1,ND,30.0,CCL,Vivo,,,ND,Guardia Costiera,Elena Madeo,Centro Studi Cetacei,16.0556,39.21249
 CSC140207TCc2,2014-02-07,Marche,Ancona,,Caretta caretta,1,ND,45.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.34876,43.65061
+CSC140207TCc3,2014-02-07,Calabria,Cosenza,,Caretta caretta,1,ND,30.0,CCL,Vivo,,,ND,Guardia Costiera,Elena Madeo,Centro Studi Cetacei,16.0556,39.21249
 CSC140206TCc1,2014-02-06,Puglia,Lecce,,Caretta caretta,1,ND,26.0,TOT,Vivo,,,ND,Guardia Costiera,Carlino Piero,Centro di Recupero,18.49359,40.14787
 CSC140206TCc2,2014-02-06,Marche,Fermo,,Caretta caretta,1,ND,30.0,TOT,Morto,,,ND,Guardia Costiera,Pina De Curtis,ASUR,13.78669,43.21111
 CSC140204TCc1,2014-02-04,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,54.0,TOT,Morto,,,ND,Guardia Costiera,Angelini,Centro di Recupero,12.28588,44.48571
@@ -2873,133 +2873,133 @@ CSC140124TCc1,2014-01-24,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,
 CSC140123TCc1,2014-01-23,Calabria,Cosenza,,Caretta caretta,1,ND,30.0,CCL,Vivo,,,ND,ASP,Stefania Giglio,Centro Studi Cetacei,16.01196,39.4063
 CSC140123TCc2,2014-01-23,Lazio,Latina,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,ASL,13.15352,41.26793
 CSC140121TCc1,2014-01-21,Calabria,Cosenza,,Caretta caretta,1,M,35.0,TOT,Morto,,,ND,Guardia Costiera,Elio Blenio,ASL,15.78094,39.89023
-CSC140121TCc2,2014-01-21,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,55.0,TOT,Morto,,,ND,Guardia Costiera,Giovannelli Giuseppe,ASL,13.12,43.78194
 CSC140121TCc3,2014-01-21,Puglia,Lecce,,Caretta caretta,1,ND,35.0,TOT,Morto,,,ND,Guardia Costiera,Remigio Venuti,ASL,18.27362,39.83053
-CSC140120TCc2,2014-01-20,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,ASUR,12.9001,43.91667
+CSC140121TCc2,2014-01-21,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,55.0,TOT,Morto,,,ND,Guardia Costiera,Giovannelli Giuseppe,ASL,13.12,43.78194
 CSC140120TCc1,2014-01-20,Calabria,Crotone,,Caretta caretta,1,F,70.0,CCL,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,17.03583,39.45972
+CSC140120TCc2,2014-01-20,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,ASUR,12.9001,43.91667
 CSC140118TCc1,2014-01-18,Abruzzo,Teramo,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,Alfredo Di Domenicantonio,ASL,13.92853,42.85426
 CSC140116TCc1,2014-01-16,Sicilia,Trapani,,Caretta caretta,1,ND,45.0,CCL,Morto,,,ND,Privato cittadino,anonimo,ASL,12.5501,37.66301
 CSC140107TCc1,2014-01-07,Lazio,Latina,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,ASL,12.90084,41.39176
 CSC140105TCc1,2014-01-05,Marche,Ancona,,Caretta caretta,1,ND,95.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.50812,43.62447
 CSC140101TCc1,2014-01-01,Marche,Ancona,,Caretta caretta,1,ND,90.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Centro Studi Cetacei,13.33185,43.65788
 CSC131229TCc1,2013-12-29,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.33735,44.33135
-CSC131229TCc2,2013-12-29,Puglia,Lecce,,Caretta caretta,1,ND,66.0,TOT,Morto,,,ND,Guardia Costiera,Giorgio De Giorgi,ASL,18.38967,40.537
 CSC131229TCc3,2013-12-29,Marche,Ancona,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Privato cittadino,Alessandro Neri,Centro Studi Cetacei,13.48096,43.60695
+CSC131229TCc2,2013-12-29,Puglia,Lecce,,Caretta caretta,1,ND,66.0,TOT,Morto,,,ND,Guardia Costiera,Giorgio De Giorgi,ASL,18.38967,40.537
 CSC131227TCc1,2013-12-27,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Stefano Lamberti,ASL,12.33,44.33444
 CSC131221TCc1,2013-12-21,Abruzzo,Chieti,,Caretta caretta,1,ND,60.0,CCL,Vivo,,CSCIT005,ND,Guardia Costiera,Massimiliano Pennelli,Centro Studi Cetacei,14.34247,42.44144
-CSC131211TCc1,2013-12-11,Abruzzo,Chieti,,Caretta caretta,1,F,68.0,CCL,Vivo,,CSCIT004,ND,Motopeschereccio,Massimiliano Pennelli,Centro Studi Cetacei,14.40583,42.47185
 CSC131211TCc2,2013-12-11,Calabria,Vibo Valentia,,Caretta caretta,1,ND,65.0,TOT,Vivo,,,ND,Guardia Costiera,Elena Madeo,Centro Studi Cetacei,16.15645,38.73293
-CSC131210TCc2,2013-12-10,Marche,Ancona,,Caretta caretta,1,ND,35.0,TOT,Vivo,,,ND,Guardia Costiera,Luca Amico,ASL,13.33333,43.71667
+CSC131211TCc1,2013-12-11,Abruzzo,Chieti,,Caretta caretta,1,F,68.0,CCL,Vivo,,CSCIT004,ND,Motopeschereccio,Massimiliano Pennelli,Centro Studi Cetacei,14.40583,42.47185
 CSC131210TCc1,2013-12-10,Calabria,Vibo Valentia,,Caretta caretta,1,F,82.0,TOT,Vivo,,,ND,Motopeschereccio,Stefania Giglio,Centro Studi Cetacei,15.93008,38.54584
+CSC131210TCc2,2013-12-10,Marche,Ancona,,Caretta caretta,1,ND,35.0,TOT,Vivo,,,ND,Guardia Costiera,Luca Amico,ASL,13.33333,43.71667
 CSC131207TCc1,2013-12-07,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,80.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.3171,44.39818
 CSC131205TCc1,2013-12-05,Marche,Ancona,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.62735,43.49509
 CSC131204TCc1,2013-12-04,Marche,Ascoli Piceno,,Caretta caretta,1,F,52.0,TOT,Morto,,,ND,Privato cittadino,Giuliano Falaschetti,ASL,13.89074,42.9411
-CSC131203TCc2,2013-12-03,Abruzzo,Chieti,,Caretta caretta,1,ND,82.0,TOT,Morto,,,ND,Guardia Costiera,William Di Nardo,ASL,14.44556,42.31008
 CSC131203TCc1,2013-12-03,Abruzzo,Teramo,,Caretta caretta,1,ND,40.0,CCL,Morto,,,ND,Guardia Costiera,Claudia Borgatti,Centro Studi Cetacei,14.02268,42.67149
+CSC131203TCc2,2013-12-03,Abruzzo,Chieti,,Caretta caretta,1,ND,82.0,TOT,Morto,,,ND,Guardia Costiera,William Di Nardo,ASL,14.44556,42.31008
 CSC131202TCc2,2013-12-02,Marche,Ancona,,Caretta caretta,1,ND,65.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,13.21478,43.72328
-CSC131202TCc3,2013-12-02,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,25.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Polizia Municipale,12.31811,44.38988
 CSC131202TCc5,2013-12-02,Marche,Ascoli Piceno,,Caretta caretta,1,ND,80.0,TOT,Morto,,,ND,Privato cittadino,Remo Ruffini,ASUR,13.8956,42.93228
-CSC131202TCc4,2013-12-02,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,Non disponibile,ASUR,12.78778,43.96472
+CSC131202TCc3,2013-12-02,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,25.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Polizia Municipale,12.31811,44.38988
 CSC131202TCc1,2013-12-02,Marche,Ancona,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Privato cittadino,Antonio Previderio,Guardia Costiera,13.40361,43.62851
-CSC131201TCc1,2013-12-01,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,72.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Polizia Municipale,12.33028,44.345
+CSC131202TCc4,2013-12-02,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,Non disponibile,ASUR,12.78778,43.96472
 CSC131201TCc4,2013-12-01,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.31306,44.41148
-CSC131201TCc3,2013-12-01,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,51.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.33028,44.34472
 CSC131201TCc2,2013-12-01,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Polizia Municipale,12.28096,44.50855
+CSC131201TCc1,2013-12-01,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,72.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Polizia Municipale,12.33028,44.345
+CSC131201TCc3,2013-12-01,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,51.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.33028,44.34472
 CSC131130TCc1,2013-11-30,Marche,Ancona,,Caretta caretta,1,ND,75.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.20994,43.72564
 CSC131129TCc2,2013-11-29,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,55.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.31694,44.39194
 CSC131129TCc1,2013-11-29,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,38.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,12.31988,44.38636
-CSC131128TCc2,2013-11-28,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,65.0,TOT,Morto,,,ND,Guardia Costiera,Antonio Donzella,Guardia Costiera,12.31859,44.38905
 CSC131128TCc4,2013-11-28,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,39.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.3397,44.32604
 CSC131128TCc3,2013-11-28,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,65.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.32024,44.38223
+CSC131128TCc2,2013-11-28,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,65.0,TOT,Morto,,,ND,Guardia Costiera,Antonio Donzella,Guardia Costiera,12.31859,44.38905
 CSC131128TCc1,2013-11-28,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,39.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,12.3407,44.3239
-CSC131127TCc1,2013-11-27,Abruzzo,Chieti,,Caretta caretta,1,ND,71.0,TOT,Morto,,,ND,Guardia Costiera,William Di Nardo,ASL,14.27327,42.43235
-CSC131127TCc2,2013-11-27,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,30.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.75611,43.96861
-CSC131127TCc6,2013-11-27,Marche,Ancona,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.40429,43.62808
-CSC131127TCc5,2013-11-27,Marche,Ancona,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.41645,43.62265
 CSC131127TCc4,2013-11-27,Marche,Ancona,,Caretta caretta,1,ND,31.0,TOT,Morto,,,ND,Guardia Costiera,Antonio Previderio,Guardia Costiera,13.43444,43.61597
 CSC131127TCc3,2013-11-27,Marche,Ancona,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,Antonio Previderio,Guardia Costiera,13.4161,43.62267
-CSC131126TCc3,2013-11-26,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Vigili urbani,anonimo,Guardia Costiera,12.31591,44.39423
+CSC131127TCc1,2013-11-27,Abruzzo,Chieti,,Caretta caretta,1,ND,71.0,TOT,Morto,,,ND,Guardia Costiera,William Di Nardo,ASL,14.27327,42.43235
+CSC131127TCc6,2013-11-27,Marche,Ancona,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.40429,43.62808
+CSC131127TCc2,2013-11-27,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,30.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.75611,43.96861
+CSC131127TCc5,2013-11-27,Marche,Ancona,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.41645,43.62265
+CSC131126TCc2,2013-11-26,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,54.0,TOT,Morto,,,ND,Privato cittadino,Mengoni Franco,Parco naturale,12.92639,43.90889
+CSC131126TCc1,2013-11-26,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.35779,44.26892
 CSC131126TCc5,2013-11-26,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.35839,44.26886
 CSC131126TCc4,2013-11-26,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,80.0,TOT,Morto,,,ND,Guardia Costiera,Mengoni Franco,ASL,12.971,43.981
-CSC131126TCc1,2013-11-26,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.35779,44.26892
+CSC131126TCc3,2013-11-26,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Vigili urbani,anonimo,Guardia Costiera,12.31591,44.39423
 CSC131126TCc6,2013-11-26,Marche,Ancona,,Caretta caretta,1,ND,54.0,TOT,Morto,,,ND,Guardia Costiera,Mengoni Franco,ASL,12.92639,43.90889
-CSC131126TCc2,2013-11-26,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,54.0,TOT,Morto,,,ND,Privato cittadino,Mengoni Franco,Parco naturale,12.92639,43.90889
 CSC131125TCc2,2013-11-25,Lazio,Roma,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Valerio Manfrini,Centro Studi Cetacei,12.45608,41.62524
 CSC131125TCc1,2013-11-25,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Polizia Municipale,12.31617,44.3944
 CSC131123TCc1,2013-11-23,Marche,Ancona,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,13.4088,43.62576
 CSC131122TCc2,2013-11-22,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,35.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Associazione,12.28549,44.48129
-CSC131122TCc1,2013-11-22,Marche,Ancona,,Caretta caretta,1,ND,75.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.5995,43.56184
 CSC131122TCc3,2013-11-22,Marche,Ancona,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.59954,43.56188
-CSC131119TCc3,2013-11-19,Marche,Macerata,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.68432,43.39222
+CSC131122TCc1,2013-11-22,Marche,Ancona,,Caretta caretta,1,ND,75.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.5995,43.56184
 CSC131119TCc2,2013-11-19,Marche,Macerata,,Caretta caretta,1,ND,90.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Centro Studi Cetacei,13.68423,43.39351
 CSC131119TCc1,2013-11-19,Marche,Macerata,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,13.68366,43.395
+CSC131119TCc3,2013-11-19,Marche,Macerata,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.68432,43.39222
 CSC131118TCc2,2013-11-18,Marche,Ancona,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.40051,43.62956
 CSC131118TCc1,2013-11-18,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,30.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.33676,44.33174
-CSC131117TCc3,2013-11-17,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.28695,44.47504
-CSC131117TCc4,2013-11-17,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.28009,44.51278
 CSC131117TCc5,2013-11-17,Marche,Ancona,,Caretta caretta,1,M,45.0,TOT,Morto,,,ND,Guardia Costiera,Marinelli Francesco,ASL,13.77209,43.24283
-CSC131117TCc1,2013-11-17,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.28571,44.48453
+CSC131117TCc4,2013-11-17,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.28009,44.51278
+CSC131117TCc3,2013-11-17,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.28695,44.47504
 CSC131117TCc2,2013-11-17,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.27936,44.51866
+CSC131117TCc1,2013-11-17,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.28571,44.48453
 CSC131116TCc1,2013-11-16,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.28603,44.48598
 CSC131116TCc2,2013-11-16,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.29643,44.44452
 CSC131114TCc4,2013-11-14,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,48.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.28616,44.483
 CSC131114TCc3,2013-11-14,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,53.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.31268,44.41231
+CSC131114TCc2,2013-11-14,Marche,Ancona,,Caretta caretta,1,ND,55.0,TOT,Morto,,,ND,Guardia Costiera,Luca Amico,Associazione,13.62406,43.84962
 CSC131114TCc1,2013-11-14,Marche,Ascoli Piceno,,Caretta caretta,1,F,90.0,TOT,Morto,,,ND,Guardia Costiera,Falaschetti Giuliano,ASL,13.87498,42.9834
 CSC131114TCc5,2013-11-14,Abruzzo,Pescara,,Caretta caretta,1,ND,34.0,CCL,Vivo,,CSCIT003,ND,Guardia Costiera,Massimiliano Pennelli,Centro Studi Cetacei,14.31157,42.51689
-CSC131114TCc2,2013-11-14,Marche,Ancona,,Caretta caretta,1,ND,55.0,TOT,Morto,,,ND,Guardia Costiera,Luca Amico,Associazione,13.62406,43.84962
-CSC131113TCc1,2013-11-13,Marche,Ancona,,Caretta caretta,1,ND,45.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.28826,43.67819
-CSC131113TCc3,2013-11-13,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,56.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.3139,44.41362
 CSC131113TCc2,2013-11-13,Marche,Ancona,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,Luca Amico,Associazione,13.62268,43.50563
 CSC131113TCc4,2013-11-13,Puglia,Lecce,,Caretta caretta,1,ND,64.0,TOT,Vivo,,,ND,Guardia Costiera,anonimo,Guardia Costiera,18.4057,40.30295
-CSC131112TCc11,2013-11-12,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,65.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.35149,44.28558
-CSC131112TCc6,2013-11-12,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Vigili urbani,anonimo,Guardia Costiera,12.29933,44.43836
-CSC131112TCc2,2013-11-12,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,Non disponibile,Associazione,12.89982,43.92272
-CSC131112TCc12,2013-11-12,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Associazione,12.75222,43.96889
+CSC131113TCc1,2013-11-13,Marche,Ancona,,Caretta caretta,1,ND,45.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.28826,43.67819
+CSC131113TCc3,2013-11-13,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,56.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.3139,44.41362
 CSC131112TCc14,2013-11-12,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,55.0,TOT,Morto,,,ND,Vigili urbani,anonimo,Guardia Costiera,12.29723,44.44306
-CSC131112TCc15,2013-11-12,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.29623,44.44562
-CSC131112TCc16,2013-11-12,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.31598,44.40254
-CSC131112TCc9,2013-11-12,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,80.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.36738,44.24981
-CSC131112TCc10,2013-11-12,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,65.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.35059,44.28808
-CSC131112TCc13,2013-11-12,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Privato cittadino,Carbonari Enrico,ASL,12.9,43.92222
-CSC131112TCc1,2013-11-12,Abruzzo,Teramo,,Caretta caretta,1,F,68.0,TOT,Vivo,,,ND,Privato cittadino,Vincenzo Olivieri,Centro Studi Cetacei,13.9588,42.77458
 CSC131112TCc8,2013-11-12,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,31.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.2416,44.68546
-CSC131112TCc5,2013-11-12,Marche,Ancona,,Caretta caretta,1,ND,30.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.31953,43.66307
-CSC131112TCc7,2013-11-12,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,53.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.2416,44.68546
+CSC131112TCc2,2013-11-12,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,Non disponibile,Associazione,12.89982,43.92272
 CSC131112TCc3,2013-11-12,Abruzzo,Teramo,,Caretta caretta,1,ND,90.0,TOT,Morto,,,ND,Guardia Costiera,Marco Miccoli,Guardia Costiera,13.9416,42.81111
+CSC131112TCc16,2013-11-12,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.31598,44.40254
 CSC131112TCc4,2013-11-12,Marche,Ancona,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.28826,43.67819
-CSC131111TND1,2013-11-11,Emilia Romagna,Ravenna,,Indeterminato,5,ND,50.0,TOT,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.31536,44.40527
+CSC131112TCc5,2013-11-12,Marche,Ancona,,Caretta caretta,1,ND,30.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,13.31953,43.66307
+CSC131112TCc1,2013-11-12,Abruzzo,Teramo,,Caretta caretta,1,F,68.0,TOT,Vivo,,,ND,Privato cittadino,Vincenzo Olivieri,Centro Studi Cetacei,13.9588,42.77458
+CSC131112TCc12,2013-11-12,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,anonimo,Associazione,12.75222,43.96889
+CSC131112TCc7,2013-11-12,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,53.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.2416,44.68546
+CSC131112TCc6,2013-11-12,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Vigili urbani,anonimo,Guardia Costiera,12.29933,44.43836
+CSC131112TCc13,2013-11-12,Marche,Pesaro e Urbino,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Privato cittadino,Carbonari Enrico,ASL,12.9,43.92222
+CSC131112TCc10,2013-11-12,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,65.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.35059,44.28808
+CSC131112TCc15,2013-11-12,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.29623,44.44562
+CSC131112TCc11,2013-11-12,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,65.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.35149,44.28558
+CSC131112TCc9,2013-11-12,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,80.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.36738,44.24981
 CSC131111TCc1,2013-11-11,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Polizia Municipale,12.31163,44.41455
+CSC131111TND1,2013-11-11,Emilia Romagna,Ravenna,,Indeterminato,5,ND,50.0,TOT,Morto,,,ND,Privato cittadino,anonimo,Guardia Costiera,13.31536,44.40527
 CSC131110TCc1,2013-11-10,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,54.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.2461,44.74588
+CSC131109TCc3,2013-11-09,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,61.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.27089,44.79825
 CSC131109TCc2,2013-11-09,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,76.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.27089,44.79825
 CSC131109TCc1,2013-11-09,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,56.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.27089,44.79825
-CSC131109TCc3,2013-11-09,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,61.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.27089,44.79825
+CSC131108TCc8,2013-11-08,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,57.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Non disponibile,12.24421,44.67851
 CSC131108TCc1,2013-11-08,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Privato cittadino,Sauro Pari,Associazione,12.28642,44.47508
-CSC131108TCc4,2013-11-08,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,43.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Non disponibile,12.24421,44.67851
 CSC131108TCc7,2013-11-08,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,41.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Non disponibile,12.24421,44.67851
+CSC131108TCc4,2013-11-08,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,43.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Non disponibile,12.24421,44.67851
+CSC131108TCc6,2013-11-08,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,36.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Non disponibile,12.24421,44.67851
 CSC131108TCc3,2013-11-08,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,75.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Non disponibile,12.24421,44.67851
+CSC131108TCc10,2013-11-08,Puglia,Lecce,,Caretta caretta,1,ND,31.0,TOT,Vivo,,,ND,Guardia Costiera,anonimo,Guardia Costiera,18.17338,40.47334
 CSC131108TCc5,2013-11-08,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,42.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Non disponibile,12.24421,44.67851
 CSC131108TCc9,2013-11-08,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,42.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Non disponibile,12.24421,44.67851
 CSC131108TCc2,2013-11-08,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.28661,44.48227
-CSC131108TCc10,2013-11-08,Puglia,Lecce,,Caretta caretta,1,ND,31.0,TOT,Vivo,,,ND,Guardia Costiera,anonimo,Guardia Costiera,18.17338,40.47334
-CSC131108TCc8,2013-11-08,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,57.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Non disponibile,12.24421,44.67851
-CSC131108TCc6,2013-11-08,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,36.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Non disponibile,12.24421,44.67851
-CSC131107TCc5,2013-11-07,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.24074,44.70712
 CSC131107TCc1,2013-11-07,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,57.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.24421,44.67851
+CSC131107TCc8,2013-11-07,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,59.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.24131,44.71516
+CSC131107TCc5,2013-11-07,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.24074,44.70712
+CSC131107TCc4,2013-11-07,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,62.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.24421,44.67851
 CSC131107TCc6,2013-11-07,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,53.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.24131,44.71516
+CSC131107TCc7,2013-11-07,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.24131,44.71516
+CSC131107TCc2,2013-11-07,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,42.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.24421,44.67851
 CSC131107TCc9,2013-11-07,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.24131,44.71516
 CSC131107TCc3,2013-11-07,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,47.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.25731,44.64638
-CSC131107TCc7,2013-11-07,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.24131,44.71516
-CSC131107TCc8,2013-11-07,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,59.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.24131,44.71516
-CSC131107TCc2,2013-11-07,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,42.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.24421,44.67851
-CSC131107TCc4,2013-11-07,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,62.0,TOT,Morto,,,ND,Guardia Costiera,Carola Vallini,Associazione,12.24421,44.67851
 CSC131103TCc2,2013-11-03,Calabria,Cosenza,,Caretta caretta,1,ND,20.0,TOT,Morto,,,ND,Guardia Costiera,Graziella Puglisi,ASL,16.61968,40.09628
 CSC131103TCc1,2013-11-03,Calabria,Cosenza,,Caretta caretta,1,ND,20.0,TOT,Morto,,,ND,Polizia di Stato,Non disponibile,Guardia Costiera,16.62986,40.10601
 CSC131102TCc2,2013-11-02,Calabria,Cosenza,,Caretta caretta,1,F,55.0,CCL,Vivo,,,ND,Centro Studi Cetacei,Stefania Giglio,Centro Studi Cetacei,16.07285,39.1022
 CSC131102TCc1,2013-11-02,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,55.0,TOT,Morto,,,ND,Privato cittadino,Carola Vallini,Associazione,12.24012,44.69879
 CSC131101TCc1,2013-11-01,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,52.0,TOT,Morto,,,ND,Guardia Costiera,anonimo,Guardia Costiera,12.28392,44.52158
 CSC131030TCc1,2013-10-30,Sicilia,Trapani,,Caretta caretta,1,ND,80.0,TOT,Morto,,,ND,Privato cittadino,Caracappa Santo,Istituto Zooprofilattico,12.77801,37.58064
-CSC131025TCc2,2013-10-25,Abruzzo,Teramo,,Caretta caretta,1,ND,45.0,TOT,Morto,,,ND,Guardia Costiera,Alfredo Di Domenicantonio,ASL,13.9416,42.81111
 CSC131025TCc1,2013-10-25,Calabria,Catanzaro,,Caretta caretta,1,ND,36.0,TOT,Morto,,,ND,Guardia Costiera,Elena Madeo,Centro Studi Cetacei,16.55868,38.74651
+CSC131025TCc2,2013-10-25,Abruzzo,Teramo,,Caretta caretta,1,ND,45.0,TOT,Morto,,,ND,Guardia Costiera,Alfredo Di Domenicantonio,ASL,13.9416,42.81111
 CSC131023TCc1,2013-10-23,Abruzzo,Pescara,,Caretta caretta,1,ND,51.0,TOT,Vivo,,CSCIT002,ND,Motopeschereccio,Vincenzo Olivieri,Centro Studi Cetacei,14.65626,42.69906
 CSC131017TCc1,2013-10-17,Abruzzo,Teramo,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,Vincenzo Perretti,ASL,14.12197,42.55112
 CSC131013TCc1,2013-10-13,Calabria,Catanzaro,,Caretta caretta,1,ND,32.0,TOT,Vivo,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,16.61501,38.55558
@@ -3007,38 +3007,38 @@ CSC131011TDc1,2013-10-11,Calabria,Catanzaro,,Dermochelys coriacea,3,F,173.0,TOT,
 CSC131010TCc1,2013-10-10,Abruzzo,Chieti,,Caretta caretta,1,ND,57.0,TOT,Morto,,,ND,Guardia Costiera,William Di Nardo,ASL,14.36527,42.38305
 CSC131009TCc1,2013-10-09,Marche,Ancona,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,Antonio Previderio,Guardia Costiera,13.40781,43.62629
 CSC130928TCc1,2013-09-28,Abruzzo,Teramo,,Caretta caretta,1,ND,7.0,TOT,Morto,,,ND,Privato cittadino,Adriano De Ascentiis,Centro Studi Cetacei,14.01584,42.67959
-CSC130926TCc2,2013-09-26,Abruzzo,Teramo,,Caretta caretta,1,ND,7.0,TOT,Vivo,,,ND,Centro Studi Cetacei,Massimiliano Pennelli,Centro Studi Cetacei,14.0214,42.67257
-CSC130926TCc6,2013-09-26,Abruzzo,Teramo,,Caretta caretta,1,ND,7.0,TOT,Vivo,,,ND,Centro Studi Cetacei,Sergio Guccione,Centro Studi Cetacei,14.0214,42.67257
-CSC130926TCc7,2013-09-26,Abruzzo,Teramo,,Caretta caretta,1,ND,7.0,TOT,Vivo,,,ND,Centro Studi Cetacei,Adriano De Ascentiis,Centro Studi Cetacei,14.0214,42.67257
-CSC130926TCc1,2013-09-26,Abruzzo,Teramo,,Caretta caretta,1,ND,7.0,TOT,Vivo,,,ND,Centro Studi Cetacei,Vincenzo Olivieri,Centro Studi Cetacei,14.0214,42.67257
-CSC130926TCc8,2013-09-26,Abruzzo,Teramo,,Caretta caretta,1,ND,7.0,TOT,Vivo,,,ND,Centro Studi Cetacei,Adriano De Ascentiis,Centro Studi Cetacei,14.0214,42.67257
-CSC130926TCc3,2013-09-26,Abruzzo,Teramo,,Caretta caretta,1,ND,7.0,TOT,Vivo,,,ND,Centro Studi Cetacei,Massimiliano Pennelli,Centro Studi Cetacei,14.0214,42.67257
 CSC130926TCc4,2013-09-26,Abruzzo,Teramo,,Caretta caretta,1,ND,7.0,TOT,Vivo,,,ND,Centro Studi Cetacei,Sergio Guccione,Centro Studi Cetacei,14.0214,42.67257
-CSC130926TCc5,2013-09-26,Abruzzo,Teramo,,Caretta caretta,1,ND,7.0,TOT,Vivo,,,ND,Centro Studi Cetacei,Vincenzo Olivieri,Centro Studi Cetacei,14.0214,42.67257
+CSC130926TCc6,2013-09-26,Abruzzo,Teramo,,Caretta caretta,1,ND,7.0,TOT,Vivo,,,ND,Centro Studi Cetacei,Sergio Guccione,Centro Studi Cetacei,14.0214,42.67257
+CSC130926TCc3,2013-09-26,Abruzzo,Teramo,,Caretta caretta,1,ND,7.0,TOT,Vivo,,,ND,Centro Studi Cetacei,Massimiliano Pennelli,Centro Studi Cetacei,14.0214,42.67257
+CSC130926TCc7,2013-09-26,Abruzzo,Teramo,,Caretta caretta,1,ND,7.0,TOT,Vivo,,,ND,Centro Studi Cetacei,Adriano De Ascentiis,Centro Studi Cetacei,14.0214,42.67257
+CSC130926TCc8,2013-09-26,Abruzzo,Teramo,,Caretta caretta,1,ND,7.0,TOT,Vivo,,,ND,Centro Studi Cetacei,Adriano De Ascentiis,Centro Studi Cetacei,14.0214,42.67257
+CSC130926TCc1,2013-09-26,Abruzzo,Teramo,,Caretta caretta,1,ND,7.0,TOT,Vivo,,,ND,Centro Studi Cetacei,Vincenzo Olivieri,Centro Studi Cetacei,14.0214,42.67257
 CSC130926TCc9,2013-09-26,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Morto,,,ND,Centro Studi Cetacei,Vincenzo Olivieri,Centro Studi Cetacei,14.0214,42.67257
+CSC130926TCc5,2013-09-26,Abruzzo,Teramo,,Caretta caretta,1,ND,7.0,TOT,Vivo,,,ND,Centro Studi Cetacei,Vincenzo Olivieri,Centro Studi Cetacei,14.0214,42.67257
+CSC130926TCc2,2013-09-26,Abruzzo,Teramo,,Caretta caretta,1,ND,7.0,TOT,Vivo,,,ND,Centro Studi Cetacei,Massimiliano Pennelli,Centro Studi Cetacei,14.0214,42.67257
 CSC130919TCc1,2013-09-19,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Centro Studi Cetacei,Adriano De Ascentiis,Centro Studi Cetacei,14.0214,42.67257
 CSC130919TCc2,2013-09-19,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,INAPPLICABILE,,ND,Centro Studi Cetacei,Adriano De Ascentiis,Centro Studi Cetacei,14.0214,42.67257
-CSC130918TCc1,2013-09-18,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,INAPPLICABILE,,ND,Centro Studi Cetacei,Sergio Guccione,Centro Studi Cetacei,14.0214,42.67257
 CSC130918TCc2,2013-09-18,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,INAPPLICABILE,,ND,Centro Studi Cetacei,Massimiliano Pennelli,Centro Studi Cetacei,14.0214,42.67257
-CSC130916TCc2,2013-09-16,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,INAPPLICABILE,,ND,Centro Studi Cetacei,Vincenzo Olivieri,Centro Studi Cetacei,14.0214,42.67257
+CSC130918TCc1,2013-09-18,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,INAPPLICABILE,,ND,Centro Studi Cetacei,Sergio Guccione,Centro Studi Cetacei,14.0214,42.67257
 CSC130916TCc1,2013-09-16,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,INAPPLICABILE,,ND,Centro Studi Cetacei,Massimiliano Pennelli,Centro Studi Cetacei,14.0214,42.67257
-CSC130915TCc9,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02148,42.67285
-CSC130915TCc12,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.0221,42.67254
-CSC130915TCc2,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02187,42.67289
-CSC130915TCc3,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02122,42.6728
-CSC130915TCc6,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02178,42.67321
-CSC130915TCc13,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02124,42.67241
-CSC130915TCc5,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02136,42.67247
+CSC130916TCc2,2013-09-16,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,INAPPLICABILE,,ND,Centro Studi Cetacei,Vincenzo Olivieri,Centro Studi Cetacei,14.0214,42.67257
+CSC130915TCc16,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02126,42.67403
 CSC130915TCc17,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.0212,42.67295
-CSC130915TCc1,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02189,42.67283
-CSC130915TCc4,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02197,42.6727
+CSC130915TCc3,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02122,42.6728
 CSC130915TCc15,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02162,42.67264
-CSC130915TCc7,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02171,42.67349
+CSC130915TCc1,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02189,42.67283
+CSC130915TCc13,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02124,42.67241
+CSC130915TCc12,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.0221,42.67254
 CSC130915TCc8,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02189,42.6725
 CSC130915TCc14,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02166,42.67263
-CSC130915TCc10,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02181,42.67255
+CSC130915TCc6,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02178,42.67321
+CSC130915TCc5,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02136,42.67247
+CSC130915TCc4,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02197,42.6727
+CSC130915TCc2,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02187,42.67289
+CSC130915TCc7,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02171,42.67349
 CSC130915TCc11,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02199,42.67268
-CSC130915TCc16,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02126,42.67403
+CSC130915TCc10,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02181,42.67255
+CSC130915TCc9,2013-09-15,Abruzzo,Teramo,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Non disponibile,14.02148,42.67285
 CSC130914TCc1,2013-09-14,Abruzzo,Teramo,,Caretta caretta,1,ND,7.0,TOT,Vivo,,,ND,Centro Studi Cetacei,Vincenzo Olivieri,Centro Studi Cetacei,14.02192,42.67314
 CSC130820TCc1,2013-08-20,Calabria,Crotone,,Caretta caretta,1,F,45.0,TOT,Morto,,,ND,Guardia Costiera,Elena Madeo,Centro Studi Cetacei,16.91722,38.93206
 CSC130801TCc1,2013-08-01,Abruzzo,Chieti,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Roberto Valente,ASL,14.72525,42.09794
@@ -3052,8 +3052,8 @@ CSC130618TCc1,2013-06-18,Calabria,Catanzaro,,Caretta caretta,1,ND,52.0,TOT,Morto
 CSC130616TCc1,2013-06-16,Abruzzo,Chieti,,Caretta caretta,1,ND,37.0,TOT,Morto,,,ND,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,14.75279,42.07982
 CSC130605TCc1,2013-06-05,Calabria,Vibo Valentia,,Caretta caretta,1,ND,55.0,TOT,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,15.86553,38.66758
 CSC130602TCc1,2013-06-02,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,Urgesi Christian,Guardia Costiera,12.27994,44.51615
-CSC130521TCc1,2013-05-21,Abruzzo,Teramo,,Caretta caretta,1,ND,62.0,TOT,Morto,,,ND,Guardia Costiera,Vincenzo Perretti,ASL,14.07633,42.60027
 CSC130521TCc2,2013-05-21,Calabria,Crotone,,Caretta caretta,1,ND,100.0,TOT,Morto,,,ND,Guardia Costiera,Elena Madeo,Centro Studi Cetacei,16.92281,38.93296
+CSC130521TCc1,2013-05-21,Abruzzo,Teramo,,Caretta caretta,1,ND,62.0,TOT,Morto,,,ND,Guardia Costiera,Vincenzo Perretti,ASL,14.07633,42.60027
 CSC130515TCc1,2013-05-15,Calabria,Reggio di Calabria,,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Rocco Marra,ASL,15.88819,38.43605
 CSC130511TCc1,2013-05-11,Sicilia,Messina,,Caretta caretta,1,ND,56.0,TOT,Vivo,,,ND,Guardia Costiera,Insacco,Centro di recupero,14.97798,38.4633
 CSC130505TCc1,2013-05-05,Calabria,Catanzaro,,Caretta caretta,1,ND,14.0,TOT,Vivo,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,16.81665,38.9096
@@ -3072,12 +3072,12 @@ CSC130403TCc2,2013-04-03,Calabria,Cosenza,,Caretta caretta,1,F,93.0,TOT,Morto,,,
 CSC130329TCc1,2013-03-29,Calabria,Cosenza,,Caretta caretta,1,ND,65.0,TOT,Morto,,,ND,Guardia Costiera,Agazio Tedesco,Guardia Costiera,16.09001,39.06766
 CSC130311TCc1,2013-03-11,Sicilia,Trapani,,Caretta caretta,1,F,,,Morto,,,ND,Guardia Costiera,Non disponibile,ASL,12.58932,37.65015
 CSC130205TCc1,2013-02-05,Calabria,Cosenza,,Caretta caretta,1,F,55.0,TOT,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro Studi Cetacei,15.85104,39.61897
+CSC130101TCc3,2013-01-01,Emilia Romagna,Forl-Cesena,,Caretta caretta,1,ND,100.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.40607,44.21297
 CSC130101TCc1,2013-01-01,Molise,Campobasso,,Caretta caretta,1,F,,,Vivo,,,ND,Guardia Costiera,Alfonso Guglielmini,ASL,14.91666,42.18333
 CSC130101TCc2,2013-01-01,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,Antonio Vagali,Guardia Costiera,12.29562,44.44652
-CSC130101TCc3,2013-01-01,Emilia Romagna,Forl-Cesena,,Caretta caretta,1,ND,100.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.40607,44.21297
 CSC121230TCc1,2012-12-30,Puglia,Foggia,,Caretta caretta,1,ND,46.0,TOT,Vivo,,CSC1152,ND,Privato cittadino,Vincenzo Olivieri,Centro Studi Cetacei,15.49513,42.12699
-CSC121218TCc1,2012-12-18,Abruzzo,Teramo,,Caretta caretta,1,ND,56.0,TOT,Vivo,,CSC1153,ND,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,14.22711,42.82788
 CSC121218TCc2,2012-12-18,Lazio,Roma,,Caretta caretta,1,ND,55.0,CCL,Morto,,,ND,Guardia Costiera,Valerio Manfrini,Centro Studi Cetacei,12.44362,41.63489
+CSC121218TCc1,2012-12-18,Abruzzo,Teramo,,Caretta caretta,1,ND,56.0,TOT,Vivo,,CSC1153,ND,Guardia Costiera,Vincenzo Olivieri,Centro Studi Cetacei,14.22711,42.82788
 CSC121029TCc1,2012-10-29,Lazio,Roma,,Caretta caretta,1,ND,30.0,CCL,Morto,,,ND,Privato cittadino,Valerio Manfrini,Centro Studi Cetacei,12.45896,41.62247
 CSC120912TCc2,2012-09-12,Calabria,Catanzaro,,Caretta caretta,1,ND,24.0,TOT,Vivo,,,ND,Guardia Costiera,Elena Madeo,Centro di recupero,16.54244,38.72727
 CSC120912TCc1,2012-09-12,Calabria,Cosenza,,Caretta caretta,1,M,41.0,TOT,Vivo,,,ND,Guardia Costiera,Stefania Giglio,Centro di recupero,15.93904,39.50495
@@ -3087,18 +3087,18 @@ CSC120819TCc1,2012-08-19,Calabria,Reggio di Calabria,Siderno,Caretta caretta,1,N
 CSC120818TCc1,2012-08-18,Calabria,Reggio di Calabria,Bovalino,Caretta caretta,1,ND,27.0,TOT,Vivo,,,ND,ASP,Stefania Giglio,Centro Studi Cetacei,16.17815,38.14609
 CSC120804TCc1,2012-08-04,Calabria,Catanzaro,,Caretta caretta,1,F,30.0,TOT,Vivo,,,ND,Guardia Costiera,Elena Madeo,Centro di recupero,16.5611,38.61756
 CSC120801TCc1,2012-08-01,Calabria,Reggio di Calabria,,Caretta caretta,1,ND,35.0,TOT,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro di recupero,16.57375,38.43189
-CSC120713TCc2,2012-07-13,Calabria,Reggio di Calabria,Ardore,Caretta caretta,1,ND,32.0,TOT,Vivo,,,ND,ASP,Stefania Giglio,Centro Studi Cetacei,16.21188,38.17831
 CSC120713TCc1,2012-07-13,Calabria,Reggio di Calabria,Ardore,Caretta caretta,1,ND,32.0,TOT,Vivo,,,ND,ASP,Elena Madeo,Centro Studi Cetacei,16.21187,38.17831
-CSC120708TCc3,2012-07-08,Calabria,Reggio di Calabria,Brancaleone,Caretta caretta,1,ND,38.0,TOT,Vivo,,,ND,ASP,Stefania Giglio,Centro Studi Cetacei,16.10586,37.96662
-CSC120708TCc5,2012-07-08,Calabria,Reggio di Calabria,Brancaleone,Caretta caretta,1,ND,,,Vivo,,,ND,ASP,Stefania Giglio,Centro Studi Cetacei,16.10589,37.96664
-CSC120708TCc7,2012-07-08,Calabria,Reggio di Calabria,Bovalino,Caretta caretta,1,ND,28.0,TOT,Vivo,,,ND,ASP,Stefania Giglio,Centro Studi Cetacei,16.17848,38.14626
+CSC120713TCc2,2012-07-13,Calabria,Reggio di Calabria,Ardore,Caretta caretta,1,ND,32.0,TOT,Vivo,,,ND,ASP,Stefania Giglio,Centro Studi Cetacei,16.21188,38.17831
 CSC120708TCc1,2012-07-08,Calabria,Reggio di Calabria,Brancaleone,Caretta caretta,1,ND,27.0,TOT,Vivo,,,ND,ASP,Stefania Giglio,Centro Studi Cetacei,16.10579,37.96658
 CSC120708TCc2,2012-07-08,Calabria,Reggio di Calabria,Brancaleone,Caretta caretta,1,ND,42.0,TOT,Vivo,,,ND,ASP,Elena Madeo,Centro Studi Cetacei,16.10615,37.96686
-CSC120708TCc6,2012-07-08,Calabria,Reggio di Calabria,Brancaleone,Caretta caretta,1,ND,39.0,TOT,Vivo,,,ND,ASP,Elena Madeo,Centro Studi Cetacei,16.10572,37.96652
+CSC120708TCc3,2012-07-08,Calabria,Reggio di Calabria,Brancaleone,Caretta caretta,1,ND,38.0,TOT,Vivo,,,ND,ASP,Stefania Giglio,Centro Studi Cetacei,16.10586,37.96662
 CSC120708TCc4,2012-07-08,Calabria,Reggio di Calabria,Brancaleone,Caretta caretta,1,ND,30.0,TOT,Vivo,,,ND,ASP,Elena Madeo,Centro Studi Cetacei,16.10586,37.96662
+CSC120708TCc5,2012-07-08,Calabria,Reggio di Calabria,Brancaleone,Caretta caretta,1,ND,,,Vivo,,,ND,ASP,Stefania Giglio,Centro Studi Cetacei,16.10589,37.96664
+CSC120708TCc6,2012-07-08,Calabria,Reggio di Calabria,Brancaleone,Caretta caretta,1,ND,39.0,TOT,Vivo,,,ND,ASP,Elena Madeo,Centro Studi Cetacei,16.10572,37.96652
+CSC120708TCc7,2012-07-08,Calabria,Reggio di Calabria,Bovalino,Caretta caretta,1,ND,28.0,TOT,Vivo,,,ND,ASP,Stefania Giglio,Centro Studi Cetacei,16.17848,38.14626
 CSC120703TCc1,2012-07-03,Calabria,Reggio di Calabria,Brancaleone,Caretta caretta,1,ND,19.0,TOT,Vivo,,,ND,ASP,Elena Madeo,Centro Studi Cetacei,16.1061,37.96681
-CSC120702TCc3,2012-07-02,Calabria,Reggio di Calabria,Brancaleone,Caretta caretta,1,ND,27.0,TOT,Vivo,,,ND,Centro Studi Cetacei,Stefania Giglio,Centro Studi Cetacei,16.10609,37.96683
 CSC120702TCc1,2012-07-02,Calabria,Cosenza,,Caretta caretta,1,F,68.0,TOT,Vivo,,,ND,Guardia Costiera,Elena Madeo,Centro di recupero,16.06873,39.12927
+CSC120702TCc3,2012-07-02,Calabria,Reggio di Calabria,Brancaleone,Caretta caretta,1,ND,27.0,TOT,Vivo,,,ND,Centro Studi Cetacei,Stefania Giglio,Centro Studi Cetacei,16.10609,37.96683
 CSC120702TCc2,2012-07-02,Calabria,Reggio di Calabria,Brancaleone,Caretta caretta,1,ND,34.0,TOT,Vivo,,,ND,ASP,Elena Madeo,Centro Studi Cetacei,16.1072,37.9678
 CSC120629TCc2,2012-06-29,Calabria,Crotone,,Caretta caretta,1,F,36.0,TOT,Vivo,,,ND,Guardia Costiera,Elena Madeo,Centro di recupero,17.02065,38.90979
 CSC120629TCc1,2012-06-29,Calabria,Catanzaro,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Stefania Giglio,Centro di recupero,16.76002,38.88859
@@ -3133,8 +3133,8 @@ CSC110910TCc1,2011-09-10,Abruzzo,Chieti,,Caretta caretta,1,ND,,,Morto,,,ND,Guard
 CSC110909TCc1,2011-09-09,Abruzzo,Teramo,,Caretta caretta,1,ND,80.0,TOT,Morto,,,ND,Guardia Costiera,Vincenzo Olivieri,ASL,13.98125,42.73883
 CSC110816TCc1,2011-08-16,Abruzzo,Chieti,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Massimo Genovesi,ASL,14.77043,42.07331
 CSC110501TCc1,2011-05-01,Marche,Fermo,,Caretta caretta,1,M,,,Morto,,,ND,Guardia Costiera,Patrizia Tirabasso,ASL,13.79139,43.2013
-CSC110320TCc2,2011-03-20,Calabria,Reggio di Calabria,,Caretta caretta,1,ND,60.0,TOT,Vivo,,,ND,Guardia Costiera,Domenico Lugarà,ASL,15.83388,38.35882
 CSC110320TCc1,2011-03-20,Calabria,Reggio di Calabria,,Caretta caretta,1,ND,36.0,TOT,Vivo,,,ND,Guardia Costiera,Domenico Lugarà,ASL,15.83477,38.35905
+CSC110320TCc2,2011-03-20,Calabria,Reggio di Calabria,,Caretta caretta,1,ND,60.0,TOT,Vivo,,,ND,Guardia Costiera,Domenico Lugarà,ASL,15.83388,38.35882
 CSC110310TCc1,2011-03-10,Calabria,Cosenza,,Caretta caretta,1,ND,,,Morto,,,ND,Vigili del fuoco,Giorgio Kruklidis,ASL,16.02514,39.3734
 CSC110307TCc1,2011-03-07,Abruzzo,Chieti,,Caretta caretta,1,ND,,,Morto,,,ND,Privato cittadino,Roberto Valente,ASL,14.71649,42.16647
 CSC110303TCc1,2011-03-03,Marche,Ascoli Piceno,,Caretta caretta,1,F,95.0,TOT,Morto,,,ND,Guardia Costiera,Vittoria Di Trani,ASL,13.91,42.90545
@@ -3183,8 +3183,8 @@ CSC070727TND1,2007-07-27,Campania,Salerno,Salerno,Indeterminato,5,ND,43.0,TOT,Mo
 CSC070723TCc1,2007-07-23,Calabria,Cosenza,Rossano,Caretta caretta,1,ND,45.0,TOT,Vivo,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,16.72739,39.61645
 CSC070720TCc2,2007-07-20,Campania,Salerno,Cetara,Caretta caretta,1,ND,80.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,14.73944,40.65555
 CSC070720TCc1,2007-07-20,Abruzzo,Teramo,Silvi,Caretta caretta,1,F,30.0,TOT,Morto,,,ND,Guardia Costiera,Alfredo Di Domenicantonio,ASL,14.10249,42.57046
-CSC070715TCc1,2007-07-15,Friuli,Gorizia,Gorizia,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.25833,44.70153
 CSC070715TCc2,2007-07-15,Calabria,Reggio di Calabria,Camini,Caretta caretta,1,ND,27.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,16.55877,38.41417
+CSC070715TCc1,2007-07-15,Friuli,Gorizia,Gorizia,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.25833,44.70153
 CSC070714TCc1,2007-07-14,Campania,Salerno,Pontecagnano Faiano,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,14.84063,40.62501
 CSC070713TCc1,2007-07-13,Emilia Romagna,Ravenna,Ravenna,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Servizio di Salvataggio,Non disponibile,Guardia Costiera,12.28584,44.48214
 CSC070712TCc1,2007-07-12,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.24334,44.73509
@@ -3192,14 +3192,14 @@ CSC070711TCc1,2007-07-11,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,8
 CSC070708TND1,2007-07-08,Puglia,Foggia,Lesina,Indeterminato,5,ND,44.0,TOT,Morto,,,ND,Servizio di Salvataggio,Non disponibile,Guardia Costiera,15.37481,41.93575
 CSC070708TCc1,2007-07-08,Friuli,Gorizia,Gorizia,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.5431,45.78301
 CSC070704TCc1,2007-07-04,Friuli,Gorizia,Gorizia,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.63333,45.75194
-CSC070703TCc1,2007-07-03,Emilia Romagna,Ravenna,Ravenna,Caretta caretta,1,ND,43.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.28411,44.4937
 CSC070703TCc2,2007-07-03,Friuli,Gorizia,Monfalcone,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.53435,45.77824
+CSC070703TCc1,2007-07-03,Emilia Romagna,Ravenna,Ravenna,Caretta caretta,1,ND,43.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.28411,44.4937
 CSC070702TCc1,2007-07-02,Puglia,Taranto,Pulsano,Caretta caretta,1,ND,42.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,ASL,17.37584,40.34766
 CSC070701TCc1,2007-07-01,Emilia Romagna,Ravenna,Ravenna,Caretta caretta,1,ND,130.0,TOT,Morto,,,ND,Servizio di Salvataggio,Non disponibile,Guardia Costiera,12.28295,44.55888
 CSC070630TCc2,2007-06-30,Puglia,Taranto,Ginosa,Caretta caretta,1,M,90.0,TOT,Morto,,,ND,Guardia Costiera,Luigi Laera,ASL,16.86962,40.40161
 CSC070630TCc1,2007-06-30,Emilia Romagna,Ravenna,Ravenna,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,12.31734,44.39846
-CSC070628TCc1,2007-06-28,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,65.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.25175,44.65963
 CSC070628TCc2,2007-06-28,Friuli,Gorizia,Monfalcone,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.56024,45.78293
+CSC070628TCc1,2007-06-28,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,65.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.25175,44.65963
 CSC070628TCc3,2007-06-28,Friuli,Gorizia,Staranzano,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.52418,45.76748
 CSC070626TCc1,2007-06-26,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,115.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.24248,44.67975
 CSC070624TCc1,2007-06-24,Friuli,Gorizia,Gorizia,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.5431,45.78301
@@ -3224,13 +3224,13 @@ CSC070523TCc1,2007-05-23,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,60.0,TOT,M
 CSC070522TCc1,2007-05-22,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.24826,44.67634
 CSC070521TCc1,2007-05-21,Sardegna,Cagliari,,Caretta caretta,1,ND,,,Morto,,,ND,Corpo Forestale dello Stato,Non disponibile,Centro Studi Cetacei,9.08642,39.20034
 CSC070520TCc1,2007-05-20,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,65.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.24469,44.74131
-CSC070519TCc3,2007-05-19,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.24045,44.69891
 CSC070519TCc1,2007-05-19,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.24136,44.71586
 CSC070519TCc2,2007-05-19,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,45.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.24052,44.70649
-CSC070518TCc2,2007-05-18,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.29854,44.44038
+CSC070519TCc3,2007-05-19,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.24045,44.69891
 CSC070518TCc1,2007-05-18,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.28333,44.55172
-CSC070517TCc2,2007-05-17,Campania,Salerno,,Caretta caretta,1,ND,100.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,14.77509,40.67203
+CSC070518TCc2,2007-05-18,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.29854,44.44038
 CSC070517TCc1,2007-05-17,Friuli,Gorizia,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Centro Studi Cetacei,13.54651,45.78687
+CSC070517TCc2,2007-05-17,Campania,Salerno,,Caretta caretta,1,ND,100.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,14.77509,40.67203
 CSC070513TCc1,2007-05-13,Friuli,Gorizia,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Centro Studi Cetacei,13.48277,45.68277
 CSC070510TCc1,2007-05-10,Puglia,Lecce,,Caretta caretta,1,ND,76.0,TOT,Vivo,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,17.87646,40.25182
 CSC070504TCc1,2007-05-04,Sardegna,Cagliari,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,8.92645,38.92909
@@ -3245,8 +3245,8 @@ CSC070413TCc1,2007-04-13,Abruzzo,Teramo,,Caretta caretta,1,ND,30.0,TOT,Morto,,,N
 CSC070401TCc1,2007-04-01,Sardegna,Nuoro,,Caretta caretta,1,ND,,,Vivo,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,9.74032,39.94303
 CSC070331TCc1,2007-03-31,Puglia,Taranto,,Caretta caretta,1,ND,,,Morto,,,ND,ASL,Dr.Maraglino,ASL,17.25258,40.39566
 CSC070329TCc1,2007-03-29,Emilia Romagna,Rimini,,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.72332,43.97197
-CSC070324TCc2,2007-03-24,Puglia,Taranto,,Caretta caretta,1,ND,,,Morto,,,ND,ASL,Dr. Fella,ASL,17.52492,40.295
 CSC070324TCc1,2007-03-24,Puglia,Taranto,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Saverio Fella,ASL,17.73574,40.299
+CSC070324TCc2,2007-03-24,Puglia,Taranto,,Caretta caretta,1,ND,,,Morto,,,ND,ASL,Dr. Fella,ASL,17.52492,40.295
 CSC070322TCc1,2007-03-22,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,55.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.35684,44.27075
 CSC070321TCc1,2007-03-21,Puglia,Taranto,,Caretta caretta,1,ND,111.0,TOT,Morto,,,ND,ASL,Dr. Carone,ASL,17.75121,40.29573
 CSC070311TCc1,2007-03-11,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.33964,44.32631
@@ -3261,13 +3261,13 @@ CSC061215TCc1,2006-12-15,Puglia,Taranto,,Caretta caretta,1,ND,,,Morto,,,ND,ASL,D
 CSC061206TCc1,2006-12-06,Campania,Salerno,,Caretta caretta,1,F,,,Morto,,,ND,Guardia Costiera,Non disponibile,Centro Studi Cetacei,14.80854,40.65201
 CSC061130TCc1,2006-11-30,Puglia,Taranto,,Caretta caretta,1,F,,,Vivo,,,ND,ASL,Dr.Maraglino,ASL,17.17467,40.49259
 CSC061112TCc1,2006-11-12,Puglia,Taranto,,Caretta caretta,1,ND,64.0,TOT,Morto,,,ND,ASL,Dr. Miccolis,ASL,16.94192,40.46495
-CSC061103TCc1,2006-11-03,Friuli,Udine,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Personale CSC,Centro Studi Cetacei,13.42157,45.67742
 CSC061103TCc2,2006-11-03,Friuli,Gorizia,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Non disponibile,Centro Studi Cetacei,13.42747,45.67636
+CSC061103TCc1,2006-11-03,Friuli,Udine,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Personale CSC,Centro Studi Cetacei,13.42157,45.67742
 CSC061029TCc1,2006-10-29,Campania,Salerno,,Caretta caretta,1,ND,70.0,TOT,Vivo,,,ND,Guardia Costiera,Non disponibile,Centro Studi Cetacei,14.76381,40.61407
 CSC061024TCc1,2006-10-24,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,100.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.31422,44.40839
 CSC061023TCc1,2006-10-23,Abruzzo,Teramo,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Centro Studi Cetacei,14.02561,42.6679
-CSC061022TCc1,2006-10-22,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,80.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.28658,44.48262
 CSC061022TCc2,2006-10-22,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,90.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.29628,44.44487
+CSC061022TCc1,2006-10-22,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,80.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.28658,44.48262
 CSC061018TCc1,2006-10-18,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,70.0,TOT,Vivo,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.24595,44.67648
 CSC061017TCc1,2006-10-17,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,53.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.28501,44.49562
 CSC061015TCc2,2006-10-15,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,80.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.29694,44.44322
@@ -3279,8 +3279,8 @@ CSC061010TCc1,2006-10-10,Friuli,Udine,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,
 CSC061009TCc1,2006-10-09,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,73.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.24217,44.68475
 CSC061007TCc1,2006-10-07,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.27977,44.52366
 CSC061003TCc1,2006-10-03,Abruzzo,Teramo,,Caretta caretta,1,ND,46.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,ASL,14.12575,42.54742
-CSC061001TCc2,2006-10-01,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.2867,44.47895
 CSC061001TCc1,2006-10-01,Abruzzo,Teramo,,Caretta caretta,1,ND,75.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.97554,42.74675
+CSC061001TCc2,2006-10-01,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.2867,44.47895
 CSC060929TCc2,2006-09-29,Friuli,Gorizia,,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Centro Studi Cetacei,13.52779,45.7719
 CSC060929TCc1,2006-09-29,Friuli,Gorizia,,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Guardia Costiera,Personale CSC,Centro Studi Cetacei,13.53475,45.77855
 CSC060923TCc1,2006-09-23,Puglia,Taranto,,Caretta caretta,1,F,38.0,TOT,Vivo,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,17.45238,40.32491
@@ -3303,10 +3303,10 @@ CSC060731TCc1,2006-07-31,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,40.0,TOT,V
 CSC060731TCc2,2006-07-31,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,33.0,TOT,Vivo,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.41806,44.49954
 CSC060730TCc1,2006-07-30,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.26045,44.63969
 CSC060728TCc1,2006-07-28,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,65.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.24062,44.69043
-CSC060726TCc2,2006-07-26,Marche,Ascoli Piceno,,Caretta caretta,1,F,30.0,TOT,Morto,,,ND,Guardia Costiera,Dr Ruffini,ASL,13.88866,42.94676
-CSC060726TCc3,2006-07-26,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.29866,44.44054
 CSC060726TCc4,2006-07-26,Marche,Ascoli Piceno,,Caretta caretta,1,F,30.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,ASL,13.89596,42.93212
+CSC060726TCc3,2006-07-26,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.29866,44.44054
 CSC060726TCc1,2006-07-26,Marche,Ascoli Piceno,,Caretta caretta,1,F,30.0,TOT,Morto,,,ND,Guardia Costiera,Remo Ruffini,ASL,13.87274,42.98738
+CSC060726TCc2,2006-07-26,Marche,Ascoli Piceno,,Caretta caretta,1,F,30.0,TOT,Morto,,,ND,Guardia Costiera,Dr Ruffini,ASL,13.88866,42.94676
 CSC060723TCc1,2006-07-23,Abruzzo,Teramo,,Caretta caretta,1,M,72.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,ASL,14.14029,42.53542
 CSC060720TCc1,2006-07-20,Abruzzo,Teramo,,Caretta caretta,1,M,30.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,ASL,14.13831,42.53732
 CSC060714TCc1,2006-07-14,Puglia,Barletta-Andria-Trani,,Caretta caretta,1,M,159.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,16.1638,41.37164
@@ -3314,14 +3314,14 @@ CSC060712TCc1,2006-07-12,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,50.0,TOT,M
 CSC060710TCc1,2006-07-10,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,55.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.25687,44.64686
 CSC060709TCc1,2006-07-09,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,90.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.30851,44.41996
 CSC060708TCc1,2006-07-08,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,D. Mastrilli,Guardia Costiera,12.25469,44.65124
-CSC060707TCc2,2006-07-07,Puglia,Taranto,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Giuseppe Maraglino,ASL,17.09004,40.4272
 CSC060707TCc1,2006-07-07,Puglia,Taranto,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Giuseppe Maraglino,ASL,17.26752,40.3452
+CSC060707TCc2,2006-07-07,Puglia,Taranto,,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Giuseppe Maraglino,ASL,17.09004,40.4272
 CSC060705TCc1,2006-07-05,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Guardia Costiera,G. De Palma,Guardia Costiera,12.2795,44.52149
 CSC060703TCc1,2006-07-03,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,43.0,TOT,Morto,,,ND,Guardia Costiera,C.Pinzon,Guardia Costiera,12.28527,44.49834
 CSC060701TCc1,2006-07-01,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Guardia Costiera,A. Guadalupi,Guardia Costiera,12.25377,44.64985
 CSC060630TCc1,2006-06-30,Emilia Romagna,Ravenna,,Caretta caretta,1,ND,95.0,TOT,Morto,,,ND,Guardia Costiera,P. Longo,Guardia Costiera,12.28311,44.55873
-CSC060625TCc1,2006-06-25,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Guardia Costiera,D. Mastrilli,Guardia Costiera,12.25296,44.65595
 CSC060625TCc2,2006-06-25,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,80.0,TOT,Morto,,,ND,Guardia Costiera,D. Mastrilli,Guardia Costiera,12.25378,44.65383
+CSC060625TCc1,2006-06-25,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Guardia Costiera,D. Mastrilli,Guardia Costiera,12.25296,44.65595
 CSC060624TCc1,2006-06-24,Marche,Ascoli Piceno,,Caretta caretta,1,F,40.0,TOT,Morto,,,ND,Guardia Costiera,Cesare Ciccarelli,ASL,13.89228,42.95713
 CSC060624TCc3,2006-06-24,Emilia Romagna,Ferrara,,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,D. Mastrilli,Guardia Costiera,12.27446,44.80383
 CSC060624TCc2,2006-06-24,Marche,Ascoli Piceno,,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Guardia Costiera,Cesare Ciccarelli,ASL,13.89254,42.93934
