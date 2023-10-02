@@ -1,22 +1,22 @@
 codice,data_rilievo,regione,provincia,comune,specie,cod_specie,sesso,lunghezza_cm,tipo_lunghezza,condizioni,tag,tag_rilascio,interazione,segnalato_da,rilevatore,struttura_rilevatore,lng,lat
 CSC230928TCc1,2023-09-28,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,52.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Diana,ASREM,15.06396,41.95443
 CSC230922TCc1,2023-09-22,Abruzzo,Chieti,Ortona,Caretta caretta,1,ND,66.0,CCL,Morto,2583,,ND,Guardia Costiera,Fausto Barbone,ASL,14.33099,42.39958
-CSC230918TCc1,2023-09-18,Molise,Campobasso,Termoli,Caretta caretta,1,ND,73.0,CCL,Morto,,,Si,Guardia Costiera,Vincenzo Diana,ASREM,14.99971,41.99511
 CSC230918TCc2,2023-09-18,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Privato cittadino,Fabrizio Di Fonzo,ASL,14.73529,42.09048
+CSC230918TCc1,2023-09-18,Molise,Campobasso,Termoli,Caretta caretta,1,ND,73.0,CCL,Morto,,,Si,Guardia Costiera,Vincenzo Diana,ASREM,14.99971,41.99511
 CSC230914TCc1,2023-09-14,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,41.5,CCL,Vivo,,CSCIT324,Si,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,14.23638,42.46505
 CSC230912TCc1,2023-09-12,Sardegna,Ogliastra,Bari Sardo,Caretta caretta,1,ND,60.0,TOT,Morto,,,Si,Privato cittadino,Non disponibile,Guardia Costiera,9.67808,39.82252
 CSC230908TCc1,2023-09-08,Molise,Campobasso,Petacciato,Caretta caretta,1,ND,42.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Diana,ASREM,14.83092,42.04546
 CSC230904TCc1,2023-09-04,Molise,Campobasso,Termoli,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Diana,ASREM,14.94454,42.01155
 CSC230827TCc1,2023-08-27,Molise,Campobasso,Termoli,Caretta caretta,1,ND,51.3,CCL,Vivo,,CSCIT323,Si,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,15.00166,42.01971
 CSC230824TCc1,2023-08-24,Puglia,Foggia,Lesina,Caretta caretta,1,ND,,,Morto,IT4740,,ND,Guardia Costiera,Jacopo Soccio,ASL,15.38457,41.90142
-CSC230822TCc2,2023-08-22,Puglia,Foggia,Rodi Garganico,Caretta caretta,1,ND,51.0,CCL,Morto,,,ND,Guardia Costiera,Jacopo Soccio,ASL,15.92548,41.93328
 CSC230822TCc1,2023-08-22,Puglia,Foggia,Lesina,Caretta caretta,1,ND,60.0,CCL,Morto,IT4834,,ND,Guardia Costiera,Jacopo Soccio,ASL,15.33935,41.917
-CSC230820TCc2,2023-08-20,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,65.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Diana,ASREM,15.0461,41.96688
+CSC230822TCc2,2023-08-22,Puglia,Foggia,Rodi Garganico,Caretta caretta,1,ND,51.0,CCL,Morto,,,ND,Guardia Costiera,Jacopo Soccio,ASL,15.92548,41.93328
 CSC230820TCc1,2023-08-20,Abruzzo,Teramo,Pineto,Caretta caretta,1,ND,66.0,CCL,Morto,,,ND,Guardia Costiera,Francesca Trenta,Centro Studi Cetacei,14.0901,42.58523
+CSC230820TCc2,2023-08-20,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,65.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Diana,ASREM,15.0461,41.96688
 CSC230819TCc1,2023-08-19,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,55.7,CCL,Vivo,,CSCIT322,Si,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,14.7087,42.17651
 CSC230818TCc1,2023-08-18,Marche,Ascoli Piceno,Grottammare,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,ASUR,13.86777,42.99861
-CSC230813TCc2,2023-08-13,Molise,Campobasso,Termoli,Caretta caretta,1,ND,80.0,CCL,Morto,,,ND,Guardia Costiera,Nicola Marrone,ASREM,14.95527,42.01027
 CSC230813TCc1,2023-08-13,Molise,Campobasso,Montenero di Bisaccia,Caretta caretta,1,ND,37.5,CCL,Vivo,,CSCIT321,Si,Guardia Costiera,Daniela Profico,Centro Studi Cetacei,14.80699,42.05682
+CSC230813TCc2,2023-08-13,Molise,Campobasso,Termoli,Caretta caretta,1,ND,80.0,CCL,Morto,,,ND,Guardia Costiera,Nicola Marrone,ASREM,14.95527,42.01027
 CSC230809TCc1,2023-08-09,Molise,Campobasso,Termoli,Caretta caretta,1,ND,42.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Diana,ASREM,14.96462,42.00677
 CSC230807TCc1,2023-08-07,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,ND,55.0,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.17791,42.50202
 CSC230804TCc1,2023-08-04,Molise,Campobasso,Termoli,Caretta caretta,1,ND,80.0,CCL,Morto,,,Si,Guardia Costiera,Nicola Marrone,ASREM,14.93709,42.0144
@@ -42,12 +42,12 @@ CSC230705TCc1,2023-07-05,Puglia,Foggia,Vico del Gargano,Caretta caretta,1,ND,133
 CSC230705TCc2,2023-07-05,Abruzzo,Teramo,Silvi,Caretta caretta,1,ND,45.0,CCL,Vivo,,CSCIT320,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.23147,42.6025
 CSC230703TCc1,2023-07-03,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,34.0,CCL,Morto,,,Si,Motopeschereccio,Daniela Profico,Centro Studi Cetacei,14.26235,42.51582
 CSC230630TCc1,2023-06-30,Puglia,Foggia,Manfredonia,Caretta caretta,1,M,80.0,CCL,Morto,,,ND,Guardia Costiera,Alberto Abbenante,ASL,15.8966,41.601
-CSC230629TCc1,2023-06-29,Molise,Campobasso,Termoli,Caretta caretta,1,ND,62.0,CCL,Morto,,,Si,Guardia Costiera,Vincenzo Diana,ASREM,14.93829,42.01352
-CSC230629TCc3,2023-06-29,Abruzzo,Chieti,Casalbordino,Caretta caretta,1,ND,38.0,CCL,Morto,,,ND,Guardia Costiera,Rexhep Sali,ASL,14.64416,42.19194
 CSC230629TCc2,2023-06-29,Molise,Campobasso,Termoli,Caretta caretta,1,ND,56.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Gallo,Centro Studi Cetacei,14.98997,42.00483
+CSC230629TCc3,2023-06-29,Abruzzo,Chieti,Casalbordino,Caretta caretta,1,M,38.0,CCL,Morto,,,ND,Guardia Costiera,Rexhep Sali,ASL,14.64416,42.19194
+CSC230629TCc1,2023-06-29,Molise,Campobasso,Termoli,Caretta caretta,1,ND,62.0,CCL,Morto,,,Si,Guardia Costiera,Vincenzo Diana,ASREM,14.93829,42.01352
 CSC230628TCc1,2023-06-28,Molise,Campobasso,Termoli,Caretta caretta,1,ND,64.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Gallo,Centro Studi Cetacei,14.93819,42.01348
-CSC230626TCc2,2023-06-26,Molise,Campobasso,Termoli,Caretta caretta,1,ND,77.0,CCL,Morto,,,Si,Guardia Costiera,Gianfranco Tetta,ASREM,14.93027,42.01535
 CSC230626TCc1,2023-06-26,Abruzzo,Pescara,Pescara,Caretta caretta,1,M,73.0,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.24185,42.45428
+CSC230626TCc2,2023-06-26,Molise,Campobasso,Termoli,Caretta caretta,1,ND,77.0,CCL,Morto,,,Si,Guardia Costiera,Gianfranco Tetta,ASREM,14.93027,42.01535
 CSC230624TCc1,2023-06-24,Marche,Ancona,Ancona,Caretta caretta,1,ND,79.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.59868,43.56269
 CSC230622TCc3,2023-06-22,Puglia,Foggia,Serracapriola,Caretta caretta,1,F,64.0,CCL,Morto,,,ND,Guardia Costiera,Alberto Abbenante,ASL,15.3095,41.9183
 CSC230622TCc1,2023-06-22,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,43.0,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.18856,42.492
@@ -55,9 +55,9 @@ CSC230622TCc2,2023-06-22,Puglia,Foggia,Lesina,Caretta caretta,1,ND,38.0,CCL,Mort
 CSC230621TCc2,2023-06-21,Puglia,Foggia,Isole Tremiti,Caretta caretta,1,F,76.0,CCL,Vivo,,CSCIT319,No,Privato cittadino,Chiara Profico,Centro Studi Cetacei,15.47728,42.1077
 CSC230621TCc1,2023-06-21,Abruzzo,Teramo,Alba Adriatica,Caretta caretta,1,M,81.0,CCL,Morto,,,No,Guardia Costiera,Claudia Borgatti,Centro Studi Cetacei,13.93599,42.82643
 CSC230621TCc3,2023-06-21,Puglia,Foggia,Vieste,Caretta caretta,1,F,56.0,CCL,Morto,2866P,,ND,Guardia Costiera,Jacopo Soccio,ASL,16.16052,41.89236
-CSC230620TCc2,2023-06-20,Puglia,Foggia,Vieste,Caretta caretta,1,ND,49.0,CCL,Morto,,,ND,Guardia Costiera,Alberto Abbenante,ASL,16.18,41.88591
-CSC230620TCc3,2023-06-20,Puglia,Foggia,Manfredonia,Caretta caretta,1,ND,30.0,CCL,Morto,,,ND,Guardia Costiera,Alberto Abbenante,ASL,15.8969,41.6035
 CSC230620TCc1,2023-06-20,Puglia,Foggia,Vieste,Caretta caretta,1,F,68.0,CCL,Morto,,,ND,Guardia Costiera,Alberto Abbenante,ASL,16.1695,41.8874
+CSC230620TCc3,2023-06-20,Puglia,Foggia,Manfredonia,Caretta caretta,1,ND,30.0,CCL,Morto,,,ND,Guardia Costiera,Alberto Abbenante,ASL,15.8969,41.6035
+CSC230620TCc2,2023-06-20,Puglia,Foggia,Vieste,Caretta caretta,1,ND,49.0,CCL,Morto,,,ND,Guardia Costiera,Alberto Abbenante,ASL,16.18,41.88591
 CSC230619TCc1,2023-06-19,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,89.0,TOT,Morto,,,Si,Guardia Costiera,Gianfranco Tetta,ASL,15.03389,41.97389
 CSC230618TCc1,2023-06-18,Puglia,Foggia,Rodi Garganico,Caretta caretta,1,ND,72.0,CCL,Morto,,,ND,Guardia Costiera,Jacopo Soccio,ASL,15.90922,41.93114
 CSC230617TCc1,2023-06-17,Puglia,Foggia,Rodi Garganico,Caretta caretta,1,ND,56.0,CCL,Morto,,,ND,Guardia Costiera,Jacopo Soccio,ASL,15.82501,41.92287
