@@ -60,8 +60,8 @@ CSC230820TCc2,2023-08-20,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,65.0
 CSC230820TCc1,2023-08-20,Abruzzo,Teramo,Pineto,Caretta caretta,1,ND,66.0,CCL,Morto,,,ND,Guardia Costiera,Francesca Trenta,Centro Studi Cetacei,14.0901,42.58523
 CSC230819TCc1,2023-08-19,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,55.7,CCL,Vivo,,CSCIT322,Si,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,14.7087,42.17651
 CSC230818TCc1,2023-08-18,Marche,Ascoli Piceno,Grottammare,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,ASUR,13.86777,42.99861
-CSC230813TCc1,2023-08-13,Molise,Campobasso,Montenero di Bisaccia,Caretta caretta,1,ND,37.5,CCL,Vivo,,CSCIT321,Si,Guardia Costiera,Daniela Profico,Centro Studi Cetacei,14.80699,42.05682
 CSC230813TCc2,2023-08-13,Molise,Campobasso,Termoli,Caretta caretta,1,ND,80.0,CCL,Morto,,,ND,Guardia Costiera,Nicola Marrone,ASREM,14.95527,42.01027
+CSC230813TCc1,2023-08-13,Molise,Campobasso,Montenero di Bisaccia,Caretta caretta,1,ND,37.5,CCL,Vivo,,CSCIT321,Si,Guardia Costiera,Daniela Profico,Centro Studi Cetacei,14.80699,42.05682
 CSC230809TCc1,2023-08-09,Molise,Campobasso,Termoli,Caretta caretta,1,ND,42.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Diana,ASREM,14.96462,42.00677
 CSC230807TCc1,2023-08-07,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,ND,55.0,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.17791,42.50202
 CSC230804TCc1,2023-08-04,Molise,Campobasso,Termoli,Caretta caretta,1,ND,80.0,CCL,Morto,,,Si,Guardia Costiera,Nicola Marrone,ASREM,14.93709,42.0144
@@ -79,29 +79,29 @@ CSC230716TCc1,2023-07-16,Marche,Ascoli Piceno,San Benedetto del Tronto,Caretta c
 CSC230715TCc1,2023-07-15,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,31.0,CCL,Morto,,,ND,Guardia Costiera,Alessia Ioannoni,ASL,14.26395,42.43831
 CSC230714TCc1,2023-07-14,Abruzzo,Teramo,Pineto,Caretta caretta,1,ND,71.0,CCL,Morto,,,ND,Guardia Costiera,Francesca Trenta,Centro Studi Cetacei,14.06868,42.60974
 CSC230712TCc1,2023-07-12,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,80.0,CCL,Morto,,,ND,Guardia Costiera,Massimo Genovesi,ASL,14.71681,42.14982
-CSC230709TCc1,2023-07-09,Molise,Campobasso,Petacciato,Caretta caretta,1,ND,35.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Diana,ASREM,14.88832,42.02427
-CSC230709TCc2,2023-07-09,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,54.0,CCL,Morto,,,ND,Guardia Costiera,Fabrizio Di Fonzo,ASL,14.67818,42.18112
 CSC230709TCc3,2023-07-09,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,45.0,CCL,Morto,,,ND,Guardia Costiera,Fabrizio Di Fonzo,ASL,14.7444,42.08447
+CSC230709TCc2,2023-07-09,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,54.0,CCL,Morto,,,ND,Guardia Costiera,Fabrizio Di Fonzo,ASL,14.67818,42.18112
+CSC230709TCc1,2023-07-09,Molise,Campobasso,Petacciato,Caretta caretta,1,ND,35.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Diana,ASREM,14.88832,42.02427
 CSC230706TCc1,2023-07-06,Puglia,Foggia,Manfredonia,Caretta caretta,1,F,60.0,CCL,Morto,,,ND,Guardia Costiera,Rachele Maria Totta,ASL,15.89472,41.57083
-CSC230705TCc2,2023-07-05,Abruzzo,Teramo,Silvi,Caretta caretta,1,ND,45.0,CCL,Vivo,,CSCIT320,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.23147,42.6025
 CSC230705TCc1,2023-07-05,Puglia,Foggia,Vico del Gargano,Caretta caretta,1,ND,133.0,TOT,Morto,,,ND,Guardia Costiera,Jacopo Soccio,ASL,15.96216,41.93922
+CSC230705TCc2,2023-07-05,Abruzzo,Teramo,Silvi,Caretta caretta,1,ND,45.0,CCL,Vivo,,CSCIT320,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.23147,42.6025
 CSC230703TCc1,2023-07-03,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,34.0,CCL,Morto,,,Si,Motopeschereccio,Daniela Profico,Centro Studi Cetacei,14.26235,42.51582
 CSC230630TCc1,2023-06-30,Puglia,Foggia,Manfredonia,Caretta caretta,1,M,80.0,CCL,Morto,,,ND,Guardia Costiera,Alberto Abbenante,ASL,15.8966,41.601
-CSC230629TCc2,2023-06-29,Molise,Campobasso,Termoli,Caretta caretta,1,ND,56.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Gallo,Centro Studi Cetacei,14.98997,42.00483
-CSC230629TCc3,2023-06-29,Abruzzo,Chieti,Casalbordino,Caretta caretta,1,M,38.0,CCL,Morto,,,ND,Guardia Costiera,Rexhep Sali,ASL,14.64416,42.19194
 CSC230629TCc1,2023-06-29,Molise,Campobasso,Termoli,Caretta caretta,1,ND,62.0,CCL,Morto,,,Si,Guardia Costiera,Vincenzo Diana,ASREM,14.93829,42.01352
+CSC230629TCc3,2023-06-29,Abruzzo,Chieti,Casalbordino,Caretta caretta,1,M,38.0,CCL,Morto,,,ND,Guardia Costiera,Rexhep Sali,ASL,14.64416,42.19194
+CSC230629TCc2,2023-06-29,Molise,Campobasso,Termoli,Caretta caretta,1,ND,56.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Gallo,Centro Studi Cetacei,14.98997,42.00483
 CSC230628TCc1,2023-06-28,Molise,Campobasso,Termoli,Caretta caretta,1,ND,64.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Gallo,Centro Studi Cetacei,14.93819,42.01348
 CSC230626TCc2,2023-06-26,Molise,Campobasso,Termoli,Caretta caretta,1,ND,77.0,CCL,Morto,,,Si,Guardia Costiera,Gianfranco Tetta,ASREM,14.93027,42.01535
 CSC230626TCc1,2023-06-26,Abruzzo,Pescara,Pescara,Caretta caretta,1,M,73.0,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.24185,42.45428
 CSC230624TCc1,2023-06-24,Marche,Ancona,Ancona,Caretta caretta,1,ND,79.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.59868,43.56269
-CSC230622TCc1,2023-06-22,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,43.0,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.18856,42.492
-CSC230622TCc3,2023-06-22,Puglia,Foggia,Serracapriola,Caretta caretta,1,F,64.0,CCL,Morto,,,ND,Guardia Costiera,Alberto Abbenante,ASL,15.3095,41.9183
 CSC230622TCc2,2023-06-22,Puglia,Foggia,Lesina,Caretta caretta,1,ND,38.0,CCL,Morto,,,ND,Guardia Costiera,Alberto Abbenante,ASL,15.3346,41.9164
-CSC230621TCc2,2023-06-21,Puglia,Foggia,Isole Tremiti,Caretta caretta,1,F,76.0,CCL,Vivo,,CSCIT319,No,Privato cittadino,Chiara Profico,Centro Studi Cetacei,15.47728,42.1077
+CSC230622TCc3,2023-06-22,Puglia,Foggia,Serracapriola,Caretta caretta,1,F,64.0,CCL,Morto,,,ND,Guardia Costiera,Alberto Abbenante,ASL,15.3095,41.9183
+CSC230622TCc1,2023-06-22,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,43.0,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.18856,42.492
 CSC230621TCc3,2023-06-21,Puglia,Foggia,Vieste,Caretta caretta,1,F,56.0,CCL,Morto,2866P,,ND,Guardia Costiera,Jacopo Soccio,ASL,16.16052,41.89236
 CSC230621TCc1,2023-06-21,Abruzzo,Teramo,Alba Adriatica,Caretta caretta,1,M,81.0,CCL,Morto,,,No,Guardia Costiera,Claudia Borgatti,Centro Studi Cetacei,13.93599,42.82643
-CSC230620TCc2,2023-06-20,Puglia,Foggia,Vieste,Caretta caretta,1,ND,49.0,CCL,Morto,,,ND,Guardia Costiera,Alberto Abbenante,ASL,16.18,41.88591
+CSC230621TCc2,2023-06-21,Puglia,Foggia,Isole Tremiti,Caretta caretta,1,F,76.0,CCL,Vivo,,CSCIT319,No,Privato cittadino,Chiara Profico,Centro Studi Cetacei,15.47728,42.1077
 CSC230620TCc3,2023-06-20,Puglia,Foggia,Manfredonia,Caretta caretta,1,ND,30.0,CCL,Morto,,,ND,Guardia Costiera,Alberto Abbenante,ASL,15.8969,41.6035
+CSC230620TCc2,2023-06-20,Puglia,Foggia,Vieste,Caretta caretta,1,ND,49.0,CCL,Morto,,,ND,Guardia Costiera,Alberto Abbenante,ASL,16.18,41.88591
 CSC230620TCc1,2023-06-20,Puglia,Foggia,Vieste,Caretta caretta,1,F,68.0,CCL,Morto,,,ND,Guardia Costiera,Alberto Abbenante,ASL,16.1695,41.8874
 CSC230619TCc1,2023-06-19,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,89.0,TOT,Morto,,,Si,Guardia Costiera,Gianfranco Tetta,ASL,15.03389,41.97389
 CSC230618TCc1,2023-06-18,Puglia,Foggia,Rodi Garganico,Caretta caretta,1,ND,72.0,CCL,Morto,,,ND,Guardia Costiera,Jacopo Soccio,ASL,15.90922,41.93114
@@ -111,15 +111,15 @@ CSC230615TCc1,2023-06-15,Molise,Campobasso,Termoli,Caretta caretta,1,F,81.0,CCL,
 CSC230614TCc1,2023-06-14,Abruzzo,Teramo,Tortoreto,Caretta caretta,1,F,89.0,CCL,Morto,,,ND,Guardia Costiera,Ludovica Di Renzo,CSC/IZSAM,13.94649,42.79966
 CSC230613TCc1,2023-06-13,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,ND,28.8,CCL,Morto,,,ND,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,14.17767,42.50107
 CSC230612TCc1,2023-06-12,Abruzzo,Teramo,Roseto degli Abruzzi,Caretta caretta,1,ND,39.0,CCL,Vivo,,CSCIT318,Si,Motopeschereccio,Chiara Profico,Centro Studi Cetacei,14.09644,42.69355
+CSC230611TCc3,2023-06-11,Lazio,Roma,Fiumicino,Caretta caretta,1,ND,57.0,CCL,Morto,,,Si,Guardia Costiera,Non disponibile,Ambito Rete Tarta Lazio,12.16231,41.89301
 CSC230611TCc1,2023-06-11,Abruzzo,Teramo,Silvi,Caretta caretta,1,ND,69.0,CCL,Morto,,,ND,Privato cittadino,Matteo Ferretti,Centro Studi Cetacei,14.11158,42.56027
 CSC230611TCc2,2023-06-11,Abruzzo,Teramo,Silvi,Caretta caretta,1,ND,43.0,CCL,Morto,,,ND,Guardia Costiera,Matteo Ferretti,Centro Studi Cetacei,14.14216,42.53307
-CSC230611TCc3,2023-06-11,Lazio,Roma,Fiumicino,Caretta caretta,1,ND,57.0,CCL,Morto,,,Si,Guardia Costiera,Non disponibile,Ambito Rete Tarta Lazio,12.16231,41.89301
 CSC230609TCc1,2023-06-09,Puglia,Foggia,Cagnano Varano,Caretta caretta,1,M,76.0,CCL,Morto,,,ND,Vigili urbani,Abbenante Alberto,ASL,15.6803,41.9144
 CSC230605TCc1,2023-06-05,Molise,Campobasso,Termoli,Caretta caretta,1,ND,73.0,CCL,Morto,,,ND,Guardia Costiera,Gianluca Barbuto,Centro Studi Cetacei,14.97996,42.00677
 CSC230604TCc1,2023-06-04,Puglia,Foggia,Rodi Garganico,Caretta caretta,1,M,76.0,CCL,Morto,,,ND,Guardia Costiera,Alberto Abbenante,ASL,15.82644,41.92317
 CSC230603TCc1,2023-06-03,Molise,Campobasso,Petacciato,Caretta caretta,1,F,75.0,CCL,Morto,,,Si,Guardia Costiera,Gianluca Barbuto,Centro Studi Cetacei,14.89329,42.02319
-CSC230601TCc1,2023-06-01,Abruzzo,Teramo,Silvi,Caretta caretta,1,ND,48.0,CCL,Morto,,,ND,Privato cittadino,Claudia Borgatti,Centro Studi Cetacei,14.10753,42.56443
 CSC230601TCc2,2023-06-01,Puglia,Foggia,Vieste,Caretta caretta,1,ND,41.0,CCL,Morto,,,ND,Guardia Costiera,Alberto Abbenante,ASL,16.1655,41.8888
+CSC230601TCc1,2023-06-01,Abruzzo,Teramo,Silvi,Caretta caretta,1,ND,48.0,CCL,Morto,,,ND,Privato cittadino,Claudia Borgatti,Centro Studi Cetacei,14.10753,42.56443
 CSC230528TCc1,2023-05-28,Lazio,Roma,Fiumicino,Caretta caretta,1,ND,47.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Ambito Rete Tarta Lazio,12.19616,41.84433
 CSC230526TCc1,2023-05-26,Molise,Campobasso,Termoli,Caretta caretta,1,ND,64.0,CCL,Morto,,,ND,Guardia Costiera,michele de Pilla,Guardia Costiera,14.945,42.01167
 CSC230523TCc1,2023-05-23,Puglia,Foggia,Rodi Garganico,Caretta caretta,1,F,57.0,CCL,Morto,,,Si,Vigili urbani,Abbenante Alberto,ASL,15.9313,41.9341
@@ -129,20 +129,20 @@ CSC230521TCc1,2023-05-21,Puglia,Foggia,Rodi Garganico,Caretta caretta,1,M,72.0,C
 CSC230518TCc1,2023-05-18,Marche,Fermo,Fermo,Caretta caretta,1,ND,20.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Non disponibile,13.78332,43.21872
 CSC230517TCc1,2023-05-17,Molise,Campobasso,Termoli,Caretta caretta,1,F,74.0,CCL,Morto,,,ND,Guardia Costiera,Ludovica Di Renzo,CSC/IZSAM,15.00482,41.99069
 CSC230514TCc1,2023-05-14,Marche,Ancona,Ancona,Caretta caretta,1,ND,55.0,CCL,Morto,,,Si,Guardia Costiera,Non disponibile,Guardia Costiera,13.50395,43.62311
-CSC230512TCc1,2023-05-12,Puglia,Taranto,Palagiano,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Privato cittadino,Pasquale Miccolis,ASL,17.04562,40.51249
 CSC230512TCc2,2023-05-12,Puglia,Taranto,Palagiano,Caretta caretta,1,ND,55.0,CCL,Morto,,,Si,Privato cittadino,Candida Germano,ASL,17.01897,40.5046
+CSC230512TCc1,2023-05-12,Puglia,Taranto,Palagiano,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Privato cittadino,Pasquale Miccolis,ASL,17.04562,40.51249
 CSC230511TCc1,2023-05-11,Puglia,Foggia,Manfredonia,Caretta caretta,1,ND,93.0,CCL,Morto,,,ND,Guardia Costiera,Stefano Auriola,ASL,15.9156,41.50933
 CSC230428TCc1,2023-04-28,Abruzzo,Teramo,Alba Adriatica,Caretta caretta,1,F,67.0,CCL,Morto,,,ND,Guardia Costiera,Giulia Mariani,Centro Studi Cetacei,13.93855,42.81965
-CSC230418TCc1,2023-04-18,Abruzzo,Teramo,Silvi,Caretta caretta,1,ND,62.0,CCL,Vivo,,CSCIT317,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.21251,42.60337
+CSC230418TCc1,2023-04-18,Abruzzo,Teramo,Silvi,Caretta caretta,1,ND,62.0,CCL,Vivo,,CSCIT317,Si,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.21251,42.60337
 CSC230411TCc1,2023-04-11,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,64.5,CCL,Vivo,,CSCIT316,Si,Motopeschereccio,Valentina Giuliani,Centro Studi Cetacei,14.32736,42.54262
 CSC230323TCc1,2023-03-23,Abruzzo,Teramo,Silvi,Caretta caretta,1,F,62.0,CCL,Vivo,,CSCIT315,Si,Motopeschereccio,Matteo Ferretti,Centro Studi Cetacei,14.20385,42.58531
 CSC230318TCc1,2023-03-18,Abruzzo,Chieti,Casalbordino,Caretta caretta,1,ND,86.0,CCL,Morto,,,ND,Guardia Costiera,Carlo De Angelis,ASL,14.62898,42.19616
 CSC230222TCc1,2023-02-22,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,55.7,CCL,Vivo,,CSCIT314,Si,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.29503,42.51317
 CSC230221TCc1,2023-02-21,Marche,Ancona,Ancona,Caretta caretta,1,ND,30.0,TOT,Vivo,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.50516,43.6179
 CSC230220TCc1,2023-02-20,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,71.0,CCL,Vivo,,CSCIT313,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.32649,42.53752
-CSC230216TCc2,2023-02-16,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,ND,69.5,CCL,Vivo,,CSCIT311,Si,Motopeschereccio,Silvia Giannattasio,Centro Studi Cetacei,14.25019,42.53717
 CSC230216TCc3,2023-02-16,Abruzzo,Teramo,Silvi,Caretta caretta,1,ND,62.5,CCL,Vivo,,CSCIT312,Si,Motopeschereccio,Lara Cini,Centro Studi Cetacei,14.31422,42.64172
 CSC230216TCc1,2023-02-16,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,76.0,CCL,Vivo,,CSCIT310,Si,Motopeschereccio,Valentina Giuliani,Centro Studi Cetacei,14.3743,42.5396
+CSC230216TCc2,2023-02-16,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,ND,69.5,CCL,Vivo,,CSCIT311,Si,Motopeschereccio,Silvia Giannattasio,Centro Studi Cetacei,14.25019,42.53717
 CSC230215TCc1,2023-02-15,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,63.0,CCL,Vivo,,CSCIT309,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.35499,42.56338
 CSC230214TCc1,2023-02-14,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,M,76.8,CCL,Vivo,,CSCIT308,Si,Guardia Costiera,Alfonso Chiariello,Centro Studi Cetacei,14.2697,42.58576
 CSC230209TCc3,2023-02-09,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,80.7,CCL,Vivo,,CSCIT307,Si,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.30989,42.5055
@@ -168,13 +168,13 @@ CSC221213TCc1,2022-12-13,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,F,71.0,C
 CSC221212TCc1,2022-12-12,Abruzzo,Teramo,Silvi,Caretta caretta,1,F,79.3,CCL,Vivo,,CSCIT290,Si,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.23731,42.60553
 CSC221207TCc1,2022-12-07,Marche,Fermo,Fermo,Caretta caretta,1,ND,90.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.81444,43.15166
 CSC221130TCc1,2022-11-30,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,F,71.2,CCL,Vivo,,CSCIT289,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.25047,42.5687
+CSC221128TCc1,2022-11-28,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,54.0,CCL,Morto,,,ND,Privato cittadino,Vincenzo Diana,ASREM,15.0485,41.96598
 CSC221128TCc3,2022-11-28,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,87.5,CCL,Vivo,L2235CSCIT184,L2235CSCIT184,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.36845,42.4605
 CSC221128TCc2,2022-11-28,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,68.7,CCL,Vivo,,CSCIT288,ND,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.36776,42.46024
-CSC221128TCc1,2022-11-28,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,54.0,CCL,Morto,,,ND,Privato cittadino,Vincenzo Diana,ASREM,15.0485,41.96598
 CSC221123TCc1,2022-11-23,Abruzzo,Teramo,Pineto,Caretta caretta,1,F,70.0,CCL,Morto,,,ND,Guardia Costiera,Claudia Borgatti,Centro Studi Cetacei,14.07913,42.59665
 CSC221122TCc1,2022-11-22,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,65.5,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.20165,42.48201
-CSC221121TCc1,2022-11-21,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,39.8,CCL,Vivo,,CSCIT286,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.32044,42.52663
 CSC221121TCc2,2022-11-21,Molise,Campobasso,Termoli,Caretta caretta,1,F,84.5,CCL,Vivo,,CSCIT287,Si,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.94946,42.0117
+CSC221121TCc1,2022-11-21,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,39.8,CCL,Vivo,,CSCIT286,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.32044,42.52663
 CSC221120TCc1,2022-11-20,Abruzzo,Chieti,Vasto,Caretta caretta,1,M,76.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo D'Orio,ASL,14.73409,42.0912
 CSC221119TCc1,2022-11-19,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,66.0,CCL,Morto,,,ND,Guardia Costiera,Michele Di Mario,ASREM,15.05164,41.96447
 CSC221117TCc1,2022-11-17,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,68.0,CCL,Vivo,,CSCIT285,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.34334,42.53444
@@ -182,34 +182,34 @@ CSC221113TCc1,2022-11-13,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,67.2,CCL,Mo
 CSC221109TCc1,2022-11-09,Abruzzo,Chieti,Ortona,Caretta caretta,1,ND,63.0,CCL,Vivo,,CSCIT284,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.49093,42.38493
 CSC221108TCc1,2022-11-08,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,54.4,CCL,Vivo,,CSCIT283,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.32867,42.53337
 CSC221107TCc1,2022-11-07,Marche,Fermo,Porto Sant'Elpidio,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.75222,43.27666
+CSC221106TCc7,2022-11-06,Marche,Ascoli Piceno,San Benedetto del Tronto,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.91066,42.90352
 CSC221106TCc1,2022-11-06,Abruzzo,Teramo,Pineto,Caretta caretta,1,ND,45.0,CCL,Morto,,,ND,Privato cittadino,Francesca Trenta,Centro Studi Cetacei,14.05857,42.61986
 CSC221106TCc6,2022-11-06,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,60.0,CCL,Morto,,,No,Guardia Costiera,Alessia Ioannoni,ASL,14.30334,42.41442
 CSC221106TCc3,2022-11-06,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,ND,44.0,CCL,Morto,,,ND,Privato cittadino,Chiara Profico,Centro Studi Cetacei,14.17856,42.49993
 CSC221106TCc4,2022-11-06,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,43.4,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.1889,42.49147
 CSC221106TCc2,2022-11-06,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,62.0,CCL,Morto,,,ND,Guardia Costiera,Massimo Genovesi,CSC/ASL,14.72662,42.09658
 CSC221106TCc5,2022-11-06,Abruzzo,Chieti,Fossacesia,Caretta caretta,1,ND,64.0,CCL,Morto,,,ND,Guardia Costiera,gennaro sebastianelli,ASL,14.50277,42.2583
-CSC221106TCc7,2022-11-06,Marche,Ascoli Piceno,San Benedetto del Tronto,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.91066,42.90352
 CSC221105TCc1,2022-11-05,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,45.5,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.21751,42.47129
 CSC221102TCc1,2022-11-02,Molise,Campobasso,Termoli,Caretta caretta,1,ND,72.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Gallo,Centro Studi Cetacei,14.97817,42.00667
-CSC221031TCc1,2022-10-31,Abruzzo,Chieti,San Salvo,Caretta caretta,1,F,59.0,CCL,Morto,,,ND,Guardia Costiera,Rexhep Sali,CSC/ASL,14.76009,42.0768
 CSC221031TCc2,2022-10-31,Marche,Ascoli Piceno,Cupra Marittima,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.85855,43.03685
+CSC221031TCc1,2022-10-31,Abruzzo,Chieti,San Salvo,Caretta caretta,1,F,59.0,CCL,Morto,,,ND,Guardia Costiera,Rexhep Sali,CSC/ASL,14.76009,42.0768
 CSC221028TCc2,2022-10-28,Abruzzo,Chieti,Ortona,Caretta caretta,1,ND,52.0,CCL,Morto,,,No,Guardia Costiera,Alessia Ioannoni,ASL,14.44247,42.31168
 CSC221028TCc1,2022-10-28,Abruzzo,Teramo,Silvi,Caretta caretta,1,F,74.0,CCL,Morto,,,ND,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,14.12673,42.54672
 CSC221023TCc1,2022-10-23,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,65.0,CCL,Morto,,,ND,Guardia Costiera,Massimo Genovesi,CSC/ASL,14.71937,42.13733
 CSC221020TCc1,2022-10-20,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,ND,36.5,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.17849,42.50176
-CSC221019TCc4,2022-10-19,Abruzzo,Chieti,San Salvo,Caretta caretta,1,F,67.3,CCL,Morto,,,Si,Guardia Costiera,Massimo Genovesi,CSC/ASL,14.75644,42.07918
 CSC221019TCc1,2022-10-19,Abruzzo,Teramo,Roseto degli Abruzzi,Caretta caretta,1,F,58.0,CCL,Morto,,,ND,Guardia Costiera,Francesca Trenta,Centro Studi Cetacei,14.01954,42.67376
-CSC221019TCc3,2022-10-19,Marche,Fermo,Porto Sant'Elpidio,Caretta caretta,1,ND,102.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.75583,43.27
 CSC221019TCc2,2022-10-19,Molise,Campobasso,Termoli,Caretta caretta,1,ND,65.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Diana,ASREM,14.94962,42.01124
+CSC221019TCc4,2022-10-19,Abruzzo,Chieti,San Salvo,Caretta caretta,1,F,67.3,CCL,Morto,,,Si,Guardia Costiera,Massimo Genovesi,CSC/ASL,14.75644,42.07918
+CSC221019TCc3,2022-10-19,Marche,Fermo,Porto Sant'Elpidio,Caretta caretta,1,ND,102.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.75583,43.27
 CSC221015TCc1,2022-10-15,Molise,Campobasso,Termoli,Caretta caretta,1,ND,74.0,CCL,Morto,,,ND,Privato cittadino,Vincenzo Gallo,Centro Studi Cetacei,14.94887,42.01134
 CSC221014TCc1,2022-10-14,Abruzzo,Chieti,Ortona,Caretta caretta,1,ND,60.0,CCL,Morto,,,No,Guardia Costiera,Enzo Di Pretoro,ASL,14.35239,42.38947
 CSC221012TCc1,2022-10-12,Abruzzo,Teramo,Silvi,Caretta caretta,1,ND,49.0,CCL,Morto,,,ND,Carabinieri,Matteo Ferretti,Centro Studi Cetacei,14.13978,42.5364
-CSC221011TCc2,2022-10-11,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,31.0,CCL,Vivo,,CSCIT282,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.32589,42.5389
 CSC221011TCc3,2022-10-11,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,70.0,CCL,Morto,MANFREDONIAIT4482,,ND,Guardia Costiera,Massimo Genovesi,CSC/ASL,14.74496,42.08449
 CSC221011TCc1,2022-10-11,Molise,Campobasso,Termoli,Caretta caretta,1,M,86.0,CCL,Morto,,,ND,Guardia Costiera,Luciano Di Florio,Centro Studi Cetacei,14.92436,42.01597
+CSC221011TCc2,2022-10-11,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,31.0,CCL,Vivo,,CSCIT282,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.32589,42.5389
 CSC221008TCc1,2022-10-08,Molise,Campobasso,Termoli,Caretta caretta,1,ND,32.6,CCL,Vivo,,CSCIT281,Si,Privato cittadino,Chiara Profico,Centro Studi Cetacei,15.02705,42.03224
-CSC221007TCm1,2022-10-07,Lazio,Roma,Civitavecchia,Chelonia mydas,2,ND,40.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,11.8063,42.07325
 CSC221007TCc1,2022-10-07,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,50.0,CCL,Morto,,,ND,Privato cittadino,Giuseppe Amodeo,Non disponibile,15.0525,41.96333
+CSC221007TCm1,2022-10-07,Lazio,Roma,Civitavecchia,Chelonia mydas,2,ND,40.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,11.8063,42.07325
 CSC221006TCc1,2022-10-06,Abruzzo,Teramo,Martinsicuro,Caretta caretta,1,ND,47.0,CCL,Morto,,,ND,Guardia Costiera,Claudia Borgatti,Centro Studi Cetacei,13.93059,42.84027
 CSC221004TCc1,2022-10-04,Abruzzo,Chieti,Ortona,Caretta caretta,1,M,36.0,CCL,Morto,,,No,Guardia Costiera,WILLIAM DI NARDO,CSC/ASL,14.42453,42.3502
 CSC220929TCc1,2022-09-29,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,33.0,TOT,Morto,,,ND,Guardia Costiera,Vincenzo Diana,ASREM,15.05336,41.96191
@@ -217,8 +217,8 @@ CSC220927TCc1,2022-09-27,Molise,Campobasso,Campomarino,Caretta caretta,1,F,60.0,
 CSC220922TCc1,2022-09-22,Marche,Fermo,Porto Sant'Elpidio,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.7753,43.23845
 CSC220921TCc1,2022-09-21,Abruzzo,Pescara,Pescara,Caretta caretta,1,M,71.5,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.19413,42.48809
 CSC220919TCc1,2022-09-19,Sardegna,Cagliari,Villaputzu,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,9.63444,39.43694
-CSC220917TCc2,2022-09-17,Abruzzo,Teramo,Pineto,Caretta caretta,1,ND,4.1,CCL,Vivo,,,No,Centro Studi Cetacei,Chiara Profico,Centro Studi Cetacei,14.09502,42.57962
 CSC220917TCc3,2022-09-17,Abruzzo,Teramo,Pineto,Caretta caretta,1,ND,4.3,CCL,Vivo,,,No,Centro Studi Cetacei,Claudia Borgatti,Centro Studi Cetacei,14.09502,42.57962
+CSC220917TCc2,2022-09-17,Abruzzo,Teramo,Pineto,Caretta caretta,1,ND,4.1,CCL,Vivo,,,No,Centro Studi Cetacei,Chiara Profico,Centro Studi Cetacei,14.09502,42.57962
 CSC220917TCc1,2022-09-17,Abruzzo,Teramo,Pineto,Caretta caretta,1,ND,3.8,CCL,Vivo,,,No,Centro Studi Cetacei,Sergio Guccione,Centro Studi Cetacei,14.09502,42.57962
 CSC220914TCc2,2022-09-14,Sardegna,Ogliastra,Bari Sardo,Caretta caretta,1,ND,95.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,9.6798,39.82741
 CSC220914TCc1,2022-09-14,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,58.5,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.23217,42.46352
@@ -227,8 +227,8 @@ CSC220907TCc1,2022-09-07,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,47.0
 CSC220905TCc1,2022-09-05,Abruzzo,Teramo,Giulianova,Caretta caretta,1,F,62.5,CCL,Morto,,,Si,Guardia Costiera,Ludovica Di Renzo,CSC/IZSAM,13.96783,42.76005
 CSC220904TCc1,2022-09-04,Abruzzo,Teramo,Silvi,Caretta caretta,1,ND,39.0,CCL,Morto,,,ND,Guardia Costiera,Claudia Borgatti,Centro Studi Cetacei,14.12539,42.54752
 CSC220902TCc1,2022-09-02,Abruzzo,Chieti,Torino di Sangro,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Guardia Costiera,Desiree Di Loreto,ASL,14.59544,42.20955
-CSC220831TCc2,2022-08-31,Abruzzo,Teramo,Giulianova,Caretta caretta,1,ND,41.0,CCL,Morto,,,ND,Guardia Costiera,Claudia Borgatti,Centro Studi Cetacei,13.95841,42.7753
 CSC220831TCc1,2022-08-31,Molise,Campobasso,Petacciato,Caretta caretta,1,ND,40.0,CCL,Morto,,,ND,Guardia Costiera,Antonio Cappella,Guardia Costiera,14.86865,42.03105
+CSC220831TCc2,2022-08-31,Abruzzo,Teramo,Giulianova,Caretta caretta,1,ND,41.0,CCL,Morto,,,ND,Guardia Costiera,Claudia Borgatti,Centro Studi Cetacei,13.95841,42.7753
 CSC220830TCc1,2022-08-30,Molise,Campobasso,Petacciato,Caretta caretta,1,ND,41.0,CCL,Morto,,,ND,Guardia Costiera,Antonello Fazio,ASREM,14.86646,42.03188
 CSC220829TCc1,2022-08-29,Molise,Campobasso,Termoli,Caretta caretta,1,ND,58.0,CCL,Morto,,,ND,Guardia Costiera,Mario Di Nardo,ASREM,14.94444,42.01444
 CSC220822TCc1,2022-08-22,Abruzzo,Chieti,Rocca San Giovanni,Caretta caretta,1,ND,54.0,CCL,Morto,,,ND,Guardia Costiera,Gabriella Ruffini,ASL,14.49316,42.27723
@@ -241,8 +241,8 @@ CSC220807TCc1,2022-08-07,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND
 CSC220805TCc1,2022-08-05,Abruzzo,Teramo,Roseto degli Abruzzi,Caretta caretta,1,ND,56.0,CCL,Morto,,,ND,Guardia Costiera,Francesca Trenta,Centro Studi Cetacei,13.98203,42.73642
 CSC220804TCc1,2022-08-04,Abruzzo,Chieti,Ortona,Caretta caretta,1,ND,39.0,CCL,Morto,,,No,Guardia Costiera,William Di Nardo,CSC/ASL,14.42781,42.33096
 CSC220802TCc1,2022-08-02,Marche,Fermo,Fermo,Caretta caretta,1,ND,48.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.78694,43.20944
-CSC220801TCc2,2022-08-01,Molise,Campobasso,Termoli,Caretta caretta,1,ND,42.0,,Morto,,,ND,Guardia Costiera,Vincenzo Diana,ASREM,14.90497,42.01961
 CSC220801TCc1,2022-08-01,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,0.0,CCL,Morto,,,ND,Guardia Costiera,Gianluca Barbuto,Centro Studi Cetacei,15.04388,41.96791
+CSC220801TCc2,2022-08-01,Molise,Campobasso,Termoli,Caretta caretta,1,ND,42.0,,Morto,,,ND,Guardia Costiera,Vincenzo Diana,ASREM,14.90497,42.01961
 CSC220801TCc3,2022-08-01,Molise,Campobasso,Termoli,Caretta caretta,1,ND,65.0,CCL,Morto,,,ND,Guardia Costiera,Vincenzo Diana,ASREM,14.95034,42.01116
 CSC220725TCc1,2022-07-25,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,38.0,CCL,Morto,,,No,Guardia Costiera,Alessia Ioannoni,ASL,14.30285,42.41457
 CSC220722TCc1,2022-07-22,Abruzzo,Chieti,Torino di Sangro,Caretta caretta,1,ND,77.0,CCL,Morto,,,No,Guardia Costiera,Massimo Genovesi,CSC/ASL,14.58756,42.21195
@@ -255,20 +255,20 @@ CSC220713TCc1,2022-07-13,Abruzzo,Chieti,Ortona,Caretta caretta,1,ND,43.0,CCL,Mor
 CSC220713TCc2,2022-07-13,Abruzzo,Chieti,Ortona,Caretta caretta,1,ND,43.0,CCL,Morto,,,Si,Guardia Costiera,Fausto Barbone,ASL,14.34686,42.39186
 CSC220711TCc1,2022-07-11,Molise,Campobasso,Termoli,Caretta caretta,1,ND,40.0,CCL,Morto,,,Si,Guardia Costiera,Mario Di Nardo,ASREM,14.90419,42.02039
 CSC220710TCc1,2022-07-10,Marche,Ascoli Piceno,Grottammare,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.87904,42.97095
-CSC220709TCc1,2022-07-09,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,80.0,CCL,Morto,,,No,Guardia Costiera,Flavia Pagano,CSC/ASL,14.26646,42.43721
 CSC220709TCc3,2022-07-09,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,73.0,CCL,Morto,,,Si,Guardia Costiera,Desiree Di Loreto Alessia Felizzi,CSC/ASL,14.70109,42.17457
 CSC220709TCc2,2022-07-09,Abruzzo,Chieti,Ortona,Caretta caretta,1,ND,74.0,CCL,Morto,,,Si,Guardia Costiera,Flavia Pagano,CSC/ASL,14.32972,42.40044
-CSC220706TCc1,2022-07-06,Abruzzo,Teramo,Giulianova,Caretta caretta,1,ND,39.5,CCL,Morto,,,ND,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,13.96055,42.76949
+CSC220709TCc1,2022-07-09,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,80.0,CCL,Morto,,,No,Guardia Costiera,Flavia Pagano,CSC/ASL,14.26646,42.43721
 CSC220706TCc2,2022-07-06,Abruzzo,Teramo,Roseto degli Abruzzi,Caretta caretta,1,ND,29.2,CCL,Morto,,,ND,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,13.99642,42.70704
-CSC220704TCc2,2022-07-04,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,50.0,CCL,Morto,,,No,Guardia Costiera,QUINTINO ROSSI,ASL,14.75016,42.08172
+CSC220706TCc1,2022-07-06,Abruzzo,Teramo,Giulianova,Caretta caretta,1,ND,39.5,CCL,Morto,,,ND,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,13.96055,42.76949
 CSC220704TCc1,2022-07-04,Abruzzo,Teramo,Alba Adriatica,Caretta caretta,1,ND,38.5,CCL,Morto,,,ND,Guardia Costiera,Claudia Borgatti,Centro Studi Cetacei,13.93384,42.83043
+CSC220704TCc2,2022-07-04,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,50.0,CCL,Morto,,,No,Guardia Costiera,QUINTINO ROSSI,ASL,14.75016,42.08172
 CSC220703TCc1,2022-07-03,Abruzzo,Teramo,Pineto,Caretta caretta,1,F,34.0,CCL,Morto,,,ND,Guardia Costiera,Claudia Borgatti,Centro Studi Cetacei,14.05973,42.62118
 CSC220701TCc1,2022-07-01,Molise,Campobasso,Campomarino,Caretta caretta,1,F,55.0,CCL,Morto,,,ND,Guardia Costiera,Luciano Di Florio,Centro Studi Cetacei,15.06049,41.95791
 CSC220626TCc1,2022-06-26,Abruzzo,Chieti,Vasto,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Guardia Costiera,Pietro Di Taranto,CSC/ASL,14.71912,42.10425
 CSC220623TCc1,2022-06-23,Molise,Campobasso,Termoli,Caretta caretta,1,F,63.0,CCL,Morto,,,ND,Guardia Costiera,Luciano Di Florio,Centro Studi Cetacei,14.98115,42.00646
 CSC220621TCc1,2022-06-21,Abruzzo,Teramo,Silvi,Caretta caretta,1,F,40.6,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.14046,42.53602
-CSC220612TCc2,2022-06-12,Molise,Campobasso,Petacciato,Caretta caretta,1,F,60.0,CCL,Morto,,,ND,Guardia Costiera,Gianfranco Tetta,ASREM,14.83363,42.04418
 CSC220612TCc1,2022-06-12,Molise,Campobasso,Termoli,Caretta caretta,1,F,71.5,CCL,Morto,,,Si,Guardia Costiera,Gianluca Barbuto,Centro Studi Cetacei,14.92429,42.0163
+CSC220612TCc2,2022-06-12,Molise,Campobasso,Petacciato,Caretta caretta,1,F,60.0,CCL,Morto,,,ND,Guardia Costiera,Gianfranco Tetta,ASREM,14.83363,42.04418
 CSC220609TCc1,2022-06-09,Molise,Campobasso,Petacciato,Caretta caretta,1,ND,59.0,CCL,Morto,,,ND,Guardia Costiera,Gianfranco Tetta,ASREM,14.89139,42.02333
 CSC220601TCc1,2022-06-01,Abruzzo,Teramo,Pineto,Caretta caretta,1,ND,35.0,CCL,Morto,,,ND,Guardia Costiera,Claudia Borgatti,Centro Studi Cetacei,14.09615,42.57871
 CSC220530TCc1,2022-05-30,Molise,Campobasso,Campomarino,Caretta caretta,1,F,68.0,CCL,Morto,,,ND,Guardia Costiera,Giulia Mariani,Centro Studi Cetacei,15.05833,41.95995
@@ -285,8 +285,8 @@ CSC220406TCc1,2022-04-06,Emilia Romagna,Forli'-Cesena,Cesenatico,Caretta caretta
 CSC220404TCc1,2022-04-04,Emilia Romagna,Forli'-Cesena,Cesenatico,Caretta caretta,1,M,67.0,CCL,Vivo,,,Si,Motopeschereccio,Fondazione cetacea,Centro di Recupero,12.2935,44.2136
 CSC220329TCc1,2022-03-29,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,53.5,CCL,Vivo,,CSCIT280,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.33348,42.53171
 CSC220311TCc1,2022-03-11,Molise,Campobasso,Termoli,Caretta caretta,1,ND,51.0,CCL,Morto,,,ND,Guardia Costiera,Gianluca Barbuto,Centro Studi Cetacei,15.00024,41.99904
-CSC220309TCc2,2022-03-09,Emilia Romagna,Rimini,Rimini,Caretta caretta,1,ND,18.0,CCL,Vivo,,,Si,Privato cittadino,Fondazione cetacea,Centro di Recupero,12.544,44.086
 CSC220309TCc1,2022-03-09,Molise,Campobasso,Termoli,Caretta caretta,1,ND,18.0,CCL,Vivo,,CSCIT279,No,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,14.98128,42.00644
+CSC220309TCc2,2022-03-09,Emilia Romagna,Rimini,Rimini,Caretta caretta,1,ND,18.0,CCL,Vivo,,,Si,Privato cittadino,Fondazione cetacea,Centro di Recupero,12.544,44.086
 CSC220308TCc1,2022-03-08,Emilia Romagna,Rimini,Misano Adriatico,Caretta caretta,1,ND,20.0,CCL,Vivo,,,Si,Guardia Costiera,Fondazione cetacea,Centro di Recupero,12.701,46.981
 CSC220304TCc1,2022-03-04,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,51.0,CCL,Vivo,,CSCIT278,Si,Motopeschereccio,Chiara Stortini,Centro Studi Cetacei,14.29037,42.54596
 CSC220303TCc1,2022-03-03,Abruzzo,Chieti,Ortona,Caretta caretta,1,ND,57.0,CCL,Morto,,,No,Guardia Costiera,Fausto Barbone,CSC/ASL,14.439,42.31389
@@ -301,8 +301,8 @@ CSC220227TCc2,2022-02-27,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,64.0,CCL,M
 CSC220225TCc1,2022-02-25,Molise,Campobasso,Termoli,Caretta caretta,1,ND,80.0,CCL,Morto,,,ND,Guardia Costiera,Gianluca Barbuto,Centro Studi Cetacei,14.91341,42.01833
 CSC220208TCc1,2022-02-08,Lazio,Roma,Pomezia,Caretta caretta,1,ND,58.0,CCL,Morto,,,ND,Guardia Costiera,Valerio Manfrini,Ambito Rete Tarta Lazio,12.4261,41.64845
 CSC220203TCc1,2022-02-03,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,37.0,CCL,Vivo,,CSCIT275,Si,Motopeschereccio,Chiara Profico,Centro Studi Cetacei,14.30023,42.53
-CSC220119TCc1,2022-01-19,Molise,Campobasso,Termoli,Caretta caretta,1,ND,75.0,CCL,Morto,,,ND,Guardia Costiera,Gianluca Barbuto,Centro Studi Cetacei,14.98799,42.0056
 CSC220119TCc2,2022-01-19,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,68.3,CCL,Vivo,,CSCIT274,Si,Motopeschereccio,Chiara Profico,Centro Studi Cetacei,14.37226,42.45781
+CSC220119TCc1,2022-01-19,Molise,Campobasso,Termoli,Caretta caretta,1,ND,75.0,CCL,Morto,,,ND,Guardia Costiera,Gianluca Barbuto,Centro Studi Cetacei,14.98799,42.0056
 CSC220115TCc1,2022-01-15,Molise,Campobasso,Termoli,Caretta caretta,1,ND,67.0,CCL,Morto,,,ND,Guardia Costiera,Gianluca Barbuto,Centro Studi Cetacei,14.91694,42.01763
 CSC220111TCc1,2022-01-11,Marche,Macerata,Porto Recanati,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,13.6444,43.47021
 CSC220107TCc1,2022-01-07,Emilia Romagna,Rimini,Rimini,Caretta caretta,1,ND,68.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.605,44.049
@@ -318,8 +318,8 @@ CSC211220TCc1,2021-12-20,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,F,
 CSC211217TCc1,2021-12-17,Molise,Campobasso,Termoli,Caretta caretta,1,ND,52.0,CCL,Morto,,,ND,Guardia Costiera,Gianluca Barbuto,Centro Studi Cetacei,15.00036,41.99997
 CSC211210TCc2,2021-12-10,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,76.0,CCL,Vivo,,CSCIT270,Si,Motopeschereccio,Daniela Profico,Centro Studi Cetacei,14.30932,42.52806
 CSC211210TCc1,2021-12-10,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,72.0,CCL,Vivo,,CSCIT269,Si,Motopeschereccio,Chiara Profico,Centro Studi Cetacei,14.29593,42.51718
-CSC211208TCc2,2021-12-08,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,48.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.243,44.68
 CSC211208TCc1,2021-12-08,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,80.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.243,44.68
+CSC211208TCc2,2021-12-08,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,48.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.243,44.68
 CSC211203TCc1,2021-12-03,Lazio,Roma,Roma,Caretta caretta,1,ND,57.0,CCL,Morto,,,ND,Guardia Costiera,Valerio Manfrini,Ambito Rete Tarta Lazio,12.40347,41.66475
 CSC211202TCc1,2021-12-02,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,73.0,CCL,Morto,,,Si,Motopeschereccio,Chiara Profico,Centro Studi Cetacei,14.34321,42.5469
 CSC211201TCc1,2021-12-01,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,58.0,CCL,Vivo,,CSCIT268,Si,Motopeschereccio,Claudia Borgatti,Centro Studi Cetacei,14.32566,42.50869
@@ -328,76 +328,76 @@ CSC211125TCc1,2021-11-25,Abruzzo,Chieti,Ortona,Caretta caretta,1,F,78.2,CCL,Vivo
 CSC211125TCc2,2021-11-25,Abruzzo,Chieti,Ortona,Caretta caretta,1,ND,65.0,CCL,Vivo,,CSCIT266,Si,Motopeschereccio,Alfonso Chiariello,Centro Studi Cetacei,14.4774,42.42789
 CSC211124TCc2,2021-11-24,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,43.3,CCL,Vivo,,CSCIT263,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.36811,42.48152
 CSC211124TCc1,2021-11-24,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,59.5,CCL,Vivo,,CSCIT264,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.36811,42.48152
-CSC211123TCc2,2021-11-23,Emilia Romagna,Rimini,Bellaria-Igea Marina,Caretta caretta,1,ND,90.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,12.459,44.155
 CSC211123TCc3,2021-11-23,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.24055,44.70055
+CSC211123TCc2,2021-11-23,Emilia Romagna,Rimini,Bellaria-Igea Marina,Caretta caretta,1,ND,90.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,12.459,44.155
 CSC211120TCc2,2021-11-20,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.25166,44.67444
 CSC211120TCc1,2021-11-20,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,60.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.25166,44.67444
-CSC211118TCc1,2021-11-18,Emilia Romagna,Forli'-Cesena,Cesenatico,Caretta caretta,1,F,75.0,CCL,Vivo,,,Si,Motopeschereccio,Fondazione cetacea,Centro di Recupero,12.32151,44.17165
 CSC211118TCc2,2021-11-18,Emilia Romagna,Rimini,Bellaria-Igea Marina,Caretta caretta,1,ND,65.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.458,44.156
-CSC211117TCc2,2021-11-17,Marche,Ancona,Falconara Marittima,Caretta caretta,1,ND,85.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,13.35637,43.64794
-CSC211117TCc1,2021-11-17,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,68.8,CCL,Vivo,,CSCIT262,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.37937,42.46165
-CSC211117TCc3,2021-11-17,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,68.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.251,44.674
+CSC211118TCc1,2021-11-18,Emilia Romagna,Forli'-Cesena,Cesenatico,Caretta caretta,1,F,75.0,CCL,Vivo,,,Si,Motopeschereccio,Fondazione cetacea,Centro di Recupero,12.32151,44.17165
 CSC211117TCc6,2021-11-17,Abruzzo,Teramo,Martinsicuro,Caretta caretta,1,M,72.0,CCL,Morto,,,ND,Guardia Costiera,Ludovica Di Renzo,CSC/IZSAM,13.92337,42.87345
+CSC211117TCc3,2021-11-17,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,68.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.251,44.674
 CSC211117TCc4,2021-11-17,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,68.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.25,44.671
+CSC211117TCc1,2021-11-17,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,68.8,CCL,Vivo,,CSCIT262,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.37937,42.46165
 CSC211117TCc5,2021-11-17,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,65.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.25,44.674
-CSC211116TCc3,2021-11-16,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.2425,44.72916
+CSC211117TCc2,2021-11-17,Marche,Ancona,Falconara Marittima,Caretta caretta,1,ND,85.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,13.35637,43.64794
+CSC211116TCc1,2021-11-16,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,62.5,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.1895,42.49083
 CSC211116TCc5,2021-11-16,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,42.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.242,44.685
+CSC211116TCc3,2021-11-16,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.2425,44.72916
 CSC211116TCc4,2021-11-16,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,46.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.243,44.682
 CSC211116TCc6,2021-11-16,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,57.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.243,44.682
 CSC211116TCc7,2021-11-16,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,40.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.243,44.678
 CSC211116TCc2,2021-11-16,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,77.0,CCL,Morto,,,No,Guardia Costiera,Fausto Barbone,CSC/ASL,14.25607,42.44334
-CSC211116TCc1,2021-11-16,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,62.5,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.1895,42.49083
 CSC211114TCc1,2021-11-14,Molise,Campobasso,Termoli,Caretta caretta,1,ND,66.3,CCL,Morto,,,Si,Privato cittadino,Gianluca Barbuto,Centro Studi Cetacei,14.96626,42.00864
 CSC211113TCc1,2021-11-13,Abruzzo,Chieti,Fossacesia,Caretta caretta,1,ND,25.0,CCL,Vivo,,CSCIT261,ND,Privato cittadino,Chiara Profico,Centro Studi Cetacei,14.53749,42.23745
 CSC211111TCc1,2021-11-11,Marche,Ancona,Ancona,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.59474,43.56531
-CSC211110TCc3,2021-11-10,Marche,Ancona,Ancona,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.505,43.626
 CSC211110TCc1,2021-11-10,Molise,Campobasso,Termoli,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Guardia Costiera,Gaetano Piermatteo,ASREM,14.96312,42.00876
 CSC211110TCc2,2021-11-10,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,81.2,CCL,Vivo,CSCIT218,CSCIT218,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.283,42.50927
+CSC211110TCc3,2021-11-10,Marche,Ancona,Ancona,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.505,43.626
 CSC211109TCc1,2021-11-09,Molise,Campobasso,Termoli,Caretta caretta,1,ND,58.0,CCL,Morto,,,ND,Guardia Costiera,Gianluca Barbuto,Centro Studi Cetacei,14.9139,42.01828
 CSC211106TCc1,2021-11-06,Abruzzo,Teramo,Roseto degli Abruzzi,Caretta caretta,1,F,71.0,CCL,Morto,,,Si,Privato cittadino,Claudia Borgatti,Centro Studi Cetacei,14.02068,42.67513
 CSC211105TCc1,2021-11-05,Emilia Romagna,Forli'-Cesena,Cesenatico,Caretta caretta,1,ND,49.0,CCL,Vivo,,,Si,Motopeschereccio,Fondazione cetacea,Centro di Recupero,12.32,44.171
 CSC211104TCc1,2021-11-04,Abruzzo,Teramo,Pineto,Caretta caretta,1,M,55.0,CCL,Morto,,,Si,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,14.04566,42.64252
 CSC211104TCc2,2021-11-04,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,64.2,CCL,Vivo,,CSCIT260,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.37394,42.44688
-CSC211103TCc2,2021-11-03,Emilia Romagna,Ravenna,Ravenna,Caretta caretta,1,ND,81.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.27,44.624
 CSC211103TCc1,2021-11-03,Marche,Pesaro e Urbino,Fano,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.0,43.857
 CSC211103TCc3,2021-11-03,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,43.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.242,44.728
 CSC211103TCc4,2021-11-03,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,70.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.26,44.641
+CSC211103TCc2,2021-11-03,Emilia Romagna,Ravenna,Ravenna,Caretta caretta,1,ND,81.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.27,44.624
+CSC211102TCc2,2021-11-02,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,76.0,CCL,Vivo,,CSCIT259,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.28506,42.51006
 CSC211102TCc3,2021-11-02,Abruzzo,Chieti,Rocca San Giovanni,Caretta caretta,1,ND,68.0,CCL,Morto,15888,,No,Guardia Costiera,Rexhep Sali,CSC/ASL,14.5011,42.2653
 CSC211102TCc1,2021-11-02,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,ND,51.3,CCL,Morto,,,ND,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,14.16352,42.51602
-CSC211102TCc2,2021-11-02,Abruzzo,Pescara,Pescara,Caretta caretta,1,F,76.0,CCL,Vivo,,CSCIT259,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.28506,42.51006
-CSC211030TCc2,2021-10-30,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.264,44.636
 CSC211030TCc1,2021-10-30,Abruzzo,Chieti,Ortona,Caretta caretta,1,ND,21.8,CCL,Vivo,,CSCIT258,ND,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,14.44591,42.38243
+CSC211030TCc2,2021-10-30,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.264,44.636
+CSC211028TCc3,2021-10-28,Emilia Romagna,Rimini,Bellaria-Igea Marina,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.456,44.158
 CSC211028TCc2,2021-10-28,Abruzzo,Chieti,Comune,Caretta caretta,1,ND,40.0,CCL,Morto,1893P,,No,Guardia Costiera,Pietro Di Taranto,CSC/ASL,14.6908,42.17738
 CSC211028TCc1,2021-10-28,Abruzzo,Teramo,Silvi,Caretta caretta,1,F,49.0,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.11061,42.56193
-CSC211028TCc3,2021-10-28,Emilia Romagna,Rimini,Bellaria-Igea Marina,Caretta caretta,1,ND,50.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.456,44.158
 CSC211027TCc1,2021-10-27,Emilia Romagna,Forli'-Cesena,Cesenatico,Caretta caretta,1,ND,90.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.4248,44.18341
 CSC211025TCc1,2021-10-25,Emilia Romagna,Rimini,Bellaria-Igea Marina,Caretta caretta,1,ND,90.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.462,44.153
 CSC211024TCc1,2021-10-24,Abruzzo,Chieti,Vasto,Caretta caretta,1,M,78.0,CCL,Morto,,,No,Guardia Costiera,Fabrizio Di Fonzo,ASL,14.68913,42.17806
 CSC211021TCc1,2021-10-21,Abruzzo,Pescara,Pescara,Caretta caretta,1,M,71.5,CCL,Vivo,,CSCIT257,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.30484,42.56675
 CSC211019TCc1,2021-10-19,Abruzzo,Pescara,Pescara,Caretta caretta,1,M,51.0,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.19436,42.48764
 CSC211018TCc1,2021-10-18,Abruzzo,Teramo,Silvi,Caretta caretta,1,F,19.2,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.14043,42.53544
-CSC211016TCc2,2021-10-16,Emilia Romagna,Rimini,Bellaria-Igea Marina,Caretta caretta,1,ND,100.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.479,44.139
-CSC211016TCc3,2021-10-16,Emilia Romagna,Rimini,Riccione,Caretta caretta,1,ND,22.0,CCL,Vivo,,,Si,Guardia Costiera,Fondazione cetacea,Centro di Recupero,12.668,44.0
 CSC211016TCc1,2021-10-16,Emilia Romagna,Rimini,Rimini,Caretta caretta,1,ND,20.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.597,44.057
+CSC211016TCc3,2021-10-16,Emilia Romagna,Rimini,Riccione,Caretta caretta,1,ND,22.0,CCL,Vivo,,,Si,Guardia Costiera,Fondazione cetacea,Centro di Recupero,12.668,44.0
+CSC211016TCc2,2021-10-16,Emilia Romagna,Rimini,Bellaria-Igea Marina,Caretta caretta,1,ND,100.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.479,44.139
 CSC211015TCc1,2021-10-15,Emilia Romagna,Rimini,Rimini,Caretta caretta,1,ND,20.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.598,44.056
-CSC211014TCc4,2021-10-14,Emilia Romagna,Rimini,Riccione,Caretta caretta,1,ND,30.0,CCL,Vivo,,,Si,Guardia Costiera,Fondazione cetacea,Centro di Recupero,12.646,44.015
-CSC211014TCc1,2021-10-14,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,44.0,CCL,Morto,,,No,Guardia Costiera,William Di Nardo,CSC/ASL,14.28102,42.42804
 CSC211014TCc3,2021-10-14,Emilia Romagna,Rimini,Riccione,Caretta caretta,1,ND,20.0,CCL,Vivo,,,Si,Guardia Costiera,Fondazione cetacea,Centro di Recupero,12.65907,44.00449
+CSC211014TCc1,2021-10-14,Abruzzo,Chieti,Francavilla al Mare,Caretta caretta,1,ND,44.0,CCL,Morto,,,No,Guardia Costiera,William Di Nardo,CSC/ASL,14.28102,42.42804
 CSC211014TCc2,2021-10-14,Marche,Ancona,Falconara Marittima,Caretta caretta,1,ND,45.0,TOT,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,13.39835,43.63087
+CSC211014TCc4,2021-10-14,Emilia Romagna,Rimini,Riccione,Caretta caretta,1,ND,30.0,CCL,Vivo,,,Si,Guardia Costiera,Fondazione cetacea,Centro di Recupero,12.646,44.015
 CSC211014TCc5,2021-10-14,Emilia Romagna,Rimini,Riccione,Caretta caretta,1,ND,20.0,CCL,Vivo,,,Si,Guardia Costiera,Fondazione cetacea,Centro di Recupero,12.634,44.024
 CSC211013TCc2,2021-10-13,Emilia Romagna,Forli'-Cesena,Cesenatico,Caretta caretta,1,ND,40.0,CCL,Vivo,,,Si,Motopeschereccio,Fondazione cetacea,Centro di Recupero,12.42,44.2136
-CSC211013TCc3,2021-10-13,Emilia Romagna,Rimini,Rimini,Caretta caretta,1,ND,24.0,CCL,Vivo,,,Si,Guardia Costiera,Fondazione cetacea,Centro di Recupero,12.573,44.076
 CSC211013TCc1,2021-10-13,Emilia Romagna,Forli'-Cesena,Cesenatico,Caretta caretta,1,F,87.0,CCL,Vivo,,,Si,Motopeschereccio,Fondazione cetacea,Centro di Recupero,12.85288,44.5814
+CSC211013TCc3,2021-10-13,Emilia Romagna,Rimini,Rimini,Caretta caretta,1,ND,24.0,CCL,Vivo,,,Si,Guardia Costiera,Fondazione cetacea,Centro di Recupero,12.573,44.076
 CSC211011TCc1,2021-10-11,Marche,Pesaro e Urbino,Gabicce Mare,Caretta caretta,1,ND,20.0,CCL,Vivo,,,Si,Guardia Costiera,Fondazione cetacea,Centro di Recupero,12.752,43.97
 CSC211010TCc2,2021-10-10,Emilia Romagna,Rimini,Rimini,Caretta caretta,1,ND,19.0,CCL,Vivo,,,Si,Guardia Costiera,Fondazione cetacea,Centro di Recupero,12.59522,44.05617
-CSC211010TCc1,2021-10-10,Emilia Romagna,Rimini,Bellaria-Igea Marina,Caretta caretta,1,ND,75.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.472,44.144
 CSC211010TCc3,2021-10-10,Emilia Romagna,Rimini,Rimini,Caretta caretta,1,ND,20.0,CCL,Vivo,,,Si,Guardia Costiera,Fondazione cetacea,Centro di Recupero,12.621,44.035
-CSC211009TCc4,2021-10-09,Marche,Ancona,Ancona,Caretta caretta,1,ND,20.0,CCL,Vivo,,,Si,Guardia Costiera,Fondazione cetacea,Centro di Recupero,13.43,43.62
+CSC211010TCc1,2021-10-10,Emilia Romagna,Rimini,Bellaria-Igea Marina,Caretta caretta,1,ND,75.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.472,44.144
+CSC211009TCc1,2021-10-09,Marche,Ancona,Ancona,Caretta caretta,1,ND,25.0,TOT,Vivo,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,13.43,43.62
 CSC211009TCc2,2021-10-09,Marche,Ancona,Ancona,Caretta caretta,1,ND,60.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.45,43.61
 CSC211009TCc3,2021-10-09,Emilia Romagna,Rimini,Bellaria-Igea Marina,Caretta caretta,1,ND,22.0,CCL,Vivo,,,Si,Guardia Costiera,Fondazione cetacea,Centro di Recupero,12.46,44.155
-CSC211009TCc1,2021-10-09,Marche,Ancona,Ancona,Caretta caretta,1,ND,25.0,TOT,Vivo,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,13.43,43.62
-CSC211008TCc1,2021-10-08,Abruzzo,Teramo,Alba Adriatica,Caretta caretta,1,ND,63.0,CCL,Morto,,,ND,Guardia Costiera,Alfredo Di Domenicantonio,CSC/ASL,13.9327,42.83332
+CSC211009TCc4,2021-10-09,Marche,Ancona,Ancona,Caretta caretta,1,ND,20.0,CCL,Vivo,,,Si,Guardia Costiera,Fondazione cetacea,Centro di Recupero,13.43,43.62
 CSC211008TCc2,2021-10-08,Emilia Romagna,Rimini,Rimini,Caretta caretta,1,ND,,,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.579,44.073
+CSC211008TCc1,2021-10-08,Abruzzo,Teramo,Alba Adriatica,Caretta caretta,1,ND,63.0,CCL,Morto,,,ND,Guardia Costiera,Alfredo Di Domenicantonio,CSC/ASL,13.9327,42.83332
 CSC211007TCc1,2021-10-07,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,64.8,CCL,Vivo,,CSCIT256,Si,Privato cittadino,Chiara Profico,Centro Studi Cetacei,15.11919,41.93053
 CSC211004TCc1,2021-10-04,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,40.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Non disponibile,12.24472,44.74527
 CSC211003TCc1,2021-10-03,Emilia Romagna,Forli'-Cesena,Cesenatico,Caretta caretta,1,ND,20.0,CCL,Vivo,,,ND,Guardia Costiera,Fondazione cetacea,Centro di Recupero,12.39911,44.20736
@@ -406,15 +406,15 @@ CSC211002TCc3,2021-10-02,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,,
 CSC211002TCc2,2021-10-02,Abruzzo,Chieti,Ortona,Caretta caretta,1,ND,31.0,CCL,Morto,,,ND,Guardia Costiera,Flavia Pagano,ASL,14.38565,42.37419
 CSC211001TCc1,2021-10-01,Abruzzo,Chieti,Vasto,Caretta caretta,1,F,29.8,CCL,Vivo,,CSCIT255,Si,Privato cittadino,Chiara Profico,Centro Studi Cetacei,14.69747,42.1753
 CSC210930TCc1,2021-09-30,Emilia Romagna,Ravenna,Ravenna,Caretta caretta,1,F,83.0,CCL,Vivo,,,Si,Motopeschereccio,Fondazione cetacea,Centro di Recupero,12.32188,44.169
-CSC210929TCc1,2021-09-29,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,ND,66.0,CCL,Morto,,,ND,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,14.15357,42.52619
 CSC210929TCc2,2021-09-29,Abruzzo,Teramo,Roseto degli Abruzzi,Caretta caretta,1,ND,36.5,CCL,Morto,FC0789,,ND,Privato cittadino,Claudia Borgatti,Centro Studi Cetacei,13.98182,42.73695
+CSC210929TCc1,2021-09-29,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,ND,66.0,CCL,Morto,,,ND,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,14.15357,42.52619
 CSC210928TCc1,2021-09-28,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,ND,54.2,CCL,Morto,,,ND,Guardia Costiera,Anna Angrilli,Centro Studi Cetacei,14.17415,42.50564
 CSC210927TCc1,2021-09-27,Marche,Pesaro e Urbino,Pesaro,Caretta caretta,1,ND,32.0,CCL,Vivo,,,Si,Motopeschereccio,Fondazione cetacea,Centro di Recupero,12.95924,43.89768
 CSC210927TCc2,2021-09-27,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,53.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.25,44.672
-CSC210926TCc1,2021-09-26,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,43.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.255,44.649
 CSC210926TCc2,2021-09-26,Sardegna,Cagliari,Muravera,Caretta caretta,1,ND,80.0,CCL,Morto,,,ND,Privato cittadino,Non disponibile,Guardia Costiera,9.61,39.394
-CSC210924TCc2,2021-09-24,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,81.0,CCL,Morto,,,ND,Guardia Costiera,Gianfranco Tetta,ASREM,15.10221,41.93388
+CSC210926TCc1,2021-09-26,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,43.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.255,44.649
 CSC210924TCc3,2021-09-24,Molise,Campobasso,Campomarino,Caretta caretta,1,F,65.0,CCL,Morto,,,ND,Guardia Costiera,Gianfranco Tetta,ASREM,15.10665,41.93306
+CSC210924TCc2,2021-09-24,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,81.0,CCL,Morto,,,ND,Guardia Costiera,Gianfranco Tetta,ASREM,15.10221,41.93388
 CSC210924TCc1,2021-09-24,Molise,Campobasso,Campomarino,Caretta caretta,1,ND,70.0,CCL,Morto,,,ND,Guardia Costiera,Gianfranco Tetta,ASREM,15.09415,41.93638
 CSC210922TCc1,2021-09-22,Emilia Romagna,Forli'-Cesena,Cesenatico,Caretta caretta,1,ND,59.0,CCL,Vivo,,,Si,Motopeschereccio,Fondazione cetacea,Centro di Recupero,12.322,44.173
 CSC210922TCc2,2021-09-22,Emilia Romagna,Ferrara,Comacchio,Caretta caretta,1,ND,53.0,CCL,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.245,44.676
