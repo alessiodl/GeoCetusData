@@ -1,6 +1,6 @@
 codice,data_rilievo,regione,provincia,comune,specie,cod_specie,sesso,lunghezza_cm,tipo_lunghezza,condizioni,tag,tag_rilascio,interazione,segnalato_da,rilevatore,struttura_rilevatore,lng,lat
 CSC231228TCc1,2023-12-28,Molise,Campobasso,Termoli,Caretta caretta,1,ND,38.6,CCL,Morto,,,ND,Guardia Costiera,Gianluca Barbuto,Centro Studi Cetacei,14.9298,42.01476
-CSC231227TCc1,2023-12-27,Abruzzo,Teramo,Silvi,Caretta caretta,1,F,77.0,CCL,Vivo,,CSCIT331,Si,Motopeschereccio,Anna Angrilli,Centro di Recupero,14.20676,42.58076
+CSC231227TCc1,2023-12-27,Abruzzo,Teramo,Silvi,Caretta caretta,1,F,77.0,CCL,Vivo,,CSCIT331,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.20676,42.58076
 CSC231225TCc1,2023-12-25,Abruzzo,Teramo,Pineto,Caretta caretta,1,F,68.0,CCL,Morto,,,ND,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,14.0931,42.58155
 CSC231223TCc1,2023-12-23,Abruzzo,Pescara,Montesilvano,Caretta caretta,1,ND,43.3,CCL,Vivo,,CSCIT330,Si,Motopeschereccio,Chiara Profico,Centro Studi Cetacei,14.23015,42.56265
 CSC231221TCc1,2023-12-21,Abruzzo,Pescara,Pescara,Caretta caretta,1,ND,54.0,CCL,Vivo,,CSCIT329,Si,Motopeschereccio,Anna Angrilli,Centro Studi Cetacei,14.34058,42.54805
