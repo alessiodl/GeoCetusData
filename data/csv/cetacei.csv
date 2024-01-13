@@ -2,8 +2,8 @@ codice,data_rilievo,regione,provincia,comune,specie,cod_specie,sesso,lunghezza_c
 CSC231121CTt1,2023-11-21,Puglia,Foggia,Rodi Garganico,Tursiops truncatus,9,ND,259.0,TOT,Morto,,,ND,Privato cittadino,Alberto Abbenante,ASL,15.8416,41.925
 CSC231103CGg1,2023-11-03,Abruzzo,Chieti,Vasto,Grampus griseus,4,F,282.0,TOT,Morto,,,ND,Guardia Costiera,Fabrizio Di Fonzo,ASL,14.75124,42.08099
 CSC231103CTt1,2023-11-03,Marche,Ascoli Piceno,San Benedetto del Tronto,Tursiops truncatus,9,ND,220.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.91369,42.89676
-CSC231021CTt2,2023-10-21,Puglia,Foggia,Cagnano Varano,Tursiops truncatus,9,ND,305.0,TOT,Morto,,,ND,Guardia Costiera,Giuseppe Piacquadio,ASL,15.71309,41.91461
 CSC231021CTt1,2023-10-21,Puglia,Foggia,Ischitella,Tursiops truncatus,9,ND,260.0,TOT,Morto,,,ND,Guardia Costiera,Giuseppe Piacquadio,ASL,15.77344,41.91831
+CSC231021CTt2,2023-10-21,Puglia,Foggia,Cagnano Varano,Tursiops truncatus,9,ND,305.0,TOT,Morto,,,ND,Guardia Costiera,Giuseppe Piacquadio,ASL,15.71309,41.91461
 CSC231017CTt1,2023-10-17,Abruzzo,Teramo,Silvi,Tursiops truncatus,9,M,280.0,TOT,Morto,,,ND,Guardia Costiera,Francesca Trenta,Centro Studi Cetacei,14.10185,42.57131
 CSC231016CTt1,2023-10-16,Marche,Ascoli Piceno,San Benedetto del Tronto,Tursiops truncatus,9,M,150.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.8873,42.9496
 CSC231015CTt1,2023-10-15,Lazio,Roma,Pomezia,Tursiops truncatus,9,M,213.0,TOT,Morto,,,ND,Guardia Costiera,Luigi De Gregorio,ASL,12.46179,41.61988
@@ -23,8 +23,8 @@ CSC230425CSc1,2023-04-25,Lazio,Roma,Fiumicino,Stenella coeruleoalba,8,M,280.0,TO
 CSC230330CTt1,2023-03-30,Molise,Campobasso,Campomarino,Tursiops truncatus,9,F,150.0,TOT,Morto,,,ND,Privato cittadino,Vincenzo Gallo,Centro Studi Cetacei,15.04091,41.96976
 CSC221202CTt1,2022-12-02,Abruzzo,Teramo,Pineto,Tursiops truncatus,9,F,230.0,TOT,Morto,,,Si,Privato cittadino,Chiara Profico,Centro Studi Cetacei,14.08697,42.58799
 CSC221127CTt1,2022-11-27,Abruzzo,Teramo,Martinsicuro,Tursiops truncatus,9,F,278.0,TOT,Morto,,,No,Privato cittadino,Gabriella Di Francesco,Istituto Zooprofilattico,13.92772,42.85592
-CSC221106CTt1,2022-11-06,Abruzzo,Pescara,Pescara,Tursiops truncatus,9,ND,,,Morto,,,ND,Privato cittadino,Chiara Profico,Centro Studi Cetacei,14.1957,42.48646
 CSC221106CTt2,2022-11-06,Abruzzo,Teramo,Pineto,Tursiops truncatus,9,M,226.0,TOT,Morto,,,ND,Guardia Costiera,Chiara Profico,Centro Studi Cetacei,14.0885,42.58609
+CSC221106CTt1,2022-11-06,Abruzzo,Pescara,Pescara,Tursiops truncatus,9,ND,,,Morto,,,ND,Privato cittadino,Chiara Profico,Centro Studi Cetacei,14.1957,42.48646
 CSC221102CSc1,2022-11-02,Abruzzo,Chieti,Ortona,Stenella coeruleoalba,8,F,189.0,TOT,Morto,,,No,Guardia Costiera,Giulia Mariani,Centro Studi Cetacei,14.41415,42.34208
 CSC221013CTt1,2022-10-13,Marche,Ascoli Piceno,San Benedetto del Tronto,Tursiops truncatus,9,M,200.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,13.88745,42.95701
 CSC221011CTt1,2022-10-11,Abruzzo,Chieti,Francavilla al Mare,Tursiops truncatus,9,F,160.5,TOT,Morto,,,No,Guardia Costiera,WILLIAM DI NARDO,CSC/ASL,14.28948,42.4224
@@ -42,8 +42,8 @@ CSC220216CSc1,2022-02-16,Lazio,Viterbo,Tarquinia,Stenella coeruleoalba,8,M,190.0
 CSC220215CSc1,2022-02-15,Lazio,Viterbo,Tarquinia,Stenella coeruleoalba,8,M,130.0,TOT,Morto,,,ND,Guardia Costiera,Maria Carla Lafiandra,Ambito Rete Tarta Lazio,11.73833,42.17
 CSC220124CTt1,2022-01-24,Abruzzo,Chieti,Ortona,Tursiops truncatus,9,ND,300.0,TOT,Morto,,,No,Guardia Costiera,William Di Nardo,CSC/ASL,14.43743,42.31666
 CSC220112CDd1,2022-01-12,Abruzzo,Teramo,Roseto degli Abruzzi,Delphinus delphis,3,F,180.0,TOT,Morto,,,ND,Privato cittadino,Claudia Borgatti,Centro Studi Cetacei,14.02085,42.67475
-CSC211116CTt2,2021-11-16,Emilia Romagna,Ferrara,Comacchio,Tursiops truncatus,9,M,285.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.24,44.693
 CSC211116CTt1,2021-11-16,Abruzzo,Chieti,Francavilla al Mare,Tursiops truncatus,9,M,300.0,TOT,Morto,,,No,Guardia Costiera,William Di Nardo,CSC/ASL,14.285,42.42616
+CSC211116CTt2,2021-11-16,Emilia Romagna,Ferrara,Comacchio,Tursiops truncatus,9,M,285.0,TOT,Morto,,,ND,Guardia Costiera,Non disponibile,Guardia Costiera,12.24,44.693
 CSC211115CTt1,2021-11-15,Lazio,Viterbo,Montalto di Castro,Tursiops truncatus,9,M,296.0,TOT,Morto,,,Si,Guardia Costiera,Non disponibile,Ambito Rete Tarta Lazio,11.46141,42.37408
 CSC211109CTt1,2021-11-09,Abruzzo,Teramo,Pineto,Tursiops truncatus,9,M,230.0,TOT,Morto,,,Si,Guardia Costiera,Claudia Borgatti,Centro Studi Cetacei,14.0947,42.57938
 CSC211029CTt1,2021-10-29,Abruzzo,Teramo,Silvi,Tursiops truncatus,9,M,210.0,TOT,Morto,,,ND,Guardia Costiera,Claudia Borgatti,Centro Studi Cetacei,14.11928,42.55231
